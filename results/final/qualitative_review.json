@@ -1,0 +1,134 @@
+{
+  "method": "Assistant qualitative review, not a human-subject study. The first two prompts in the fixed evaluation suite ('The company's revenue increased' and 'Operating expenses decreased primarily due to') were reviewed for each of the nine seed-42 configurations: 18 continuations. This deterministic subset avoids selecting flattering examples, but does not cover all prompts or both seeds.",
+  "rubric": "Coherence 0–3: 0 unreadable, 1 recognizable fragments with major logical/structural problems, 2 mostly connected with limited problems, 3 clear connected prose. Financial consistency 0–3: 0 explicit contradiction or incoherent financial relationships, 1 substantial unresolved relationships, 2 mostly plausible internally with limited issues, 3 internally consistent relationships/numbers. No score establishes external factual accuracy. Truncation at the 80-token limit alone is not penalized.",
+  "limitations": "The reviewer was the coding assistant, not a blinded independent human panel. Only two prompts per configuration were rated; the all-1 coherence scores show the rubric found substantial problems in this sample, not that all models are equivalent on every prompt. Full 20-prompt outputs for both seeds remain available for independent assessment.",
+  "research_answer": "Within this corpus and fixed maximum training-exposure budget, increasing available training text from 357,288 to 1,048,452 token IDs reduced the two-seed mean selected-checkpoint test perplexity by about 20–23% at each model size. Increasing parameters from 15.46M to 49.74M reduced it by only about 4–7%, depending on dataset size. Thus expanding the curated dataset had the stronger observed prediction benefit over these roughly threefold ranges. On the largest dataset, the 29.40M and 49.74M mean test perplexities were essentially tied (58.39 versus 58.44); the larger model required more training time and memory. This is descriptive evidence, not a universal scaling law or significance claim. Qualitative review did not establish a corresponding coherence improvement: all 18 reviewed continuations had major structural/logical problems, and explicit financial contradictions remained. Every run passed only four of six narrow financial-direction probes, so those probes did not distinguish scaling configurations and do not demonstrate reliable reasoning. Validation-selected checkpoints substantially outperformed final-step checkpoints, indicating overfitting under repeated exposure. The recommended interpretation is to prioritize more high-quality domain text and validation-based stopping before further parameter growth; the current application is an educational narrative-completion prototype.",
+  "ratings": [
+    {
+      "run": "15m_small_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 1,
+      "reason": "Repetitive cash-flow and percentage clauses lose a clear financial relationship."
+    },
+    {
+      "run": "15m_small_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Explains decreased operating expenses by higher operating expenses, then drifts into malformed note references."
+    },
+    {
+      "run": "15m_medium_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 1,
+      "reason": "Malformed year text and abrupt shifts among financing, an acquisition and commercial paper."
+    },
+    {
+      "run": "15m_medium_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Expense decrease is attributed to increases without a coherent explanation; financing claims and repeated phrases follow."
+    },
+    {
+      "run": "15m_large_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "A 1.2 million increase, 11.8% growth and 19.6 billion total do not agree; invented terminology and note-reference drift."
+    },
+    {
+      "run": "15m_large_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Interest income, tax benefits and expense concepts are combined without a coherent causal explanation."
+    },
+    {
+      "run": "30m_small_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Per-share income is expressed in billions, and the stated net-income increase does not match its percentage."
+    },
+    {
+      "run": "30m_small_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "The opening expense explanation is plausible, but later amounts are malformed and a tax-rate change is stated in dollars."
+    },
+    {
+      "run": "30m_medium_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Revenue growth is tied to loosely related expense changes; acquisition timing spans incompatible years without explanation."
+    },
+    {
+      "run": "30m_medium_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Decreased expenses are explained by higher compensation costs, followed by fragmented and repeated legal/tax language."
+    },
+    {
+      "run": "30m_large_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 1,
+      "reason": "Report-like clauses are present, but gross margin, assets, currencies and revenue are linked vaguely and tautologically."
+    },
+    {
+      "run": "30m_large_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Expense reduction, operating losses and conflicting income directions are combined without a consistent explanation."
+    },
+    {
+      "run": "50m_small_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Services revenue is assigned changing growth rates without explanation; useful-life adjustments are confused with revenue."
+    },
+    {
+      "run": "50m_small_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Lower expenses are attributed to higher stock compensation; interest-expense and tax statements are then mixed inconsistently."
+    },
+    {
+      "run": "50m_medium_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Amounts, growth percentages and comparison years are inconsistent, with malformed clauses and repeated sales-volume phrases."
+    },
+    {
+      "run": "50m_medium_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Currency-volume and dollar-percent claims become nonsensical, despite recognizable report vocabulary."
+    },
+    {
+      "run": "50m_large_seed42",
+      "sample_index": 0,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Useful lives of the company and estimating goodwill for impairment are confused concepts; topic shifts lack a clear connection."
+    },
+    {
+      "run": "50m_large_seed42",
+      "sample_index": 1,
+      "coherence": 1,
+      "financial_consistency": 0,
+      "reason": "Decreased expenses are attributed to higher compensation; a claimed 635 million increase from 2,347 to 2,460 is actually 113 million."
+    }
+  ]
+}

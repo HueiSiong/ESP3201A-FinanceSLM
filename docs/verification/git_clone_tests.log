@@ -1,0 +1,10 @@
+test_archive_checksum_rejected (__main__.PublicationTests.test_archive_checksum_rejected) ... ok
+test_frozen_inputs_unchanged (__main__.PublicationTests.test_frozen_inputs_unchanged) ... ok
+test_path_traversal_rejected (__main__.PublicationTests.test_path_traversal_rejected) ... ok
+test_same_prompts_and_controls (__main__.PublicationTests.test_same_prompts_and_controls) ... ok
+test_training_cannot_overwrite_evidence (__main__.PublicationTests.test_training_cannot_overwrite_evidence) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 1.392s
+
+OK

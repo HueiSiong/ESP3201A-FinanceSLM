@@ -1,0 +1,12 @@
+{
+  "loss": 9.047340393066406,
+  "perplexity": 8495.912063326585,
+  "tokens": 256,
+  "seconds": 0.0804111999750603,
+  "partial": true,
+  "checkpoint": "work/cpu-training-smoke/best.pt",
+  "run": "15m_small_seed42",
+  "split": "test",
+  "device": "cpu",
+  "torch": "2.3.1+cpu"
+}

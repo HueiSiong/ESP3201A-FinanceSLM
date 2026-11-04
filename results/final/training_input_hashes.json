@@ -1,0 +1,17 @@
+{
+  "data\\final\\finance_tokenizer.json": "e2a143c23b63579dc318d00bbd4b29ef0a8e16276755d41386001c6a327a15a5",
+  "data\\final\\manifest.json": "ad990ecdcba71a7170452d0e122cd9692cfbed4be0aa1ffd9ca6a62fd543d4f6",
+  "data\\final\\test.jsonl": "d4f7a1776af53c6ed39754f4bd290575be1a5a90a0a653381d8251075590ec72",
+  "data\\final\\test.npy": "60f34cfc4f0ca320288fb7931e3b3772cc3333a9d0469abdc0567720ed33dc45",
+  "data\\final\\test_documents.json": "9dfcdea807302803737b992963360560e751b236d5f86ec7c5cd371371d3dde9",
+  "data\\final\\train.jsonl": "47cf7da14141e853764c0ba50a49b0eba2c71ea1dc8d29177f483d0383266390",
+  "data\\final\\train_large.jsonl": "c1d4021cffb034021162b13e301e45ef27bb3e5c6977294353792dc423df771a",
+  "data\\final\\train_large.npy": "6785a8c3f8dfdb0cc36d3eccf664da0bdf5a06a8df26c9b955f862e011f7cff1",
+  "data\\final\\train_medium.jsonl": "5d471cf7550f1eb4b7c8ab8286ac89859e3bc458922f3e6b551dadda37aaba84",
+  "data\\final\\train_medium.npy": "753f08b0bd823a6a52adeb126950f3995bdea189bcea0bbbae807bf315ccdd4b",
+  "data\\final\\train_small.jsonl": "64e5ea5516003eee8e25568628f1fe66c1636a4e9a14fcf68a42ee33697608c5",
+  "data\\final\\train_small.npy": "e9b27a89f2191720fda8aac1774a714c851ab8ee41ecfb5a72e3f639fc24969c",
+  "data\\final\\validation.jsonl": "896da71df0733cefdca3bc7a1f3e5349fb9ef18578efaac8078d6e30660e66fc",
+  "data\\final\\validation.npy": "2b720d1c4c8c920d8b3ce6ec37f794546a046a278431cf5a7a3e14ae16db8a1b",
+  "data\\final\\validation_documents.json": "59011e4003a294381b70e167580110842e0dce6cce38752d96018d09a89ecbc5"
+}

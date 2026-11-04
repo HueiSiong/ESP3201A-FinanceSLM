@@ -1,0 +1,119 @@
+{
+  "loss": 4.164799380970338,
+  "perplexity": 64.3797653417448,
+  "tokens": 128685,
+  "seconds": 4.813917100022081,
+  "documents": [
+    {
+      "ticker": "AAPL",
+      "year": 2025,
+      "nll_sum": 11974.400454998016,
+      "tokens": 3195,
+      "loss": 3.7478561674485182
+    },
+    {
+      "ticker": "AAPL",
+      "year": 2024,
+      "nll_sum": 7689.236934661865,
+      "tokens": 2174,
+      "loss": 3.536907513643912
+    },
+    {
+      "ticker": "AAPL",
+      "year": 2023,
+      "nll_sum": 8087.335141181946,
+      "tokens": 2388,
+      "loss": 3.386656256776359
+    },
+    {
+      "ticker": "AAPL",
+      "year": 2022,
+      "nll_sum": 9388.125159978867,
+      "tokens": 2575,
+      "loss": 3.6458738485354822
+    },
+    {
+      "ticker": "AAPL",
+      "year": 2021,
+      "nll_sum": 9499.271667480469,
+      "tokens": 2816,
+      "loss": 3.3733209046450527
+    },
+    {
+      "ticker": "AMZN",
+      "year": 2025,
+      "nll_sum": 33276.21585607529,
+      "tokens": 8161,
+      "loss": 4.077467939722496
+    },
+    {
+      "ticker": "AMZN",
+      "year": 2024,
+      "nll_sum": 23290.052083969116,
+      "tokens": 5736,
+      "loss": 4.060329861221952
+    },
+    {
+      "ticker": "AMZN",
+      "year": 2023,
+      "nll_sum": 16065.783868789673,
+      "tokens": 4108,
+      "loss": 3.9108529378747985
+    },
+    {
+      "ticker": "AMZN",
+      "year": 2022,
+      "nll_sum": 23366.591180324554,
+      "tokens": 5775,
+      "loss": 4.046162974947975
+    },
+    {
+      "ticker": "AMZN",
+      "year": 2021,
+      "nll_sum": 26898.822140693665,
+      "tokens": 6597,
+      "loss": 4.077432490631145
+    },
+    {
+      "ticker": "KO",
+      "year": 2025,
+      "nll_sum": 91521.0648984909,
+      "tokens": 20988,
+      "loss": 4.360637740541781
+    },
+    {
+      "ticker": "KO",
+      "year": 2024,
+      "nll_sum": 67484.45270371437,
+      "tokens": 15621,
+      "loss": 4.320110921433606
+    },
+    {
+      "ticker": "KO",
+      "year": 2023,
+      "nll_sum": 53889.72819375992,
+      "tokens": 12762,
+      "loss": 4.2226710698761885
+    },
+    {
+      "ticker": "KO",
+      "year": 2022,
+      "nll_sum": 71144.76536226273,
+      "tokens": 16899,
+      "loss": 4.209998542059455
+    },
+    {
+      "ticker": "KO",
+      "year": 2021,
+      "nll_sum": 82371.36269378662,
+      "tokens": 18890,
+      "loss": 4.360580343768482
+    }
+  ],
+  "partial": false,
+  "checkpoint": "work/retrained-15m-large-seed42/best.pt",
+  "run": "15m_large_seed42",
+  "split": "test",
+  "device": "cuda",
+  "torch": "2.3.1+cu118"
+}

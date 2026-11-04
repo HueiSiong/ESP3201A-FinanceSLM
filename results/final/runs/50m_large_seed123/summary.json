@@ -1,0 +1,26 @@
+{
+  "run": "50m_large_seed123",
+  "model": "50m",
+  "budget": "large",
+  "seed": 123,
+  "config": {
+    "vocab_size": 8000,
+    "dim": 640,
+    "n_layers": 9,
+    "n_heads": 10,
+    "max_seq_len": 256
+  },
+  "parameters": 49737600,
+  "steps": 3072,
+  "training_stream_tokens": 1048452,
+  "training_tokens_processed": 12582912,
+  "equivalent_passes": 12.001419235215346,
+  "selected_step": 768,
+  "selected_validation_probe_loss": 4.5127514690160755,
+  "seconds": 316.3821482999774,
+  "training_tokens_per_second_including_validation": 39771.245209668166,
+  "peak_allocated_gib": 2.303685188293457,
+  "peak_reserved_gib": 2.376953125,
+  "checkpoint": "checkpoints\\final\\50m_large_seed123.pt",
+  "final_checkpoint": "checkpoints\\final\\50m_large_seed123_last.pt"
+}

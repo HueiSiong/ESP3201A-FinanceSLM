@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "checks": {
+    "backend_matches_evaluated_sample": true,
+    "backend_fixed_seed_repeatable": true,
+    "blank_prompt_rejected": true,
+    "invalid_temperature_rejected": true,
+    "invalid_length_rejected": true,
+    "invalid_seed_rejected": true,
+    "mismatched_tokenizer_rejected": true,
+    "long_prompt_truncated": true,
+    "cpu_inference": true,
+    "original_still_loads": true,
+    "interim_still_loads": true,
+    "browser_matches_evaluated_sample": true,
+    "browser_blank_prompt_validation": true,
+    "browser_recovery": true,
+    "mobile_no_horizontal_overflow": true,
+    "browser_no_javascript_errors": true,
+    "api_switch_15.46M / small dataset": true,
+    "api_switch_49.74M / large dataset": true
+  },
+  "url": "http://127.0.0.1:7862",
+  "selected_run": "50m_large_seed123",
+  "browser_errors": [],
+  "cpu_generated_tokens": 8,
+  "first_continuation": " $2.0 billion, or 16%, in the year ended December 31, 2023 as compared to the year ended December 31, 2021. The change was primarily due to an increase in subscription revenue.\n\nTotal revenue increased 9 percent, primarily attributable to an increase in billed business of 17 percent due to growth in advertising revenue, partially offset by a decrease in volume of our content assets as discussed above"
+}

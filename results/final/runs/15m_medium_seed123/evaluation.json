@@ -1,0 +1,645 @@
+{
+  "run": "15m_medium_seed123",
+  "model": "15m",
+  "budget": "medium",
+  "seed": 123,
+  "config": {
+    "vocab_size": 8000,
+    "dim": 384,
+    "n_layers": 7,
+    "n_heads": 6,
+    "max_seq_len": 256
+  },
+  "parameters": 15464064,
+  "steps": 3072,
+  "training_stream_tokens": 706370,
+  "training_tokens_processed": 12582912,
+  "equivalent_passes": 17.813485850191825,
+  "selected_step": 768,
+  "selected_validation_probe_loss": 4.645118981599808,
+  "seconds": 145.18680239998503,
+  "training_tokens_per_second_including_validation": 86667.0509440278,
+  "peak_allocated_gib": 1.1738452911376953,
+  "peak_reserved_gib": 1.291015625,
+  "checkpoint": "checkpoints\\final\\15m_medium_seed123.pt",
+  "final_checkpoint": "checkpoints\\final\\15m_medium_seed123_last.pt",
+  "validation": {
+    "loss": 4.098827406160045,
+    "perplexity": 60.269574414847725,
+    "tokens": 86794,
+    "seconds": 3.1151821999810636,
+    "documents": [
+      {
+        "ticker": "NVDA",
+        "year": 2025,
+        "loss": 4.282803464350432,
+        "nll_sum": 29063.10430908203,
+        "tokens": 6786
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2024,
+        "loss": 4.295424661770253,
+        "nll_sum": 27533.672081947327,
+        "tokens": 6410
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2023,
+        "loss": 4.2075836989932185,
+        "nll_sum": 26331.05878829956,
+        "tokens": 6258
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2022,
+        "loss": 4.464912042264171,
+        "nll_sum": 30464.09486436844,
+        "tokens": 6823
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2021,
+        "loss": 4.359156046802805,
+        "nll_sum": 31420.796785354614,
+        "tokens": 7208
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2025,
+        "loss": 4.027680716697186,
+        "nll_sum": 49854.63191127777,
+        "tokens": 12378
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2024,
+        "loss": 3.7823903799298075,
+        "nll_sum": 29926.27268600464,
+        "tokens": 7912
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2023,
+        "loss": 3.9080439987921793,
+        "nll_sum": 37513.31434440613,
+        "tokens": 9599
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2022,
+        "loss": 3.8851124038739937,
+        "nll_sum": 42444.85301232338,
+        "tokens": 10925
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2021,
+        "loss": 4.0977852826883625,
+        "nll_sum": 51201.827107191086,
+        "tokens": 12495
+      }
+    ]
+  },
+  "test": {
+    "loss": 4.18661740481791,
+    "perplexity": 65.79983987501564,
+    "tokens": 128685,
+    "seconds": 4.613050899992231,
+    "documents": [
+      {
+        "ticker": "AAPL",
+        "year": 2025,
+        "loss": 3.9202255640791055,
+        "nll_sum": 12525.120677232742,
+        "tokens": 3195
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2024,
+        "loss": 3.6374915328284634,
+        "nll_sum": 7907.90659236908,
+        "tokens": 2174
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2023,
+        "loss": 3.479109605952124,
+        "nll_sum": 8308.113739013672,
+        "tokens": 2388
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2022,
+        "loss": 3.705572525135522,
+        "nll_sum": 9541.849252223969,
+        "tokens": 2575
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2021,
+        "loss": 3.4752905152060767,
+        "nll_sum": 9786.418090820312,
+        "tokens": 2816
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2025,
+        "loss": 4.064476721398664,
+        "nll_sum": 33170.1945233345,
+        "tokens": 8161
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2024,
+        "loss": 4.054242591645096,
+        "nll_sum": 23255.13550567627,
+        "tokens": 5736
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2023,
+        "loss": 3.845968843551086,
+        "nll_sum": 15799.240009307861,
+        "tokens": 4108
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2022,
+        "loss": 3.9878758304150073,
+        "nll_sum": 23029.982920646667,
+        "tokens": 5775
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2021,
+        "loss": 4.065448800234861,
+        "nll_sum": 26819.765735149384,
+        "tokens": 6597
+      },
+      {
+        "ticker": "KO",
+        "year": 2025,
+        "loss": 4.383652425616588,
+        "nll_sum": 92004.09710884094,
+        "tokens": 20988
+      },
+      {
+        "ticker": "KO",
+        "year": 2024,
+        "loss": 4.354653270607392,
+        "nll_sum": 68024.03874015808,
+        "tokens": 15621
+      },
+      {
+        "ticker": "KO",
+        "year": 2023,
+        "loss": 4.253226373360422,
+        "nll_sum": 54279.674976825714,
+        "tokens": 12762
+      },
+      {
+        "ticker": "KO",
+        "year": 2022,
+        "loss": 4.2263998402894,
+        "nll_sum": 71421.93090105057,
+        "tokens": 16899
+      },
+      {
+        "ticker": "KO",
+        "year": 2021,
+        "loss": 4.387580305259022,
+        "nll_sum": 82881.39196634293,
+        "tokens": 18890
+      }
+    ]
+  },
+  "final_step_test": {
+    "loss": 5.066306504416948,
+    "perplexity": 158.58750205374486,
+    "tokens": 128685,
+    "seconds": 4.464267300005304,
+    "documents": [
+      {
+        "ticker": "AAPL",
+        "year": 2025,
+        "loss": 4.535641276668495,
+        "nll_sum": 14491.373878955841,
+        "tokens": 3195
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2024,
+        "loss": 4.352250082512569,
+        "nll_sum": 9461.791679382324,
+        "tokens": 2174
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2023,
+        "loss": 4.2246532000888335,
+        "nll_sum": 10088.471841812134,
+        "tokens": 2388
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2022,
+        "loss": 4.339495722761432,
+        "nll_sum": 11174.201486110687,
+        "tokens": 2575
+      },
+      {
+        "ticker": "AAPL",
+        "year": 2021,
+        "loss": 4.015573609958995,
+        "nll_sum": 11307.855285644531,
+        "tokens": 2816
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2025,
+        "loss": 4.909860108416099,
+        "nll_sum": 40069.36834478378,
+        "tokens": 8161
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2024,
+        "loss": 4.932484287597146,
+        "nll_sum": 28292.729873657227,
+        "tokens": 5736
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2023,
+        "loss": 4.7095552519210475,
+        "nll_sum": 19346.852974891663,
+        "tokens": 4108
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2022,
+        "loss": 4.886244294880789,
+        "nll_sum": 28218.060802936554,
+        "tokens": 5775
+      },
+      {
+        "ticker": "AMZN",
+        "year": 2021,
+        "loss": 4.9083033029429926,
+        "nll_sum": 32380.076889514923,
+        "tokens": 6597
+      },
+      {
+        "ticker": "KO",
+        "year": 2025,
+        "loss": 5.313982734912823,
+        "nll_sum": 111529.86964035034,
+        "tokens": 20988
+      },
+      {
+        "ticker": "KO",
+        "year": 2024,
+        "loss": 5.279777999922741,
+        "nll_sum": 82475.41213679314,
+        "tokens": 15621
+      },
+      {
+        "ticker": "KO",
+        "year": 2023,
+        "loss": 5.1966750267212936,
+        "nll_sum": 66319.96669101715,
+        "tokens": 12762
+      },
+      {
+        "ticker": "KO",
+        "year": 2022,
+        "loss": 5.111391766747537,
+        "nll_sum": 86377.40946626663,
+        "tokens": 16899
+      },
+      {
+        "ticker": "KO",
+        "year": 2021,
+        "loss": 5.31626318310101,
+        "nll_sum": 100424.21152877808,
+        "tokens": 18890
+      }
+    ]
+  },
+  "final_step_validation": {
+    "loss": 4.886027724887874,
+    "perplexity": 132.42649342570175,
+    "tokens": 86794,
+    "seconds": 3.019014999998035,
+    "documents": [
+      {
+        "ticker": "NVDA",
+        "year": 2025,
+        "loss": 5.086179081683239,
+        "nll_sum": 34514.81124830246,
+        "tokens": 6786
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2024,
+        "loss": 5.085605742518504,
+        "nll_sum": 32598.73280954361,
+        "tokens": 6410
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2023,
+        "loss": 5.022747410719065,
+        "nll_sum": 31432.353296279907,
+        "tokens": 6258
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2022,
+        "loss": 5.221210895003277,
+        "nll_sum": 35624.32193660736,
+        "tokens": 6823
+      },
+      {
+        "ticker": "NVDA",
+        "year": 2021,
+        "loss": 5.144478791032594,
+        "nll_sum": 37081.40312576294,
+        "tokens": 7208
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2025,
+        "loss": 4.821542142068922,
+        "nll_sum": 59681.048634529114,
+        "tokens": 12378
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2024,
+        "loss": 4.589438962261404,
+        "nll_sum": 36311.64106941223,
+        "tokens": 7912
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2023,
+        "loss": 4.720885639824536,
+        "nll_sum": 45315.78125667572,
+        "tokens": 9599
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2022,
+        "loss": 4.641581459569167,
+        "nll_sum": 50709.27744579315,
+        "tokens": 10925
+      },
+      {
+        "ticker": "PYPL",
+        "year": 2021,
+        "loss": 4.866628213766433,
+        "nll_sum": 60808.51953101158,
+        "tokens": 12495
+      }
+    ]
+  },
+  "samples": [
+    {
+      "prompt": "The company's revenue increased",
+      "continuation": " by $9,714 million, to $1,21 million driven by increases in retail volumes.\n\nCash and other expenses increased by $3,664 million, primarily due to an increase in the absence of property and equipment and higher costs related to the sale of FoA as well as higher cash provided by operating activities of $2,326 million due to an increase in",
+      "generated_tokens": 80,
+      "seconds": 0.7302674000093248,
+      "distinct_2": 0.9344262295081968,
+      "distinct_3": 0.95,
+      "repeated_trigram_rate": 0.050000000000000044
+    },
+    {
+      "prompt": "Operating expenses decreased primarily due to",
+      "continuation": " a decrease in marketing costs.\n\nRevenues for fiscal 2023 decreased 20%, or $0.5 billion, to $7.1 billion, due to an increase in operating income, largely due to an increase in marketing costs, partially offset by higher spending on the current year compared to the prior year.\n\nOperating income was $12.4 billion, an increase of 0.1% and",
+      "generated_tokens": 80,
+      "seconds": 0.7084963000088464,
+      "distinct_2": 0.864406779661017,
+      "distinct_3": 0.9310344827586207,
+      "repeated_trigram_rate": 0.06896551724137934
+    },
+    {
+      "prompt": "Net income for the financial year",
+      "continuation": " ended December 31, 2022, was primarily due to a $218 million increase in interest expense primarily related to interest expense, partially offset by a $91 million increase in interest expense and a $633 million decrease in loans and fees, partially offset by a $1,194 million decrease in average personnel costs.\n\nWe a $2,67 million increase in costs of $",
+      "generated_tokens": 80,
+      "seconds": 0.7109618999820668,
+      "distinct_2": 0.7966101694915254,
+      "distinct_3": 0.8793103448275862,
+      "repeated_trigram_rate": 0.12068965517241381
+    },
+    {
+      "prompt": "Cash flows from operating activities",
+      "continuation": " to fiscal 2024 was due to increases in earnings and cash used for short-term investments in repurchases of our investments in fiscal 2023, and higher cash provided by operating activities of financing activities of $2.6 billion primarily due to the repayment of debt in fiscal 2022, and higher cash used for capital expenditures, higher cash used for capital expenditures, higher purchases of net issuance of debt, partially offset by lower",
+      "generated_tokens": 80,
+      "seconds": 0.7284046999993734,
+      "distinct_2": 0.7887323943661971,
+      "distinct_3": 0.9,
+      "repeated_trigram_rate": 0.09999999999999998
+    },
+    {
+      "prompt": "The company's liquidity position",
+      "continuation": " of the Company’s long- and we did not have a material cost.\n\nThe Company is no capital markets that has not yet into in the inventory obligations and the Company’s consolidated, 2023 and 2020, respectively. The Company’s operating cash flows are not included in the Company’s financial condition and results of operations.\n\nWe have no funding through the Company’s financial",
+      "generated_tokens": 80,
+      "seconds": 0.7328097999852616,
+      "distinct_2": 0.828125,
+      "distinct_3": 0.9206349206349206,
+      "repeated_trigram_rate": 0.07936507936507942
+    },
+    {
+      "prompt": "Total assets increased as a result of",
+      "continuation": " the acquisition of the business, net from an amortization of our equity investments. These changes were partially offset by lower amortization of intangible assets.\n\nWe do not expect that we are subject to the restructuring and restructuring initiatives we anticipate that we expect to continue to continue to recognize the charges of its business operating costs, primarily related to our cloud services and license and other content we incurred in connection with our products",
+      "generated_tokens": 80,
+      "seconds": 0.7007267999870237,
+      "distinct_2": 0.9452054794520548,
+      "distinct_3": 0.9861111111111112,
+      "repeated_trigram_rate": 0.01388888888888884
+    },
+    {
+      "prompt": "The decline in gross profit was attributable to",
+      "continuation": " lower average price and lower average mix.\n\n• U.S. GAAP operating income increased 22%, or $6.2 billion, to $15.5 billion, due to a decrease of 6%.\n\n• In fiscal 2019, our research and development and development expenses was driven by increases in infrastructure and other expenses, partially offset by lower average debt and acquisitions.\n\nThe net decrease",
+      "generated_tokens": 80,
+      "seconds": 0.701440900011221,
+      "distinct_2": 0.9473684210526315,
+      "distinct_3": 1.0,
+      "repeated_trigram_rate": 0.0
+    },
+    {
+      "prompt": "Management expects revenue growth to",
+      "continuation": " our business.\n\nAs of our AI Cloud Cloud revenue increased by $7.7 billion, or 9%, compared to $1.4 billion in the prior year. The increase in operating expenses was primarily due to a $916 million increase in employee compensation expenses, a $18 million increase in operating expenses primarily due to a $67 million increase in insurance expense primarily due to a $",
+      "generated_tokens": 80,
+      "seconds": 0.6972559999849182,
+      "distinct_2": 0.7903225806451613,
+      "distinct_3": 0.8688524590163934,
+      "repeated_trigram_rate": 0.1311475409836066
+    },
+    {
+      "prompt": "Capital expenditures during the year",
+      "continuation": " ended December 31, 2025. As of December 31, 2025, we had no outstanding investments of $3.0 billion, $2.5 billion and $2.6 billion, respectively, of $3.2 billion and $7.5 billion, respectively, related to the acquisitions of an aggregate principal amount of $2.6 billion. The amount of asset is primarily in the equity-",
+      "generated_tokens": 80,
+      "seconds": 0.7043282999948133,
+      "distinct_2": 0.8392857142857143,
+      "distinct_3": 0.9636363636363636,
+      "repeated_trigram_rate": 0.036363636363636376
+    },
+    {
+      "prompt": "The company reported an operating loss",
+      "continuation": " of $9.0 billion, from $11.9 billion on the increase in net income (in millions, primarily attributable to a $3.6 billion increase in depreciation and amortization, a $8.8 billion increase in share expense, partially offset by a $1.1 billion increase in marketing and marketing expenses.\n\nOperating expenses as a percentage of net due to a $188",
+      "generated_tokens": 80,
+      "seconds": 0.7051950999884866,
+      "distinct_2": 0.8983050847457628,
+      "distinct_3": 0.9655172413793104,
+      "repeated_trigram_rate": 0.03448275862068961
+    },
+    {
+      "prompt": "Interest expenses increased due to",
+      "continuation": " higher interest rates, offset by lower interest rates.\n\n(f) Represents the prior year, which includes interest rates based on our cash flow, cash equivalents and short-term investments, cash and cash equivalents and short-term investments .\n\nThe Company’s cash equivalents and short-term debt were $6.0 billion as of December 31, 2024 and for an aggregate principal amount of",
+      "generated_tokens": 80,
+      "seconds": 0.7014845999947283,
+      "distinct_2": 0.8166666666666667,
+      "distinct_3": 0.8813559322033898,
+      "repeated_trigram_rate": 0.11864406779661019
+    },
+    {
+      "prompt": "The effective tax rate decreased because",
+      "continuation": " a result of the U.S. A valuation allowance is primarily for more than 1.5% change in the current year and prior year, partially offset by a negative impact of higher average ticket prices. See Note 2 to the Consolidated Financial Statements for further information on our non-GAAP financial measures.\n\nThe Company’s operating cash flow and access to the debt with a corresponding increase of approximately",
+      "generated_tokens": 80,
+      "seconds": 0.7238235000113491,
+      "distinct_2": 0.9852941176470589,
+      "distinct_3": 1.0,
+      "repeated_trigram_rate": 0.0
+    },
+    {
+      "prompt": "The company's financial performance was affected by",
+      "continuation": " the Company’s consolidated financial statements and the impacts of the Company’s Discussion and Analysis of a U.S. GAAP, which the Company is not used to maintain a significant impact on the results of our operations and financial condition. As a result, the Company announced that a non-GAAP net income or loss related to the Company’s business operations and related to a higher level of goodwill or",
+      "generated_tokens": 80,
+      "seconds": 0.713921799993841,
+      "distinct_2": 0.8857142857142857,
+      "distinct_3": 0.9710144927536232,
+      "repeated_trigram_rate": 0.02898550724637683
+    },
+    {
+      "prompt": "Revenue from international operations",
+      "continuation": ".\n\nThe increase in the following table summarizes our operating income decreased by 1% to $0.7 billion from the prior year, primarily driven by an increase in loans and receivables, to a lesser extent, higher average price associated with the COVID-19 pandemic.\n\nThe increase in employee compensation costs was due to a decrease in compensation and equipment costs at ESPN in the prior year. The",
+      "generated_tokens": 80,
+      "seconds": 0.7055243000213522,
+      "distinct_2": 0.8923076923076924,
+      "distinct_3": 0.96875,
+      "repeated_trigram_rate": 0.03125
+    },
+    {
+      "prompt": "The increase in research and development expenses",
+      "continuation": " was primarily due to a $515 million increase in employee-related costs in the first quarter of 2025.\n\nDuring the year, we expect income of $121 million in the year ended December 31, 2025 as compared to $1,784 million of $1,201 million in 2022 and $1,640 million in 2022. The higher income tax expense in the year",
+      "generated_tokens": 80,
+      "seconds": 0.7043589999957476,
+      "distinct_2": 0.8813559322033898,
+      "distinct_3": 0.9655172413793104,
+      "repeated_trigram_rate": 0.03448275862068961
+    },
+    {
+      "prompt": "The company's outstanding debt obligations",
+      "continuation": " and other, net of interest-market of 1.7%, adjusted for the prior year, and net income, net, was $3.5 billion and $1.5 billion, respectively. We generally expect to provide a number of financial performance, including our business, operations and operating lease payments, to a lesser extent, changes in the future, and marketing and marketing activities.\n\n",
+      "generated_tokens": 80,
+      "seconds": 0.7091067000001203,
+      "distinct_2": 0.9649122807017544,
+      "distinct_3": 1.0,
+      "repeated_trigram_rate": 0.0
+    },
+    {
+      "prompt": "The consolidated statements of cash flows",
+      "continuation": " from operations that were in the fourth quarter of fiscal 2022 was primarily due to an increase in costs and marketing expenses, partially offset by higher spending on marketing in fiscal 2022.\n\nOperating expenses increased in fiscal 2023 versus the prior year, $1.1 billion of asset impairments and other an increase in employee benefits, partially offset by a $511 million increase in charges related to our investment and network",
+      "generated_tokens": 80,
+      "seconds": 0.7056980999768712,
+      "distinct_2": 0.8985507246376812,
+      "distinct_3": 0.9705882352941176,
+      "repeated_trigram_rate": 0.02941176470588236
+    },
+    {
+      "prompt": "Operating margins improved primarily due to",
+      "continuation": " a decrease in marketing spending and an increase in costs of subscribers.\n\nIn 2024, the U.S. decreased 3 percent due to lower volumes related to the U.S. of the COVID-19 pandemic, partially offset by favorable foreign exchange of 1% and a higher foreign exchange impact.\n\n• the U.S. dollar would have an unfavorable currency impact on the COVID-19",
+      "generated_tokens": 80,
+      "seconds": 0.697927700006403,
+      "distinct_2": 0.8852459016393442,
+      "distinct_3": 0.95,
+      "repeated_trigram_rate": 0.050000000000000044
+    },
+    {
+      "prompt": "The company recognized impairment charges",
+      "continuation": " of $8 million and $733 million in fiscal 2022, an cash paid for the fiscal years 2024 and 2022 of $1,492 million and $910 million of interest payments related to the acquisition of Man.\n\nThe Company’s effective income tax rate was 17.0% in fiscal 2023 compared to $8.4 billion in fiscal 2019. The fiscal 2020 compared with",
+      "generated_tokens": 80,
+      "seconds": 0.697416200011503,
+      "distinct_2": 0.9333333333333333,
+      "distinct_3": 1.0,
+      "repeated_trigram_rate": 0.0
+    },
+    {
+      "prompt": "Management believes the company has sufficient liquidity",
+      "continuation": " and the future cash flow of the U.S. dollar, we must determine the estimated fair value of the investments in the fair value of the equity and borrowing costs. The fair value of the acquired goodwill reporting unit is recognized as of the fair value of the fair value of the fair value of these assets are not fair value and not material to the fair value of the investment.\n\n◦ the",
+      "generated_tokens": 80,
+      "seconds": 0.7046313000028022,
+      "distinct_2": 0.647887323943662,
+      "distinct_3": 0.7428571428571429,
+      "repeated_trigram_rate": 0.2571428571428571
+    }
+  ],
+  "consistency_probes": [
+    {
+      "prompt": "Revenue increased from $100 million to $120 million. This represents an ",
+      "correct": "increase",
+      "incorrect": "decrease",
+      "correct_mean_nll": 2.712155818939209,
+      "incorrect_mean_nll": 7.4365129470825195,
+      "passed": true
+    },
+    {
+      "prompt": "Operating expenses decreased from $80 million to $60 million. This represents a ",
+      "correct": "decrease",
+      "incorrect": "increase",
+      "correct_mean_nll": 3.233710527420044,
+      "incorrect_mean_nll": 6.333714485168457,
+      "passed": true
+    },
+    {
+      "prompt": "Revenue was $100 million and expenses were $80 million. The company reported a ",
+      "correct": "profit",
+      "incorrect": "loss",
+      "correct_mean_nll": 6.979216575622559,
+      "incorrect_mean_nll": 1.954836368560791,
+      "passed": false
+    },
+    {
+      "prompt": "Revenue was $80 million and expenses were $100 million. The company reported a ",
+      "correct": "loss",
+      "incorrect": "profit",
+      "correct_mean_nll": 2.36093807220459,
+      "incorrect_mean_nll": 6.980128765106201,
+      "passed": true
+    },
+    {
+      "prompt": "Cash inflows exceeded cash outflows. The cash balance ",
+      "correct": "increased",
+      "incorrect": "decreased",
+      "correct_mean_nll": 6.099356651306152,
+      "incorrect_mean_nll": 6.291626930236816,
+      "passed": true
+    },
+    {
+      "prompt": "Cash outflows exceeded cash inflows. The cash balance ",
+      "correct": "decreased",
+      "incorrect": "increased",
+      "correct_mean_nll": 6.52455997467041,
+      "incorrect_mean_nll": 6.384286880493164,
+      "passed": false
+    }
+  ],
+  "consistency_accuracy": 0.6666666666666666,
+  "average_distinct_2": 0.8712028056001564,
+  "average_distinct_3": 0.9407589983925945,
+  "average_repeated_trigram_rate": 0.05924100160740551,
+  "generation_tokens_per_second": 112.80490496058648
+}

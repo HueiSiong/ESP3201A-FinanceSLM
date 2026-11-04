@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "checks": {
+    "train_nonempty": true,
+    "train_word_counts": true,
+    "train_paragraphs": true,
+    "train_no_metadata_tags": true,
+    "validation_nonempty": true,
+    "validation_word_counts": true,
+    "validation_paragraphs": true,
+    "validation_no_metadata_tags": true,
+    "test_nonempty": true,
+    "test_word_counts": true,
+    "test_paragraphs": true,
+    "test_no_metadata_tags": true,
+    "no_auditor_report_markers": true,
+    "no_unicode_replacement_characters": true,
+    "amd_cross_reference_regression": true,
+    "mastercard_repeated_heading_regression": true,
+    "train_validation_company_disjoint": true,
+    "train_validation_exact_paragraph_disjoint": true,
+    "train_test_company_disjoint": true,
+    "train_test_exact_paragraph_disjoint": true,
+    "validation_test_company_disjoint": true,
+    "validation_test_exact_paragraph_disjoint": true,
+    "nested_budgets": true,
+    "tokenizer_8000": true,
+    "tokenizer_round_trip": true,
+    "token_ids_in_range": true,
+    "causal_no_future_leakage": true,
+    "bf16_finite_forward_backward": true,
+    "tied_embeddings": true,
+    "weight_round_trip": true,
+    "originals_preserved": true,
+    "final_training_inputs_unchanged": true,
+    "all_models_10m_to_50m": true
+  },
+  "parameters": {
+    "15m": 15464064,
+    "30m": 29401600,
+    "50m": 49737600
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "python": "3.11.16 (main, Sep  1 2026, 14:15:24) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "torch": "2.3.1+cu118",
+  "cuda_runtime": "11.8",
+  "gpu": "NVIDIA GeForce RTX 3060 Ti",
+  "gpu_total_bytes": 8589410304,
+  "bf16_supported": true,
+  "tokenizers": "0.23.3",
+  "beautifulsoup": "4.15.0",
+  "gradio": "6.30.0",
+  "nvidia_smi": "NVIDIA GeForce RTX 3060 Ti, 616.56, 8192 MiB"
+}

@@ -1,0 +1,12 @@
+{
+  "loss": 4.164799380970338,
+  "perplexity": 64.3797653417448,
+  "tokens": 128685,
+  "seconds": 4.813917100022081,
+  "partial": false,
+  "checkpoint": "work/retrained-15m-large-seed42/best.pt",
+  "run": "15m_large_seed42",
+  "split": "test",
+  "device": "cuda",
+  "torch": "2.3.1+cu118"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "ticker": "ABNB",
+    "year": 2023,
+    "original_words": 7571,
+    "original_paragraph_breaks": 0,
+    "new_words": 5804,
+    "new_paragraphs": 77,
+    "new_beginning": "You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and related notes included in Item 8 of this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the section titled “Risk Factors” or in other parts of this Annual Report on Form ",
+    "new_ending": "ng from current year income is included in the annual effective tax rate and the release of valuation allowance supported by projections of future taxable income is recorded as a discrete tax benefit in the interim period. We released $2.9 billion of our valuation allowance in 2023 and will continue to monitor the need for a valuation allowance against our deferred tax assets on a quarterly basis."
+  },
+  {
+    "ticker": "AMD",
+    "year": 2023,
+    "original_words": 34717,
+    "original_paragraph_breaks": 0,
+    "new_words": 3534,
+    "new_paragraphs": 45,
+    "new_beginning": "The following discussion should be read in conjunction with the consolidated financial statements as of December 30, 2023 and December 31, 2022 and for each of the three years in the period ended December 30, 2023 and related notes, which are included in this Annual Report on Form 10-K as well as with the other sections of this Annual Report on Form 10-K, “Part II, Item 8: Financial Statements and Supplementary Data.”\n\nIn this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries (collectively, ",
+    "new_ending": "2, which primarily consisted of common stock repurchases of $3.7 billion under the Repurchase Program, higher repurchases to cover tax withholding on employee equity plans of $406 million and repayment of debt of $312 million, partially offset by proceeds from the issuance of debt of $991 million and higher proceeds from the issuance of common stock under our employee equity plans of $167 million."
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2023,
+    "original_words": 32743,
+    "original_paragraph_breaks": 0,
+    "new_words": 9745,
+    "new_paragraphs": 106,
+    "new_beginning": "We begin Management’s Discussion and Analysis of Financial Condition and Results of Operations with an overview of our businesses and significant trends. This overview is followed by a summary of our critical accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. We then provide a more detailed analysis of our results of operations and financial condition for fiscal 2023 compared to fiscal 2022. A discussion regarding our financial condition and results of operations for fiscal 2022 compared",
+    "new_ending": "and cancellations and after stock repurchases, as a percent of weighted-average shares outstanding from June 1, 2020 through May 31, 2023\n\nFor information with respect to recent accounting pronouncements, if any, and the impact of these pronouncements on our consolidated financial statements, if any, see Note 1 of Notes to Consolidated Financial Statements included elsewhere in this Annual Report."
+  },
+  {
+    "ticker": "MA",
+    "year": 2025,
+    "original_words": null,
+    "original_paragraph_breaks": null,
+    "new_words": 5680,
+    "new_paragraphs": 100,
+    "new_beginning": "The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (together, “Mastercard” or the “Company”), included elsewhere in this Report. Percentage changes provided throughout “Management’s Discussion and Analysis of Financial Condition and Results of Operations” were calculated on amounts rounded to the nearest thousand. For discussion related to the results of operations for the year ended December 31, 2024 compared to the year ended D",
+    "new_ending": "Determining the fair value of assets acquired, liabilities assumed, any non-controlling interest in the acquiree and the expected useful lives, requires management’s judgment. The significance of management’s estimates and assumptions is relative to the size of the acquisition. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable."
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2025,
+    "original_words": 8429,
+    "original_paragraph_breaks": 0,
+    "new_words": 7694,
+    "new_paragraphs": 87,
+    "new_beginning": "The following discussion and analysis should be read in conjunction with the consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. For further discussion of our products and services, technology and competitive strengths, refer to Item 1- Business. For discussion related to changes in financial condition and the results of operations for fiscal year 2024-related items, refer to Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for fiscal year 2024, whi",
+    "new_ending": "33 million decrease in payments for buy-outs of noncontrolling interests in subsidiaries and $101 million of proceeds received from directors in shareholder settlement net of payment for related legal fees during the year ended December 31, 2025.\n\nSee Note 2, Summary of Significant Accounting Policies , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K."
+  }
+]

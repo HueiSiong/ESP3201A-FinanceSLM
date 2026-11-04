@@ -1,0 +1,8 @@
+{
+  "run": "50m_large_seed123",
+  "criterion": "Lowest full validation loss among validation-probe-selected checkpoints",
+  "checkpoint": "checkpoints/final/financeslm_final.pt",
+  "tokenizer": "data/final/finance_tokenizer.json",
+  "validation_perplexity": 53.2216624967491,
+  "test_perplexity": 57.64515780490899
+}

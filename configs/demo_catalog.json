@@ -1,0 +1,12 @@
+{
+  "Selected final model": "checkpoints/final/financeslm_final.pt",
+  "15.46M / small dataset": "checkpoints\\final\\15m_small_seed42.pt",
+  "15.46M / medium dataset": "checkpoints\\final\\15m_medium_seed42.pt",
+  "15.46M / large dataset": "checkpoints\\final\\15m_large_seed123.pt",
+  "29.40M / small dataset": "checkpoints\\final\\30m_small_seed42.pt",
+  "29.40M / medium dataset": "checkpoints\\final\\30m_medium_seed123.pt",
+  "29.40M / large dataset": "checkpoints\\final\\30m_large_seed123.pt",
+  "49.74M / small dataset": "checkpoints\\final\\50m_small_seed123.pt",
+  "49.74M / medium dataset": "checkpoints\\final\\50m_medium_seed123.pt",
+  "49.74M / large dataset": "checkpoints\\final\\50m_large_seed123.pt"
+}

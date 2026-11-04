@@ -1,0 +1,26 @@
+{
+  "run": "50m_medium_seed42",
+  "model": "50m",
+  "budget": "medium",
+  "seed": 42,
+  "config": {
+    "vocab_size": 8000,
+    "dim": 640,
+    "n_layers": 9,
+    "n_heads": 10,
+    "max_seq_len": 256
+  },
+  "parameters": 49737600,
+  "steps": 3072,
+  "training_stream_tokens": 706370,
+  "training_tokens_processed": 12582912,
+  "equivalent_passes": 17.813485850191825,
+  "selected_step": 512,
+  "selected_validation_probe_loss": 4.612628993391991,
+  "seconds": 309.7147685000091,
+  "training_tokens_per_second_including_validation": 40627.42006440558,
+  "peak_allocated_gib": 2.304203987121582,
+  "peak_reserved_gib": 2.380859375,
+  "checkpoint": "checkpoints\\final\\50m_medium_seed42.pt",
+  "final_checkpoint": "checkpoints\\final\\50m_medium_seed42_last.pt"
+}

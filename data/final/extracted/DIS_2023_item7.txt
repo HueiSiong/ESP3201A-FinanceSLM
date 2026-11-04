@@ -1,0 +1,597 @@
+Management’s Discussion and Analysis provides a narrative on the Company’s financial performance and condition that should be read in conjunction with the accompanying financial statements. It includes the following sections:
+
+In fiscal 2023, the Company reorganized into three business segments: Entertainment, Sports and Experiences (renamed from Disney Parks, Experiences and Products). Fiscal 2022 and 2021 segment financial information has been recast for the following:
+
+• The prior Disney Media and Entertainment Distribution segment has been reorganized into the Entertainment and Sports segments
+
+• A portion of Consumer Products revenues is recognized at the Entertainment segment, which is meant to reflect royalties on merchandise licensing revenues generated on IP created by the Entertainment segment
+
+Revenues for fiscal 2023 increased 7%, or $6.2 billion, to $88.9 billion; net income attributable to Disney decreased $0.8 billion to income of $2.4 billion compared to $3.1 billion in the prior year; and diluted earnings per share (EPS) from continuing operations attributable to Disney decreased to $1.29 compared to $1.75 in the prior year. In the prior year, the Company recorded a reduction in revenue of $1.0 billion for amounts to early terminate certain license agreements with a customer for film and television content, which was delivered in previous years, in order for the Company to use the content primarily at our Entertainment Direct-to-Consumer services (Content License Early Termination). The EPS decrease was due to higher restructuring and impairment charges and lower operating income at Entertainment. These decreases were partially offset by the comparison to the impact of the Content License Early Termination, higher operating income at Experiences in the current year compared to the prior year and investment gains in the current year compared to investment losses in the prior year.
+
+Service revenues for fiscal 2023 increased 7%, or $5.4 billion, to $79.6 billion, due to growth at our theme parks and resorts, higher subscription revenue, an increase in theatrical distribution revenue and the comparison to the revenue reduction for the Content License Early Termination in the prior year. These increases were partially offset by decreases in advertising revenue, TV/VOD distribution sales and affiliate revenue. Growth at theme parks and resorts was due to higher volumes and guest spending. The increase in subscription revenue was due to subscriber growth and higher rates. Service revenues reflected an approximate 1 percentage point decrease due to an unfavorable movement of the U.S. dollar against major currencies including the impact of our hedging program (Foreign Exchange Impact).
+
+Product revenues for fiscal 2023 increased 10%, or $0.8 billion, to $9.3 billion, due to higher sales volumes of merchandise, food and beverage at our theme parks and resorts, partially offset by lower home entertainment volumes. Product revenues reflected an approximate 2 percent point decrease due to an unfavorable Foreign Exchange Impact.
+
+Cost of services for fiscal 2023 increased 9%, or $4.2 billion, to $53.1 billion, due to higher programming and production costs, inflation and increased volumes at our theme parks and resorts and, to a lesser extent, higher technology and distribution costs at Entertainment Direct-to-Consumer. The increase in programming and production costs was due to higher costs at Entertainment Direct-to-Consumer and increased production cost amortization resulting from higher theatrical revenue, partially offset by a decrease in production cost amortization due to lower TV/VOD distribution sales. Costs of services reflected an approximate 1 percentage point decrease due to a favorable Foreign Exchange Impact.
+
+Cost of products for fiscal 2023 increased 11%, or $0.6 billion, to $6.1 billion, due to higher sales volumes of merchandise, food and beverage and cost inflation at our theme parks and resorts. Cost of products reflected an approximate 1 percent point decrease due to a favorable Foreign Exchange Impact.
+
+Selling, general, administrative and other costs for fiscal 2023 decreased 6%, or $1.1 billion, to $15.3 billion, primarily due to lower marketing costs at Entertainment Direct-to-Consumer. These decreases were partially offset by higher theatrical marketing costs and an increase in marketing costs at theme parks and resorts. Selling, general, administrative and other costs reflected an approximate 1 percentage point decrease due to a favorable Foreign Exchange Impact.
+
+Depreciation and amortization increased 4 %, or $0.2 billion, to $5.4 billion due to higher depreciation at our domestic parks and resorts including accelerated depreciation related to the closure of Star Wars: Galactic Starcruiser and depreciation for the Disney Wish , which launched in the fourth quarter of the prior year, partially offset by lower amortization of intangible assets from the acquisition of TFCF and Hulu.
+
+• $2,577 million for the Content Impairment charge (see Note 18 of the Consolidated Financial Statements)
+
+• $721 million of goodwill impairments (see Note 18 of the Consolidated Financial Statements)
+
+• $96 million for exiting our businesses in Russia and other charges
+
+Restructuring and impairment charges in fiscal 2022 were $237 million primarily due to the impairment of an intangible and other assets related to exiting our businesses in Russia.
+
+In fiscal 2023, the Company recognized a gain of $ 169 million on its investment in DraftKings, Inc. (DraftKings), which was sold in the current fiscal year.
+
+In fiscal 2022, the Company recognized a non-cash loss of $663 million from the adjustment of its investment in DraftKings to fair value.
+
+The increase in interest expense was due to higher average rates, partially offset by lower average debt balances and higher capitalized interest.
+
+The increase in interest income, investment income and other resulted from higher interest income on cash balances, which reflected an increase in interest rates, and a larger benefit from pension and postretirement benefit costs, other than service cost.
+
+Equity in the income of investees decreased $34 million to $ 782 million in the current year primarily due to lower income from A+E.
+
+The decrease in the effective income tax rate was due to the following:
+
+• A lower effective tax rate on foreign earnings in the current year compared to the prior year;
+
+• A favorable comparison from adjustments related to previous year’s tax matters, which was a benefit in the current year and a detriment in the prior year; partially offset by
+
+• New tax regulations issued in the prior year that limited our ability to use certain accumulated foreign tax credits;
+
+• An unfavorable impact in the current year from goodwill impairments, which were not tax deductible; and
+
+• An unfavorable impact in the current year compared to a favorable impact in the prior year for the tax effect of employee share-based awards.
+
+The increase in net income from continuing operations attributable to noncontrolling interests was due to improved results at our Asia Theme Parks and higher accretion of NBC Universal’s interest in Hulu.
+
+Net income attributable to noncontrolling interests is determined on income after royalties and management fees, financing costs and income taxes, as applicable.
+
+• Other income of $96 million due to the DraftKings gain of $169 million
+
+• A $1.0 billion reduction in revenue for the Content License Early Termination
+
+• Other expense of $667 million due to the DraftKings loss of $663 million
+
+A summary of the impact of these items on EPS is as follows:
+
+(1) Tax benefit (expense) is determined using the tax rate applicable to the individual item.
+
+(2) EPS is net of noncontrolling interest, where applicable. Total may not equal the sum of the column due to rounding.
+
+(3) Restructuring and impairment charges include the impact of a content license agreement termination with A+E, which generated a gain at A+E. The Company’s 50% interest in this gain was $56 million (A+E gain) and is included in Restructuring and impairment charges in this table.
+
+Revenues for fiscal 2022 increased 23%, or $15.3 billion, to $82.7 billion; net income attributable to Disney increased $1.2 billion, to income of $3.1 billion compared to $2.0 billion in fiscal 2021; and EPS from continuing operations attributable to Disney increased to $1.75 compared to $1.11 in fiscal 2021. The EPS increase was due to growth at Experiences, partially offset by lower operating results at Entertainment, higher income tax expense and the Content License Early Termination.
+
+Service revenues for fiscal 2022 increased 20%, or $12.4 billion, to $74.2 billion, due to increased revenues at our theme parks and resorts, subscription revenue growth and, to a lesser extent, higher theatrical distribution and advertising revenue. These increases were partially offset by the Content License Early Termination. The increase at theme parks and resorts was due to higher volumes, which generally reflected the impact of operating with capacity restrictions in fiscal 2021 as a result of COVID-19, and higher average per capita ticket revenue. The increase in subscription revenue was due to subscriber growth and higher average rates. Service revenues reflected an approximate 1 percent point decrease due to an unfavorable Foreign Exchange Impact.
+
+Product revenues for fiscal 2022 increased 51%, or $2.9 billion, to $8.5 billion, due to higher sales volumes of merchandise, food and beverage at our theme parks and resorts.
+
+Cost of services for fiscal 2022 increased 19%, or $7.8 billion, to $49.0 billion, due to higher programming and production costs, increased volumes at our theme parks and resorts and higher technology and distribution costs at Entertainment Direct-to-Consumer. The increase in programming and production costs was due to higher costs at Entertainment Direct-to-Consumer, an increase in sports right costs and higher production cost amortization due to theatrical revenue growth. These increases were partially offset by lower programming and production costs as a result of international channel closures.
+
+Cost of products for fiscal 2022 increased 36%, or $1.4 billion, to $5.4 billion, due to higher merchandise, food and beverage sales at our theme parks and resorts.
+
+Selling, general, administrative and other costs for fiscal 2022 increased 21%, or $2.9 billion, to $16.4 billion, primarily due to higher marketing costs at Entertainment Direct-to-Consumer and, to a lesser extent, our theatrical distribution and parks and experiences businesses.
+
+Restructuring and impairment charges in fiscal 2022 were $0.2 billion primarily due to the impairment of an intangible and other assets related to exiting our businesses in Russia.
+
+• $0.4 billion of asset impairments and severance costs related to the shut-down of an animation studio and the closure of a substantial number of Disney-branded retail stores in North America and Europe
+
+• $0.3 billion of severance and other costs in connection with the integration of TFCF and workforce reductions at Experiences
+
+In fiscal 2022, the Company recognized a non-cash loss of $ 663 million from the adjustment of our investment in DraftKings to fair value.
+
+In fiscal 2021, the Company recognized a $186 million gain from the sale of our investment in fuboTV Inc. (fuboTV gain), a $126 million gain on the sale of our 50% interest in a German free-to-air (FTA) television network (German FTA gain) and a non-cash loss of $111 million from the adjustment of our investment in DraftKings to fair value.
+
+Interest expense in fiscal 2022 was comparable to fiscal 2021 as the impact of higher average interest rates was offset by the impact of lower average debt balances.
+
+The increase in interest income, investment income and other was due to a favorable comparison of pension and postretirement benefit costs, other than service cost, which was a net benefit in fiscal 2022 and an expense in fiscal 2021. This increase was partially offset by investment losses in fiscal 2022 compared to investment gains in fiscal 2021.
+
+Equity in the income of investees increased $55 million to $816 million in fiscal 2022 due to higher income from A+E and the comparison to investment impairments in fiscal 2021.
+
+The effective income tax rate in fiscal 2022 was higher than the U.S. statutory rate primarily due to higher effective tax rates on foreign earnings. The effective income tax rate in fiscal 2021 was lower than the U.S. statutory rate due to favorable adjustments related to prior years and excess tax benefits on employee share-based awards, partially offset by higher effective tax rates on foreign earnings. Higher effective tax rates on foreign earnings in both fiscal 2022 and 2021 reflected the impact of foreign losses and, to a lesser extent, foreign tax credits for which we are unable to recognize a tax benefit.
+
+The decrease in net income from continuing operations attributable to noncontrolling interests was primarily due to higher losses at Shanghai Disney Resort and at our DTC sports business, partially offset by higher results for ESPN.
+
+Net income attributable to noncontrolling interests is determined on income after royalties and management fees, financing costs and income taxes, as applicable.
+
+• A $1.0 billion reduction in revenue for the Content License Early Termination
+
+• Other expense of $667 million due to the DraftKings loss of $663 million
+
+• Other income of $201 million due to the fuboTV gain of $186 million and the German FTA gain of $126 million, partially offset by the DraftKings loss of $111 million
+
+A summary of the impact of these items on EPS is as follows:
+
+(1) Tax benefit (expense) is determined using the tax rate applicable to the individual item.
+
+(2) EPS is net of noncontrolling interest, where applicable. Total may not equal the sum of the column due to rounding.
+
+The Company evaluates the performance of its operating segments based on segment revenue and segment operating income.
+
+Below is a discussion of the major revenue and expense categories for our business segments. Costs and expenses for each segment consist of operating expenses, selling, general, administrative and other costs, and depreciation and amortization. Selling, general, administrative and other costs include third-party and internal marketing expenses.
+
+• Linear Networks, which primarily generates revenue from affiliate fees and advertising. In recent years, revenues from affiliate fees have declined due to fewer subscribers to MVPD services that carry our linear networks. We anticipate this trend to continue, although the extent and duration is uncertain. In addition, these revenues will be impacted and may be further impacted in the future from the lapse of carriage agreements to certain networks.
+
+• Content Sales/Licensing, which primarily generates revenue from the sale of film and episodic content in the TV/VOD and home entertainment markets, distribution of films in the theatrical market, licensing of our music rights, sales of tickets to stage play performances and licensing of our IP for use in stage plays. Revenues also include an intersegment allocation of revenues from the Experiences segment, which is meant to reflect royalties on consumer products merchandise licensing revenues generated on IP created by the Entertainment segment.
+
+Operating expenses at the Entertainment segment primarily consist of programming and production costs, technology support costs, operating labor, distribution costs and cost of sales. Programming and production costs include the following:
+
+• Subscriber-based fees for programming the Hulu Live service, including fees paid by Hulu to the Sports segment and other Entertainment segment businesses for the right to air their linear networks on Hulu Live
+
+• Fees paid to the Sports segment to program ESPN on ABC and certain sports content on Star+
+
+Amortization of capitalized production costs and licensed programming rights is generally allocated across Entertainment’s businesses based on the estimated relative value of the distribution windows. The initial costs of marketing campaigns are generally recognized in the business of initial exploitation.
+
+The Sports segment primarily generates revenue from affiliate fees, advertising, subscription fees, pay-per-view fees and sub-licensing of sports rights. Linear sports channels are experiencing declines in subscribers that are directionally consistent with those at the linear networks in the Entertainment segment. Operating expenses consist primarily of programming and
+
+production costs, technology support costs, operating labor and distribution costs. Programming and production costs include amortization of licensed sports rights and production costs related to live sports and other programming.
+
+The Experiences segment primarily generates revenue from the sale of admissions to theme parks, the sale of food, beverage and merchandise at our theme parks and resorts, charges for room nights at hotels, sales of cruise vacations, sales and rentals of vacation club properties, royalties from licensing our IP for use on consumer goods and the sale of branded merchandise. Revenues are also generated from sponsorships and co-branding opportunities, real estate rent and sales, and royalties from Tokyo Disney Resort. Significant expenses include operating labor, costs of goods sold, infrastructure costs, depreciation and other operating expenses. Infrastructure costs include technology support costs, repairs and maintenance, utilities and fuel, property taxes, retail occupancy costs, insurance and transportation. Other operating expenses include costs for such items as supplies, commissions and entertainment offerings.
+
+The following transactions are recognized in segment revenues and eliminated in total Company revenue:
+
+• Fees paid by Hulu to the Sports segment and other Entertainment segment businesses for the right to air their linear networks on Hulu Live
+
+• Fees paid by the Entertainment segment to the Sports segment to program ESPN on ABC and certain sports content on Star+
+
+The following table presents revenues from our operating segments and other components of revenues:
+
+The following table presents income from our operating segments and other components of income from continuing operations before income taxes:
+
+The decrease in domestic affiliate fees reflected a decrease of 5% from fewer subscribers, partially offset by an increase of 4% from higher contractual rates.
+
+Lower international affiliate fees were attributable to decreases of 8% from fewer subscribers driven by channel closures, 4% from lower contractual rates and 4% from an unfavorable Foreign Exchange Impact.
+
+The decrease in domestic advertising revenue was due to decreases of 12% from fewer impressions and 2% from lower rates. The decrease in impressions was due to lower average viewership.
+
+Lower international advertising revenue was due to decreases of 9% from an unfavorable Foreign Exchange Impact, 6% from fewer impressions and 1% from a decrease in rates. Lower impressions reflected a decrease in average viewership, which included the impact of channel closures.
+
+Other revenue decreased $39 million, to $173 million from $212 million, driven by an unfavorable Foreign Exchange Impact.
+
+The decrease in domestic programming and production costs was due to a lower average cost mix of programming, partially offset by an increase in programming fees for ESPN on ABC and higher program write-offs.
+
+International programming and production costs decreased primarily due to a favorable Foreign Exchange Impact and the impact of channel closures.
+
+The decrease in other operating expenses was due to the realignment of certain costs primarily to selling, general and administrative costs, lower technology and distribution costs and a favorable Foreign Exchange Impact.
+
+Selling, general administrative and other costs increased $70 million, to $2,641 million from $2,571 million. The increase includes the realignment of certain costs previously primarily reported in other operating expenses and higher labor-related costs, partially offset by lower marketing costs.
+
+Income from equity investees decreased $93 million, to $690 million from $783 million, due to lower income from A+E attributable to decreases in advertising and affiliate revenue, partially offset by higher program sales income.
+
+Operating income decreased 21%, to $4,119 million from $5,198 million due to lower results both domestically and internationally.
+
+The following table provides supplemental revenue and operating income detail for Linear Networks:
+
+The increase in subscription fees reflected increases of 11% from more subscribers, due to growth at Disney+ Core and, to a lesser extent, Hulu, and 7% from higher average rates due to increases in retail pricing, partially offset by a decrease of 2% from an unfavorable Foreign Exchange Impact.
+
+Lower advertising revenue reflected a decrease of 9% from fewer impressions due to declines at Hulu and, to a lesser extent, at Disney+, partially offset by growth of 2% from higher rates at Hulu. The decrease in impressions at Disney+ was due to the comparison to Indian Premier League (IPL) cricket programming on Disney+ Hotstar in the prior year, as we did not renew the digital rights beginning with the 2023 season. The decrease was partially offset by the U.S. launch of ad-supported Disney+ in the first quarter of the current fiscal year.
+
+The following table presents additional information about Disney+ and Hulu (1) .
+
+Average Monthly Revenue Per Paid Subscriber (1) for the fiscal year ended:
+
+(1) S ee discussion on page 66 —DTC Product Descriptions, Key Definitions and Supplemental Information
+
+(2) Total may not equal the sum of the column due to rounding.
+
+Domestic Disney+ average monthly revenue per paid subscriber increased from $6.34 to $6.97 due to an increase in average retail pricing and higher advertising revenue, partially offset by a higher mix of subscribers to multi-product offerings.
+
+International Disney+ (excluding Disney+ Hotstar) average monthly revenue per paid subscriber decreased from $6.10 to $5.93 due to a higher mix of subscribers from lower-priced markets and an unfavorable Foreign Exchange Impact, partially offset by an increase in average retail pricing, a lower mix of wholesale subscribers and an increase in wholesale pricing.
+
+Disney+ Hotstar average monthly revenue per paid subscriber decreased from $0.88 to $0.66 due to lower advertising revenue, partially offset by a lower mix of wholesale subscribers.
+
+Hulu SVOD Only average monthly revenue per paid subscriber decreased from $12.72 to $12.17 due to lower advertising revenue, a higher mix of subscribers to multi-product offerings and lower per-subscriber premium and feature add-on revenue, partially offset by an increase in average retail pricing.
+
+Hulu Live TV + SVOD average monthly revenue per paid subscriber increased from $87.62 to $90.52 due to an increase in average retail pricing, partially offset by lower advertising revenue, a higher mix of subscribers to multi-product offerings and lower per-subscriber premium and feature add-on revenue.
+
+The increase in programming and production costs at Disney+ was attributable to more content provided on the service and higher costs per hour of non-sports content available on the service, partially offset by a decrease in sports programming costs reflecting the comparison to IPL cricket programming in the prior year.
+
+The increase in programming and production costs at Hulu was due to higher subscriber-based fees for programming the Live TV service and higher costs per hour of content available on the service. Higher subscriber-based fees for programming the Live TV service resulted from rate increases and an increase in the number of subscribers.
+
+Other operating expenses increased primarily due to higher technology and distribution costs at Disney+.
+
+Selling, general, administrative and other costs decreased $1,227 million, to $4,168 million from $5,395 million, primarily attributable to lower marketing costs at Disney+ and, to a lesser extent, Hulu.
+
+Operating loss from Direct-to-Consumer decreased $928 million, to $2,496 million from $3,424 million due to a lower loss at Disney+ and, to a lesser extent, higher operating income at Hulu.
+
+The decrease in TV/VOD distribution revenue was due to lower sales volumes of both episodic and film content, in part driven by the impact of the shift from licensing our content to third parties to distributing it on our Entertainment Direct-to-Consumer streaming services.
+
+The increase in theatrical distribution revenue was due to the performance of Avatar: The Way of Water in the current year. The current year also included the Marvel titles: Black Panther: Wakanda Forever; Guardians of the Galaxy Vol. 3; and Ant-Man and the Wasp: Quantumania , the Disney live action title: The Little Mermaid, the Lucasfilm title: Indiana Jones and the Dial of Destiny and two animation titles . The prior year included the Marvel titles: Doctor Strange in the Multiverse of Madness; Thor: Love and Thunder; Eternals; and the co-produced title Spider-Man: No Way Home , along with two animation titles.
+
+The decrease in home entertainment distribution revenue was due to lower sales volumes.
+
+The increase in other revenue was due to higher revenue from stage plays, resulting from improved performance, partially offset by an unfavorable Foreign Exchange Impact.
+
+The increase in programming and production costs was due to higher production cost amortization attributable to the increase in theatrical revenue, partially offset by a decrease as a result of lower TV/VOD distribution revenues.
+
+Higher distribution costs and cost of goods sold were due to the realignment of certain costs previously reported in general and administrative costs and increased theatrical distribution costs.
+
+Selling, general, administrative and other costs decreased $15 million, to $2,595 million from $2,610 million, due to the realignment of certain costs to distribution costs and cost of goods sold, a favorable Foreign Exchange Impact and lower home entertainment overhead and marketing costs, largely offset by higher theatrical marketing costs.
+
+Depreciation and amortization increased $51 million, to $347 million from $296 million, primarily due to increased investment in technology assets.
+
+Operating results from Content Sales/Licensing and Other decreased $531 million, to a loss of $179 million from income of $352 million, primarily due to lower TV/VOD distribution results.
+
+The following table presents supplemental information for items related to Entertainment that are excluded from segment operating income:
+
+(1) Fiscal 2023 includes $2,521 million for the Content Impairment Charge (net of the A+E gain), $425 million for a goodwill impairment, $248 million of severance, a $141 million impairment of an equity investment and $96 million primarily related to exiting our businesses in Russia. Fiscal 2022 includes impairments of assets related to exiting our businesses in Russia.
+
+(2) In fiscal 2023, amortization of step-up on film and television costs was $439 million and amortization of intangible assets was $1,151 million. In fiscal 2022, amortization of step-up on film and television costs was $ 634 million and amortization of intangible assets was $1,300 million.
+
+The decrease in domestic ESPN affiliate fees was due to decreases of 7% from fewer subscribers and 1% from the temporary suspension of carriage with an affiliate, partially offset by an increase of 5% from higher contractual rates.
+
+Lower international ESPN affiliate fees were attributable to decreases of 14% from an unfavorable Foreign Exchange Impact and 3% from fewer subscribers, partially offset by an increase of 14% from higher contractual rates.
+
+Domestic ESPN advertising revenue was comparable to the prior year reflecting a modest decrease in rates, largely offset by a slight increase in impressions.
+
+The increase in international ESPN advertising revenue was due to an increase of 16% from higher impressions, partially offset by a decrease of 6% from an unfavorable Foreign Exchange Impact. The increase in impressions was attributable to higher average viewership.
+
+Lower Star advertising revenue was due to decreases of 38% from fewer impressions, 14% from lower rates and 7% from an unfavorable Foreign Exchange Impact. Fewer impressions reflected a decrease in average units delivered and, to a lesser extent, fewer IPL matches aired in the current year compared to the prior year as matches from the 2021 season shifted into fiscal 2022 due to COVID-19.
+
+Growth in subscription fees reflected increases of 19% from higher rates and 18% from more subscribers.
+
+The increase in other revenue was primarily due to higher fees received for programming ESPN on ABC.
+
+ESPN+ average monthly revenue per paid subscriber increased from $4.80 to $5.49 due to an increase in retail pricing, partially offset by a higher mix of subscribers to multi-product offerings.
+
+The increase in domestic ESPN programming and production costs was due to contractual rate increases for NBA and College Football Playoffs (CFP) programming, new motor sports programming and higher costs for NFL and Ultimate Fighting Championship (UFC) programming. These increases were partially offset by lower costs for college football programming (excluding CFP) due to the non-renewal of certain contracts. NFL programming costs increased as a result of airing one additional regular season game on our linear networks in the current year compared to the prior year, partially offset by lower
+
+costs per game. The increase in UFC programming costs was due to airing two more events in the current year compared to the prior year and higher contractual rates.
+
+Higher international ESPN programming and production costs were driven by the impact of inflation on soccer rights costs and production costs, partially offset by a favorable Foreign Exchange Impact.
+
+The decrease in Star programming and production costs was due to lower costs for cricket programming and a favorable Foreign Exchange Impact. The decrease in cricket programming costs was attributable to fewer IPL matches in the current year compared to prior year and lower average costs per match for IPL and International Cricket Council (ICC) T20 World Cup matches.
+
+Other operating expenses increased $142 million, to $941 million from $799 million, driven by higher technology and distribution costs and the realignment of certain costs previously reported in selling, general and administrative costs.
+
+Selling, general, administrative and other costs decreased $127 million, to $1,314 million from $1,441 million, due to lower marketing spend and a realignment of certain costs to other operating expenses.
+
+Operating income decreased 9%, to $2,465 million from $2,710 million due to decreases at Star and international ESPN, partially offset by an increase at domestic ESPN.
+
+The following table provides supplemental revenue and operating income detail for Sports:
+
+The following table presents supplemental information for items related to Sports that are excluded from segment operating income:
+
+(2) Fiscal 2023 includes $296 million for a goodwill impairment and $50 million for severance.
+
+The increase in theme park admissions revenue was due to increases of 12% from attendance growth and 10% from higher average per capita ticket revenue.
+
+Growth in resorts and vacations revenue was due to increases of 14% from additional passenger cruise days, 4% from higher occupied hotel room nights and 3% growth from guided tours.
+
+Parks & Experiences merchandise, food and beverage revenue growth was attributable to increases of 12% from higher volumes and 3% from higher average guest spending.
+
+Lower merchandise licensing and retail revenue was due to decreases of 2% from licensing, 2% from retail and 1% from an unfavorable Foreign Exchange Impact. The decrease in licensing revenue was due to lower sales of merchandise based on Star Wars, Frozen, Toy Story and Mickey and Friends, partially offset by higher minimum guarantee shortfall recognition. Lower retail revenue was primarily due to a decrease in online sales.
+
+The increase in parks licensing and other revenue was attributable to an increase in royalties from Tokyo Disney Resort and higher co-branding and sponsorship revenues, partially offset by lower real estate sales.
+
+In addition to revenue, costs and operating income, management uses the following key metrics to analyze trends and evaluate the overall performance of our theme parks and resorts, and we believe these metrics are useful to investors in analyzing the business :
+
+(1) Per capita guest spending growth rate and per room guest spending growth rate exclude the impact of changes in foreign currency exchange rates.
+
+(2) Attendance is used to analyze volume trends at our theme parks and is based on the number of unique daily entries, i.e. a person visiting multiple theme parks in a single day is counted only once. Our attendance count includes
+
+complimentary entries but excludes entries by children under the age of three.
+
+(3) Per capita guest spending is used to analyze guest spending trends and is defined as total revenue from ticket sales and sales of food, beverage and merchandise in our theme parks, divided by total theme park attendance.
+
+(4) Occupancy is used to analyze the usage of available capacity at hotels and is defined as the number of room nights occupied by guests as a percentage of available hotel room nights.
+
+(5) Available hotel room nights are defined as the total number of room nights that are available at our hotels and at DVC properties located at our theme parks and resorts that are not utilized by DVC members. Available hotel room nights include rooms temporarily taken out of service.
+
+(6) Per room guest spending is used to analyze guest spending at our hotels and is defined as total revenue from room rentals and sales of food, beverage and merchandise at our hotels, divided by total occupied hotel room nights. In the current year, the Company revised its method of allocating revenue on the sales of Disneyland Paris vacation packages between hotel room revenue and admissions revenue. The new method resulted in a decrease in the percentage of revenue allocated to hotel rooms. If we had applied the new method in the prior year, the impact would have been a decrease of approximatel y $50 million i n the prior year.
+
+The increase in operating labor was due to inflation, higher volumes and increased costs for new guest offerings. Higher cost of goods sold and distribution costs were due to increased volumes, while the increase in infrastructure costs was due to higher operations support costs, increased costs for new guest offerings and higher technology spending. Other operating expenses increased due to higher volumes and inflation.
+
+Selling, general, administrative and other costs increased $272 million from $3,403 million to $3,675 million, driven by higher ma rketing spend and a loss on the disposal of our ownership interest in Villages Nature.
+
+Depreciation and amortization increased $338 million from $2,451 million to $2,789 million, due to accelerated depreciation related to the closure of Star Wars: Galactic Starcruiser and depreciation for the Disney Wish , which launched in the fourth quarter of the prior year.
+
+Segment operating income increased $1,669 million, to $8,954 million due to growth at our international and domestic parks and experiences, partially offset by a decrease at our consumer products business.
+
+The following table presents supplemental revenue and operating income detail for the Experiences segment:
+
+The following table presents supplemental information for items related to Experiences that are excluded from segment operating income:
+
+The following table presents revenues from our operating segments and other components of revenues:
+
+The following table presents income (loss) from our operating segments and other components of income from continuing operations before income taxes:
+
+Growth in domestic affiliate fees was due to an increase of 7% from higher contractual rates, partially offset by a decrease of 3% from fewer subscribers.
+
+The decline in international affiliate fees was due to decreases of 17% from fewer subscribers driven by channel closures, 5% from an unfavorable Foreign Exchange Impact and 2% from lower contractual rates.
+
+The decline in domestic advertising revenue was due to a decrease of 14% from fewer impressions, reflecting lower average viewership, partially offset by an increase of 7% from higher rates.
+
+Lower international advertising revenue reflected decreases of 8% from an unfavorable Foreign Exchange Impact and 6% from fewer impressions driven by channel closures, partially offset by an increase of 12% from higher rates.
+
+The decrease in domestic programming and production costs was due to a lower cost mix of programming at FX Channels, partially offset by an increase in programming and production costs at the ABC Network. The increase at the ABC Network was due to higher costs for non-primetime news programming and an increase in programming fees for ESPN on ABC, partially offset by a lower cost mix of primetime programming.
+
+Lower international programming and production costs were due to the impact of channel closures and, to a lesser extent, a favorable Foreign Exchange Impact.
+
+Selling, general administrative and other costs decreased $76 million, to $2,571 million from $2,647 million, due to lower marketing costs.
+
+Income from equity investees increased $53 million, to $783 million from $730 million, due to higher income from A+E and the comparison to impairments in fiscal 2021. The increase at A+E resulted from lower programming costs, partially offset by decreases in affiliate and advertising revenue and higher marketing costs.
+
+Operating income decreased 1%, to $5,198 million from $5,271 million due to lower domestic results, partially offset by higher income from our equity investees and an increase in international results.
+
+The following table provides supplemental revenue and operating income detail for Linear Networks:
+
+Higher subscription fees reflected increases of 18% from subscriber growth and 9% from higher average rates due to increases in retail pricing, partially offset by a decrease of 2% from an unfavorable Foreign Exchange Impact.
+
+Advertising revenue growth reflected increases of 7% from higher rates due to increases at Hulu, and to a lesser extent, at Disney+, and 3% from higher impressions primarily attributable to Disney+ Hotstar. The increase in impressions at Disney+ Hotstar was primarily due to airing the ICC T20 World Cup and Asia Cricket Council (ACC) Asia Cup in fiscal 2022, neither of which were aired in fiscal 2021. The ICC T20 World Cup generally occurs every two years and was not held in fiscal 2021 due to COVID-19. The ACC Asia Cup was rescheduled from fiscal 2020 to fiscal 2022 as a result of COVID-19.
+
+The decrease in other revenue was due to Disney+ Premier Access revenue in fiscal 2021 compared to none in fiscal 2022, partially offset by a favorable Foreign Exchange Impact. Disney+ Premier Access titles in fiscal 2021 included Black Widow , Raya and the Last Dragon, Jungle Cruise and Cruella .
+
+The following table presents additional information about our Disney+ and Hulu product offerings.
+
+(1) Total may not equal the sum of the column due to rounding
+
+Domestic Disney+ average monthly revenue per paid subscriber was comparable to fiscal 2021, as an increase in retail pricing and a lower mix of wholesale subscribers was essentially offset by a higher mix of subscribers to multi-product offerings.
+
+International Disney+ (excluding Disney+ Hotstar) average monthly revenue per paid subscriber increased from $5.31 to $6.10 due to an increase in average retail pricing, partially offset by an unfavorable Foreign Exchange Impact.
+
+Disney+ Hotstar average monthly revenue per paid subscriber increased from $0.68 to $0.88 driven by higher advertising revenue and increases in retail pricing, partially offset by a higher mix of wholesale subscribers.
+
+Hulu SVOD Only average monthly revenue per paid subscriber decreased from $12.86 to $12.72 driven by lower per-subscriber advertising revenue, a higher mix of subscribers to multi-product offerings and, to a lesser extent, to promotional offerings, partially offset by an increase in average retail pricing.
+
+Hulu Live TV + SVOD average monthly revenue per paid subscriber increased from $81.35 to $87.62 driven by an increase in average retail pricing and higher advertising revenue, partially offset by a higher mix of subscribers to multi-product offerings.
+
+The increase in programming and production costs at Disney+ was attributable to more content provided on the service and, to a lesser extent, higher average cost programming, which reflected an increased mix of original content.
+
+The increase in programming and production costs at Hulu was due to more content provided on the service and higher subscriber-based fees for programming the Live TV service, which reflected rate increases and an increase in the number of subscribers.
+
+Other operating expenses increased due to higher technology and distribution costs at Disney+ reflecting growth in existing markets and, to a lesser extent, expansion to new markets.
+
+Selling, general, administrative and other costs increased $1,328 million, to $5,395 million from $4,067 million, attributable to higher marketing costs.
+
+Depreciation and amortization increased $48 million, to $363 million from $315 million, primarily due to increased investment in technology assets at Disney+.
+
+Operating loss from Direct-to-Consumer increased $2,172 million, to $3,424 million from $1,252 million due to a higher loss at Disney+ and, to a lesser extent, lower operating income at Hulu.
+
+The decrease in TV/VOD distribution revenue reflected lower sales volumes, which included the impact of the shift from licensing our content to third parties to distributing it on our Entertainment Direct-to-Consumer streaming services.
+
+The increase in theatrical distribution revenue was due to more titles released in fiscal 2022 compared to fiscal 2021 and revenue in fiscal 2022 from the co-production of Marvel’s Spider-Man: No Way Home . Although COVID-19 continued to impact our theatrical distribution business in certain markets in fiscal 2022, the impact in fiscal 2021 was more significant. Titles released in fiscal 2022 included Doctor Strange in The Multiverse of Madness , Thor: Love and Thunder , Eternals ,
+
+Encanto and Lightyear. Titles released in fiscal 2021 included Shang-Chi and the Legend of the Ten Rings , Black Widow and Free Guy .
+
+The decrease in home entertainment distribution revenue was attributable to lower unit sales despite the benefit of more new release titles in fiscal 2022. Net effective pricing was comparable to fiscal 2021 as lower unit pricing was offset by a higher mix of new release titles, which have a higher sales price than catalog titles.
+
+The increase in other revenue was due to more stage play performances in fiscal 2022 as productions were generally shut down in fiscal 2021 due to COVID-19.
+
+The increase in programming and production costs was due to higher production cost amortization driven by more theatrical releases, the increased number of stage play performances in fiscal 2022 and higher film cost impairments.
+
+The increase in distribution costs and cost of goods sold was primarily due to increased theatrical distribution costs.
+
+Selling, general, administrative and other costs increased $666 million, to $2,610 million from $1,944 million, due to higher theatrical marketing costs as more titles were released in fiscal 2022 compared to fiscal 2021.
+
+Operating income from Content Sales/Licensing and Other decreased 70% to $352 million from $1,177 million, due to lower TV/VOD and home entertainment distribution results, higher film cost impairments and lower theatrical distribution results, partially offset by higher stage play results.
+
+The following table presents supplemental information for items related to Entertainment that are excluded from segment operating income:
+
+(1) In fiscal 2022, amortization of step-up on film and episodic costs was $634 million and amortization of intangible assets was $1,300 million. In fiscal 2021, amortization of step-up on film and episodic costs was $646 million and amortization of intangible assets was $1,345 million.
+
+(2) Fiscal 2022 includes impairments of assets related to exiting our businesses in Russia. Fiscal 2021 includes impairments and severance costs related to the closure of an animation studio and severance costs and contract termination charges in connection with the integration of TFCF.
+
+The increase in domestic ESPN af filiate fees was primarily due to an increase of 5% from higher contractual rates, partially offset by a decrease of 4% from fewer subscribers.
+
+The decrease in international ESPN af filiate fees was attributable to decreases of 8% from fewer subscribers driven by channel closures, and 7% from an unfavorable Foreign Exchange Impact, partially offset by an increase of 11% from higher contractual rates.
+
+The decrease in Star affiliate fees was due to decreases of 5% from an unfavorable Foreign Exchange Impact and 1% from fewer subscribers.
+
+The increase in domestic ESPN advertising revenue was due to increases of 11% from higher impressions and 5% from higher rates. The increase in impressions reflected higher average vi ewership and, to a lesser extent, an increase in units delivered.
+
+Higher international ESPN advertising revenue was primarily due to increases of 11% from higher average viewership and 7% from higher rates, partially offset by a decrease of 6% from an unfavorable Foreign Exchange Impact.
+
+Growth in Star advertising revenue was due to an increase of 37% from higher average viewership, partially offset by decreases of 3% from an unfavorable Foreign Exchange Impact and 3% from lower rates. The increase in average viewership reflected the airing of more cricket matches in fiscal 2022. Fiscal 2022 included the ICC T20 World Cup, more Board of Control for Cricket in India (BCCI) matches and the ACC Asia Cup, partially offset by fewer IPL matches compared to fiscal 2021. The ICC T20 World Cup and the ACC Asia Cup were not held in fiscal 2021. The increase in BCCI matches in fiscal 2022 was driven by COVID-19-related cancellations in fiscal 2021.
+
+The increase in other revenue was due to higher sub-licensing fees and higher fees received for programming ESPN on ABC, partially offset by lower UFC pay-per-view fees due to lower average buys per event. The increase in sub-licensing fees was due to fees from ICC T20 World Cup matches in fiscal 2022 and higher fees from BCCI cricket matches.
+
+ESPN+ average monthly revenue per paid subscriber increased from $4.57 to $4.80 primarily due to an increase in retail pricing, a lower mix of annual subscribers and higher advertising revenue, partially offset by a higher mix of subscribers to multi-product offerings.
+
+The increase in domestic ESPN programming and production costs was due to new NHL programming, higher rights costs for NFL and CFP and an increase in production costs reflecting the return of ESPN-hosted events, which were canceled in fiscal 2021 due to COVID-19, and more ESPN films in fiscal 2022. These increases were partially offset by lower rights costs for MLB and NBA programming. Higher NFL programming costs were due to airing four additional regular season games in fiscal 2022 compared to fiscal 2021 and contractual rate increases. The increase in CFP rights costs was due to higher contractual rates. Lower MLB programming costs were due to airing 29 games of the 2022 regular season under our new contract and one 2021 season playoff game in fiscal 2022 compared to 92 games of the 2021 regular season in fiscal 2021. The decrease in NBA programming costs was due to the comparison to airing four games of the 2020 NBA Finals in the first quarter of fiscal 2021 due to COVID-19, partially offset by contractual rate increases. Fiscal 2021 also included the 2021 NBA Finals and fiscal 2022 included the 2022 NBA finals.
+
+The decrease in international programming and production costs was due to channel closures in fiscal 2021, the impact of shifting exclusive soccer matches from Sports to Star+ in fiscal 2022 and a favorable Foreign Exchange Impact, partially offset by higher production costs.
+
+The increase in Star programming and production costs was due to more cricket matches in fiscal 2022 and higher average costs per match for BCCI and IPL cricket matches.
+
+Selling, general, administrative and other costs increased $210 million, to $1,441 million from $1,231 million, driven by higher marketing costs.
+
+Operating income increased 1%, to $2,710 million from $2,690 million due to an increase at ESPN, partially offset by a decrease at Star.
+
+The following table provides supplemental revenue and operating income (loss) detail for Sports:
+
+The following table presents supplemental information for items related to Sports that are excluded from segment operating income:
+
+Revenues at Experiences benefited from fewer closures and operating capacity restrictions in fiscal 2022 compared to fiscal 2021 as a result of COVID-19. The following table summarizes the approximate number of weeks of operations in fiscal 2022 and fiscal 2021:
+
+The increase in theme park admissions revenue was due to attendance growth and higher average per capita ticket revenue. Higher attendance reflected increases at Disneyland Resort, Walt Disney World Resort and, to a lesser extent, Disneyland Paris, partially offset by a decrease at Shanghai Disney Resort. Growth in average per capita ticket revenue was due to the introduction of Genie+ and Lightning Lane at our domestic parks in the first quarter of fiscal 2022 and higher average ticket prices at Walt Disney World Resort and Disneyland Paris, partially offset by lower average ticket prices at Disneyland Resort and Shanghai Disney Resort.
+
+Growth in resorts and vacations revenue was primarily due to increases of 51% from higher occupied hotel room nights, 32% from an increase in passenger cruise days and 17% from higher average daily hotel room rates.
+
+Parks & Experiences merchandise, food and beverage revenue growth was due to increases of 82% from higher volumes and 9% from higher average guest spending.
+
+Merchandise licensing and retail revenue was comparable to the prior year, as a decrease of 8% from retail was offset by an increase of 8% from licensing. The decrease in retail revenues was due to the closure of a substantial number of Disney-branded retail stores in North America and Europe in the second half of fiscal 2021. The revenue growth at licensing was primarily due to higher sales of merchandise based on Mickey and Friends, Star Wars, Encanto , Spider-Man and Disney Princesses, partially offset by a decrease in revenues from merchandise based on Frozen.
+
+The increase in parks licensing and other revenue was primarily due to higher sponsorship revenues and an increase in royalties from Tokyo Disney Resort.
+
+In addition to revenue, costs and operating income, management uses the following key metrics to analyze trends and evaluate the overall performance of our theme parks and resorts, and we believe these metrics are useful to investors in analyzing the business:
+
+(1) In fiscal 2023, the Company revised its method of allocating revenue on the sales of Disneyland Paris vacation packages between hotel room revenue and admissions revenue. The new method resulted in a decrease in the percentage of revenue allocated to hotel rooms. If we had applied the new method in fiscal 2022, the impact would have been a decrease of approximately $50 million. There is no impact to fiscal 2021 due to this change.
+
+The increases in operating labor, cost of goods sold and distribution costs and other operating expenses were due to higher volumes, while the increase in infrastructure costs was due to higher volumes and increased technology spending.
+
+Selling, general, administrative and other costs increased $517 million from $2,886 million to $3,403 million due to higher marketing spend and inflation.
+
+Depreciation and amortization increased $74 million from $2,377 million to $2,451 million, primarily due to new attractions at our domestic parks and resorts.
+
+Segment operating results increased $7,405 million, to income of $7,285 million from a loss of $120 million due to growth at our domestic parks and experiences and, to a lesser extent, at our international parks and experiences and consumer products business.
+
+The following table presents supplemental revenue and operating income (loss) detail for the Experiences segment:
+
+The following table presents supplemental information for items related to Experiences that are excluded from segment operating income:
+
+(1) Fiscal 2021 included asset impairments and severance costs related to the closure of a substantial number of our Disney-branded retail stores in North America and Europe and severance costs related to other workforce reductions.
+
+Corporate and unallocated shared expenses $ (1,147) $ (1,159) $ (928) 1 % (25) %
+
+From fiscal 2022 to fiscal 2023, the decrease in corporate and unallocated shared expenses was driven by lower compensation and human resource-related costs, partially offset by increases in rent expense and technology costs. From fiscal 2021 to fiscal 2022, the increase in corporate and unallocated shared expenses was driven by higher compensation and human resource-related costs.
+
+See Note 18 to the Consolidated Financial Statements for information regarding the Company’s restructuring activities.
+
+The change in cash, cash equivalents and restricted cash is as follows:
+
+Cash provided by operating activities of $9.9 billion for fiscal 2023 increased 64% or $3.9 billion compared to $6.0 billion in fiscal 2022 due to lower spending on film and episodic content at Entertainment and higher operating cash flow at Experiences, partially offset by higher spending on sports content. The decrease in spending on film and episodic content at Entertainment included the impact of the WGA and SAG-AFTRA work stoppages. The increase in operating cash flow at Experiences was due to higher operating cash receipts driven by higher revenue, partially offset by an increase in operating cash disbursements due to higher operating expenses. The decrease in operating cash flow at Sports was due to the timing of payments for sports content.
+
+Cash provided by operating activities of $6.0 billion for fiscal 2022 increased 8% or $436 million compared to $5.6 billion in fiscal 2021 due to higher operating cash flow at Experiences and, to a lesser extent, lower income tax payments and pension contributions, partially offset by lower operating cash flow at Entertainment and, to a lesser extent, a partial payment for the Content License Early Termination. The increase in operating cash flow at Experiences was due to higher operating cash receipts driven by higher revenue, partially offset by an increase in operating cash disbursements due to higher operating expenses. The decrease in operating cash flow at Entertainment was due to higher operating cash disbursements and higher spending on film and episodic content, partially offset by higher operating cash receipts. Higher operating cash disbursements were driven by increased operating expenses while higher operating cash receipts were due to revenue growth.
+
+The Entertainment and Sports segments incur costs to produce and license film, episodic, sports and other content. Production costs include spend on content internally produced at our studios such as live-action and animated films, episodic series, specials, shorts and theatrical stage plays. Production costs also include original content commissioned from third-party studios. Programming costs include content rights licensed from third parties for use on the Company’s sports and general entertainment networks and DTC streaming services. Programming assets are generally recorded when the programming becomes available to us with a corresponding increase in programming liabilities.
+
+The Company’s production and programming activity for fiscal 2023, 2022 and 2021 are as follows:
+
+The Company currently expects its fiscal 2024 spend on produced and licensed content to be approximately $25 billion, with sports rights expected to account for over 40% of spend. See Note 14 to the Consolidated Financial Statements for information regarding the Company’s contractual commitments to acquire sports and broadcast programming.
+
+The Company has various commitments and guarantees, such as long-term leases, purchase commitments and other executory contracts, that are disclosed in the footnotes to the financial statements. See Notes 14 and 15 to the Consolidated Financial Statements for further information regarding these commitments.
+
+As disclosed in Notes 9 and 14 to the Consolidated Financial Statements, the Company has exposure for certain tax and legal matters.
+
+Investing activities consist principally of investments in parks, resorts and other property and acquisition and divestiture activity. The Company’s investments in parks, resorts and other property for fiscal 2023, 2022 and 2021 are as follows:
+
+Capital expenditures at Entertainment primarily reflect investments in technology and in facilities and equipment for expanding and upgrading broadcast centers, production facilities and television station facilities. The increase in fiscal 2023 compared to fiscal 2022 was driven by higher technology spending to support our streaming services.
+
+Capital expenditures at Experiences are principally for theme park and resort expansion, new attractions, cruise ships, capital improvements and systems infrastructure. The decrease in capital expenditures in fiscal 2023 compared to fiscal 2022 was due to lower spending on cruise ship fleet expansion. The increase in capital expenditures in fiscal 2022 compared to fiscal 2021 was due to cruise ship fleet expansion.
+
+Capital expenditures at Corporate primarily reflect investments in facilities, information technology infrastructure and equipment. The increases in fiscal 2023 compared to fiscal 2022 and in fiscal 2022 compared to fiscal 2021 were both due to higher spending on facilities.
+
+The Company currently expects its fiscal 2024 capital expenditures to total approximately $6 billion compared to fiscal 2023 capital expenditures of $5 billion. The increase in capital expenditures is primarily due to higher spending at Experiences, in part due to continued investment in our Disney Cruise Line business.
+
+During the year ended September 30, 2023, the Company’s borrowing activity was as follows:
+
+(2) The other activity is primarily due to the amortization of purchase accounting adjustments and debt issuance fees.
+
+(3) See Note 6 to the Consolidated Financial Statements for information regarding commitments to fund the Asia Theme Parks.
+
+(4) The other activity is due to market value adjustments for debt with qualifying hedges.
+
+See Note 8 to the Consolidated Financial Statements for information regarding the Company’s bank facilities and debt maturities. The Company may use operating cash flows, commercial paper borrowings up to the amount of its unused $12.25 billion bank facilities and incremental term debt issuances to retire or refinance other borrowings before or as they come due.
+
+In November 2023, NBCU exercised its put right to require the Company to purchase NBCU’s interest in Hulu for the greater of approximately $9 billion or NBCU’s share of fair value (see Note 2 of the Consolidated Financial Statements for additional information).
+
+The Company did not declare or pay a dividend or repurchase any of its shares in fiscal 2023, 2022 and 2021.
+
+The Company’s operating cash flow and access to the capital markets can be impacted by factors outside of its control. We believe that the Company’s financial condition is strong and that its cash balances, other liquid assets, operating cash flows, access to debt and equity capital markets and borrowing capacity under current bank facilities, taken together, provide adequate resources to fund ongoing operating requirements, contractual obligations, upcoming debt maturities as well as future capital expenditures related to the expansion of existing businesses and development of new projects. In addition, the Company could undertake other measures to ensure sufficient liquidity, such as continuing to not declare dividends; raising financing; reducing capital spending; reducing film and episodic content investments; or implementing furloughs or reductions in force.
+
+The Company’s borrowing costs can also be impacted by short- and long-term debt ratings assigned by nationally recognized rating agencies, which are based, in significant part, on the Company’s performance as measured by certain credit metrics such as leverage and interest coverage ratios. As of September 30, 2023, Moody’s Investors Service’s long- and short-term debt ratings for the Company were A2 and P-1 (Stable), respectively, Standard and Poor’s long- and short-term debt ratings for the Company were A- and A-2 (Positive), respectively, and Fitch’s long- and short-term debt ratings for the Company were A- and F2 (Stable), respectively. The Company’s bank facilities contain only one financial covenant, relating to interest coverage of three times earnings before interest, taxes, depreciation and amortization, including both intangible amortization and amortization of our film and television production and programming costs. On September 30, 2023, the Company met this covenant by a significant margin. The Company’s bank facilities also specifically exclude certain entities, including the Asia Theme Parks, from any representations, covenants or events of default.
+
+We believe that the application of the following accounting policies, which are important to our financial position and results of operations, require significant judgments and estimates on the part of management. For a summary of our significant accounting policies, including the accounting policies discussed below, see Note 2 to the Consolidated Financial Statements.
+
+We amortize and test for impairment capitalized film and television production costs based on whether the content is predominantly monetized individually or as a group. See Note 2 to the Consolidated Financial Statements for further discussion.
+
+Production costs that are classified as individual are amortized based upon the ratio of the current period’s revenues to the estimated remaining total revenues (Ultimate Revenues).
+
+With respect to produced films intended for theatrical release, the most sensitive factor affecting our estimate of Ultimate Revenues is theatrical performance. Revenues derived from other markets subsequent to the theatrical release are generally highly correlated with theatrical performance. Theatrical performance varies primarily based upon the public interest and demand for a particular film, the popularity of competing films at the time of release and the level of marketing effort. Upon a film’s release and determination of the theatrical performance, the Company’s estimates of revenues from succeeding windows and markets, which may include imputed license fees for content that is used on our DTC streaming services, are revised based on historical relationships and an analysis of current market trends.
+
+With respect to capitalized television production costs that are classified as individual, the most sensitive factor affecting estimates of Ultimate Revenues is program ratings of the content on our licensees’ platforms. Program ratings, which are an indication of market acceptance, directly affect the program’s ability to generate advertising and subscriber revenues and are correlated with the license fees we can charge for the content in subsequent windows and for subsequent seasons.
+
+Ultimate Revenues are reassessed each reporting period and the impact of any changes on amortization of production cost is accounted for as if the change occurred at the beginning of the current fiscal year. If our estimate of Ultimate Revenues decreases, amortization of costs may be accelerated or result in an impairment. Conversely, if our estimate of Ultimate Revenues increases, cost amortization may be slowed.
+
+Production costs classified as individual are tested for impairment at the individual title level by comparing that title’s unamortized costs to the present value of discounted cash flows directly attributable to the title. To the extent the title’s unamortized costs exceed the present value of discounted cash flows, an impairment charge is recorded for the excess.
+
+Produced content costs that are part of a group and acquired/licensed content costs are amortized based on projected usage, typically resulting in an accelerated or straight-line amortization pattern. The determination of projected usage requires judgment and is reviewed on a regular basis for changes. Adjustments to projected usage are applied prospectively in the period of the change. Historical viewing patterns are the most significant input into determining the projected usage, and significant judgment is required in using historical viewing patterns to derive projected usage. If projected usage changes we may need to accelerate or slow the recognition of amortization expense.
+
+Cost of content that is predominantly monetized as a group is tested for impairment by comparing the present value of the discounted cash flows of the group to the aggregate unamortized costs of the group. The group is established by identifying the lowest level for which cash flows are independent of the cash flows of other produced and licensed content. If the unamortized costs exceed the present value of discounted cash flows, an impairment charge is recorded for the excess and allocated to individual titles based on the relative carrying value of each title in the group. If there are no plans to continue to use an individual film or television program that is part of a group, the unamortized cost of the individual title is written down to its estimated fair value. Licensed content is included as part of the group within which it is monetized for purposes of impairment testing.
+
+The amortization of multi-year sports rights is based on projections of revenues for each season relative to projections of total revenues over the contract period (estimated relative value). Projected revenues include advertising revenue and an allocation of affiliate revenue. If the annual contractual payments related to each season approximate each season’s estimated relative value, we expense the related contractual payments during the applicable season. If estimated relative values by year were to change significantly, amortization of our sports rights costs may be accelerated or slowed.
+
+The Company has revenue recognition policies for its various operating segments that are appropriate to the circumstances of each business. Refer to Note 2 to the Consolidated Financial Statements for our revenue recognition policies.
+
+The Company’s pension and postretirement medical benefit obligations and related costs are calculated using a number of actuarial assumptions. Two critical assumptions, the discount rate and the expected return on plan assets, are important elements of expense and/or liability measurement, which we evaluate annually. Other assumptions include the healthcare cost trend rate and employee demographic factors such as retirement patterns, mortality, turnover and rate of compensation increase.
+
+The discount rate enables us to state expected future cash payments for benefits as a present value on the measurement date. A lower discount rate increases the present value of benefit obligations and increases pension and postretirement medical expense. The guideline for setting this rate is a high-quality long-term corporate bond rate. We increased our discount rate to 5.94 % at the end of fiscal 2023 from 5.44 % at the end of fiscal 2022 to reflect market interest rate conditions at our fiscal 2023 year-end measurement date. The Company’s discount rate was determined by considering yield curves constructed of a large population of high-quality corporate bonds and reflects the matching of the plans’ liability cash flows to the yield curves. A one percentage point decrease in the assumed discount rate would increase total benefit expense for fiscal 2024 by approximately $200 million and would increase the projected benefit obligation at September 30, 2023 by approximately $2.0 billion. A one
+
+percentage point increase in the assumed discount rate would decrease total benefit expense and the projected benefit obligation by approximately $ 45 million and $1.8 billion, respectively.
+
+To determine the expected long-term rate of return on the plan assets, we consider the current and expected asset allocation, as well as historical and expected returns on each plan asset class. Our expected return on plan assets is 7.00 %. A lower expected rate of return on plan assets will increase pension and postretirement medical expense. A one percentage point change in the long-term asset return assumption would impact fiscal 2024 annual expense by approximately $ 170 million.
+
+The Company is required to test goodwill and other indefinite-lived intangible assets for impairment on an annual basis and if current events or circumstances require, on an interim basis. The Company performs its annual test of goodwill and indefinite-lived intangible assets for impairment in its fiscal fourth quarter.
+
+Goodwill is allocated to various reporting units, which are an operating segment or one level below the operating segment. To test goodwill for impairment, the Company first performs a qualitative assessment to determine if it is more likely than not that the carrying amount of a reporting unit exceeds its fair value. If it is, a quantitative assessment is required. Alternatively, the Company may bypass the qualitative assessment and perform a quantitative impairment test.
+
+The qualitative assessment requires the consideration of factors such as recent market transactions, macroeconomic conditions and changes in projected future cash flows of the reporting unit.
+
+The quantitative assessment compares the fair value of each goodwill reporting unit to its carrying amount, and to the extent the carrying amount exceeds the fair value, an impairment of goodwill is recognized for the excess up to the amount of goodwill allocated to the reporting unit.
+
+In fiscal 2023, the Company bypassed the qualitative test and performed a quantitative assessment of goodwill for impairment, under both the previous segment reporting structure and the new segment reporting structure. There were no goodwill impairments under the previous reporting structure. The change in reporting structure requires judgment to identify new reporting units, allocate goodwill to these reporting units (based on relative fair values) and assign other recorded assets and liabilities to these reporting units.
+
+To determine the fair value of our reporting units, we generally use a present value technique (discounted cash flows) corroborated by market multiples when available and as appropriate. The discounted cash flow analyses are sensitive to our estimated projected future cash flows as well as the discount rates used to calculate their present value. Our future cash flows are based on internal forecasts for each reporting unit, which consider projected inflation and other economic indicators, as well as industry growth projections. Discount rates for each reporting unit are determined based on the inherent risks of each reporting unit’s underlying operations. We believe our estimates are consistent with how a marketplace participant would value our reporting units.
+
+Since our prior annual impairment assessment performed in the fourth quarter of fiscal 2022, the fair values of our media and entertainment businesses have generally declined as a result of higher discount rates and lower projections for certain revenue streams.
+
+Based on our projections, the carrying amounts of our entertainment and international sports linear networks reporting units exceeded their fair values and we recorded non-cash goodwill impairment charges of approximately $0.7 billion. The entertainment linear networks reporting unit goodwill after impairment is approximately $8 billion and the international sports linear networks reporting unit goodwill is fully impaired.
+
+In addition, the fair value of our entertainment DTC services reporting unit exceeded its carrying amount by less than 10%. Goodwill of the entertainment DTC services reporting unit is approximately $45 billion.
+
+Significant judgments and assumptions in the discounted cash flow model relate to future revenues and certain operating expenses, terminal growth rates and discount rates. Changes to these significant assumptions, market trends, or macroeconomic events could produce test results in the future that differ, and we could be required to record additional impairment charges.
+
+For our entertainment linear networks reporting unit, a 25 basis point increase in the discount rate or a 1% reduction in projected cash flows used to determine fair value would result in an incremental impairment charge of approximately $0.3 billion.
+
+For our entertainment DTC services reporting unit, a 25 basis point increase in the discount rate used to determine fair value would result in an impairment of $0.5 billion, and a 1% reduction in projected cash flows would result in a decrease in the excess fair value over carrying amount by approximately $0.9 billion.
+
+To test other indefinite-lived intangible assets for impairment, the Company first performs a qualitative assessment to determine if it is more likely than not that the carrying amount of each of its indefinite-lived intangible assets exceeds its fair
+
+value. If it is, a quantitative assessment is required. Alternatively, the Company may bypass the qualitative assessment and perform a quantitative impairment test.
+
+The qualitative assessment requires the consideration of factors such as recent market transactions, macroeconomic conditions and changes in projected future cash flows.
+
+The quantitative assessment compares the fair value of an indefinite-lived intangible asset to its carrying amount. If the carrying amount of an indefinite-lived intangible asset exceeds its fair value, an impairment loss is recognized for the excess. Fair values of indefinite-lived intangible assets are determined based on discounted cash flows or appraised values, as appropriate.
+
+The Company tests long-lived assets, including amortizable intangible assets, for impairment whenever events or changes in circumstances (triggering events) indicate that the carrying amount may not be recoverable. Once a triggering event has occurred, the impairment test employed is based on whether the Company’s intent is to hold the asset for continued use or to hold the asset for sale. The impairment test for assets held for use requires a comparison of the estimated undiscounted future cash flows expected to be generated over the useful life of the significant assets of an asset group to the carrying amount of the asset group. An asset group is generally established by identifying the lowest level of cash flows generated by a group of assets that are largely independent of the cash flows of other assets and could include assets used across multiple businesses. If the carrying amount of an asset group exceeds the estimated undiscounted future cash flows, an impairment would be measured as the difference between the fair value of the asset group and the carrying amount of the asset group. For assets held for sale, to the extent the carrying amount is greater than the asset’s fair value less costs to sell, an impairment loss is recognized for the difference. Determining whether a long-lived asset is impaired requires various estimates and assumptions, including whether a triggering event has occurred, the identification of asset groups, estimates of future cash flows and the discount rate used to determine fair values.
+
+The Company has investments in equity securities. For equity securities that do not have a readily determinable fair value, we consider forecasted financial performance of the investee companies, as well as volatility inherent in the external markets for these investments. If these forecasts are not met, impairment charges may be recorded.
+
+The Company tested its indefinite-lived intangible assets, long-lived assets and investments for impairment and recorded non-cash impairment charges of $2.3 billion, $ 0.2 billion and $ 0.3 billion in fiscal 2023, 2022 and 2021, respectively. The fiscal 2023 charges primarily related to content impairments resulting from a strategic change in our approach to content curation. See Note 18 to the Consolidated Financial Statements for additional information. The fiscal 2022 charges primarily related to exiting our businesses in Russia. The fiscal 2021 charges primarily related to the closure of an animation studio and a substantial number of our Disney-branded retail stores in North America and Europe.
+
+We evaluate our allowance for credit losses and estimate collectability of accounts receivable based on historical bad debt experience, our assessment of the financial condition of individual companies with which we do business, current market conditions, and reasonable and supportable forecasts of future economic conditions. In times of economic turmoil, including COVID-19, our estimates and judgments with respect to the collectability of our receivables are subject to greater uncertainty than in more stable periods. If our estimate of uncollectible accounts is too low, costs and expenses may increase in future periods, and if it is too high, costs and expenses may decrease in future periods. See Note 2 to the Consolidated Financial Statements for additional discussion.
+
+We are currently involved in certain legal proceedings and, as required, have accrued estimates of the probable and estimable losses for the resolution of these proceedings. These estimates are based upon an analysis of potential results, assuming a combination of litigation and settlement strategies and have been developed in consultation with outside counsel as appropriate. From time to time, we are also involved in other contingent matters for which we accrue estimates for a probable and estimable loss. It is possible, however, that future results of operations for any particular quarterly or annual period could be materially affected by changes in our assumptions or the effectiveness of our strategies related to legal proceedings or our assumptions regarding other contingent matters. See Note 14 to the Consolidated Financial Statements for more detailed information on litigation exposure.
+
+As a matter of course, the Company is regularly audited by federal, state and foreign tax authorities. From time to time, these audits result in proposed assessments. Our determinations regarding the recognition of income tax benefits are made in consultation with outside tax and legal counsel, where appropriate, and are based upon the technical merits of our tax positions in consideration of applicable tax statutes and related interpretations and precedents and upon the expected outcome of proceedings (or negotiations) with taxing and legal authorities. The tax benefits ultimately realized by the Company may differ from those recognized in our future financial statements based on a number of factors, including the Company’s decision to
+
+settle rather than litigate a matter, relevant legal precedent related to similar matters and the Company’s success in supporting its filing positions with taxing authorities. See Note 9 to the Consolidated Financial Statements for additional discussion.
+
+See Note 19 to the Consolidated Financial Statements for information regarding new accounting pronouncements.
+
+In the U.S., Disney+, ESPN+ and Hulu SVOD Only are each offered as a standalone service or together as part of various multi-product offerings. Hulu Live TV + SVOD includes Disney+ and ESPN+. Disney+ is available in more than 150 countries and territories outside the U.S. and Canada. In India and certain other Southeast Asian countries, the service is branded Disney+ Hotstar. In certain Latin American countries, we offer Disney+ as well as Star+, a general entertainment SVOD service, which is available on a standalone basis or together with Disney+ (Combo+). Depending on the market, our services can be purchased on our websites or through third-party platforms/apps or are available via wholesale arrangements.
+
+Paid subscribers reflect subscribers for which we recognized subscription revenue. Subscribers cease to be a paid subscriber as of their effective cancellation date or as a result of a failed payment method. Subscribers to multi-product offerings in the U.S. are counted as a paid subscriber for each service included in the multi-product offering and subscribers to Hulu Live TV + SVOD are counted as one paid subscriber for each of the Hulu Live TV + SVOD, Disney+ and ESPN+ services. In Latin America, if a subscriber has either the standalone Disney+ or Star+ service or subscribes to Combo+, the subscriber is counted as one Disney+ paid subscriber. Subscribers include those who receive a service through wholesale arrangements including those for which the service is distributed to each subscriber of an existing content distribution tier. When we aggregate the total number of paid subscribers across our DTC streaming services, we refer to them as paid subscriptions.
+
+International Disney+ (excluding Disney+ Hotstar) includes the Disney+ service outside the U.S. and Canada and the Star+ service in Latin America.
+
+Hulu and ESPN+ average monthly revenue per paid subscriber is calculated based on the average of the monthly average paid subscribers for each month in the period. The monthly average paid subscribers is calculated as the sum of the beginning of the month and end of the month paid subscriber count, divided by two. Disney+ average monthly revenue per paid subscriber is calculated using a daily average of paid subscribers for the period. Revenue includes subscription fees, advertising (excluding revenue earned from selling advertising spots to other Company businesses) and premium and feature add-on revenue but excludes Premier Access and Pay-Per-View revenue. The average revenue per paid subscriber is net of discounts on offerings that carry more than one service. Revenue is allocated to each service based on the relative retail or wholesale price of each service on a standalone basis. Hulu Live TV + SVOD revenue is allocated to the SVOD services based on the wholesale price of the Hulu SVOD Only, Disney+ and ESPN+ multi-product offering. In general, wholesale arrangements have a lower average monthly revenue per paid subscriber than subscribers that we acquire directly or through third-party platforms.
+
+(1) At September 30, 2023, there were 20.3 million and 2.3 million subscribers to three-service and two-service multi-product offerings, respectively. At October 1, 2022, there were 18.7 million and 0.7 million subscribers to three-
+
+service and two-service multi-product offerings, respectively. At October 2, 2021, there were 11.4 million subscribers to three-service offerings and no subscribers to two-service offerings.
+
+(2) Disney+ Hotstar is not included in any of the Company’s multi-product offerings.
+
+(4) Total may not equal the sum of the column due to rounding.
+
+On March 20, 2019, as part of the acquisition of TFCF, The Walt Disney Company (“TWDC”) became the ultimate parent of TWDC Enterprises 18 Corp. (formerly known as The Walt Disney Company) (“Legacy Disney”). Legacy Disney and TWDC are collectively referred to as “Obligor Group”, and individually, as a “Guarantor”. Concurrent with the close of the TFCF acquisition, $16.8 billion of TFCF’s assumed public debt (which then constituted 96% of such debt) was exchanged for senior notes of TWDC (the “exchange notes”) issued pursuant to an exemption from registration under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to an Indenture, dated as of March 20, 2019, between TWDC, Legacy Disney, as guarantor, and Citibank, N.A., as trustee (the “TWDC Indenture”) and guaranteed by Legacy Disney. On November 26, 2019, $14.0 billion of the outstanding exchange notes were exchanged for new senior notes of TWDC registered under the Securities Act, issued pursuant to the TWDC Indenture and guaranteed by Legacy Disney. In addition, contemporaneously with the closing of the March 20, 2019 exchange offer, TWDC entered into a guarantee of the registered debt securities issued by Legacy Disney under the Indenture dated as of September 24, 2001 between Legacy Disney and Wells Fargo Bank, National Association, as trustee (the “2001 Trustee”) (as amended by the first supplemental indenture among Legacy Disney, as issuer, TWDC, as guarantor, and the 2001 Trustee, as trustee).
+
+Other subsidiaries of the Company do not guarantee the registered debt securities of either TWDC or Legacy Disney (such subsidiaries are referred to as the “non-Guarantors”). The par value and carrying value of total outstanding and guaranteed registered debt securities of the Obligor Group at September 30, 2023 was as follows:
+
+Registered debt with unconditional guarantee $ 35,163 $ 35,393 $ 8,121 $ 7,880
+
+The guarantees by TWDC and Legacy Disney are full and unconditional and cover all payment obligations arising under the guaranteed registered debt securities. The guarantees may be released and discharged upon (i) as a general matter, the indebtedness for borrowed money of the consolidated subsidiaries of TWDC in aggregate constituting no more than 10% of all consolidated indebtedness for borrowed money of TWDC and its subsidiaries (subject to certain exclusions), (ii) upon the sale, transfer or disposition of all or substantially all of the equity interests or all or substantially all, or substantially as an entirety, the assets of Legacy Disney to a third party, and (iii) other customary events constituting a discharge of a guarantor’s obligations. In addition, in the case of Legacy Disney’s guarantee of registered debt securities issued by TWDC, Legacy Disney may be released and discharged from its guarantee at any time Legacy Disney is not a borrower, issuer or guarantor under certain material bank facilities or any debt securities.
+
+Operations are conducted almost entirely through the Company’s subsidiaries. Accordingly, the Obligor Group’s cash flow and ability to service its debt, including the public debt, are dependent upon the earnings of the Company’s subsidiaries and the distribution of those earnings to the Obligor Group, whether by dividends, loans or otherwise. Holders of the guaranteed registered debt securities have a direct claim only against the Obligor Group.
+
+Set forth below are summarized financial information for the Obligor Group on a combined basis after elimination of (i) intercompany transactions and balances between TWDC and Legacy Disney and (ii) equity in the earnings from and investments in any subsidiary that is a non-Guarantor. This summarized financial information has been prepared and presented pursuant to the Securities and Exchange Commission Regulation S-X Rule 13-01, “Financial Disclosures about Guarantors and Issuers of Guaranteed Securities” and is not intended to present the financial position or results of operations of the Obligor Group in accordance with U.S. GAAP.

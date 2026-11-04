@@ -1,0 +1,21 @@
+2026-10-31 03:27:05,575 INFO Loaded financeslm_final.pt on CPU (49737600 parameters)
+2026-10-31 03:27:15,629 INFO Generated 80 tokens; saved generation_06a18439a6544b4f831a387217246ca6.json
+2026-10-31 03:29:20,513 INFO Loaded financeslm_final.pt on CPU (49737600 parameters)
+2026-10-31 03:29:28,515 INFO Generated 80 tokens; saved generation_f85b53e231834b93a8d1a5bcc5cb3d1f.json
+2026-10-31 03:30:45,971 INFO Loaded financeslm_final.pt on CPU (49737600 parameters)
+2026-10-31 03:30:46,546 ERROR Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\ESP3201A\.runtime\python\cpython-3.11.16-windows-x86_64-none\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\ESP3201A\.runtime\python\cpython-3.11.16-windows-x86_64-none\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-31 03:30:52,476 INFO Generated 80 tokens; saved generation_e0d01baad64c43b1917dd2e8a1ddf8cd.json
+2026-10-31 03:30:57,033 INFO Generated 80 tokens; saved generation_93c6bb1185db483f96421fe03bdee695.json
+2026-10-31 03:30:58,294 INFO Loaded 15m_large_seed123.pt on CPU (15464064 parameters)
+2026-10-31 03:30:58,492 INFO Generated 12 tokens; saved generation_77e32a12024c4dd7a609866125cc27c9.json
+2026-10-31 03:30:58,999 INFO Loaded 30m_large_seed123.pt on CPU (29401600 parameters)
+2026-10-31 03:30:59,259 INFO Generated 12 tokens; saved generation_c0e559a2ae534ef7aae004d25665b1b7.json
+2026-10-31 03:30:59,927 INFO Loaded financeslm_final.pt on CPU (49737600 parameters)
+2026-10-31 03:31:00,331 INFO Generated 12 tokens; saved generation_a0fc7689bcda48ada66f091c27c17702.json

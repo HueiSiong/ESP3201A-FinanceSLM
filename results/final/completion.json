@@ -1,0 +1,29 @@
+{
+  "status": "local_research_project_complete",
+  "finished_utc": "2026-10-29T20:01:42.725166+00:00",
+  "report": "results\\final\\FinanceSLM_Final_Report.docx",
+  "report_sha256": "e4a8e6ea04c1f1bb2b01cad76b7bd9cf8b11eb53699eae7a39c59ff5b0df4bf6",
+  "completed_training_runs": 18,
+  "completed_evaluations": 18,
+  "data_model_checks": 33,
+  "demo_checks": 18,
+  "original_files_verified": 342,
+  "selected_model": {
+    "run": "50m_large_seed123",
+    "criterion": "Lowest full validation loss among validation-probe-selected checkpoints",
+    "checkpoint": "checkpoints/final/financeslm_final.pt",
+    "tokenizer": "data/final/finance_tokenizer.json",
+    "validation_perplexity": 53.2216624967491,
+    "test_perplexity": 57.64515780490899
+  },
+  "deferred": [
+    "GitHub publication",
+    "fresh-machine reproducibility"
+  ],
+  "scope_notes": [
+    "Actual cleaned dataset budgets are 357288, 706370 and 1048452 tokens, not the earlier 20M/60M/120M proposal.",
+    "NeMo/Megatron not used; direct PyTorch implements training.",
+    "Coherence and financial reliability remain limited.",
+    "No slides or graphs created."
+  ]
+}

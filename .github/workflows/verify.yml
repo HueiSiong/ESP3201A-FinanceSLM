@@ -1,0 +1,32 @@
+name: Verify FinanceSLM
+permissions:
+  contents: read
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  source-checks:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
+      - run: python -m pip install -r requirements.lock.txt
+      - run: python -m pip check
+      - run: python tests.py
+  model-check:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
+      - run: python -m pip install -r requirements.lock.txt
+      - run: python artifacts.py fetch --repo "${{ github.repository }}"
+      - run: python research.py smoke --device cpu
+      - run: python research.py evaluate --device cpu

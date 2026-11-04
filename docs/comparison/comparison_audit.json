@@ -1,0 +1,34 @@
+{
+  "runs": 18,
+  "prompts_per_run": 20,
+  "saved_continuations": 360,
+  "word_comparison_tables": 80,
+  "identical_prompt_order": true,
+  "generation_settings": {
+    "max_new_tokens": 80,
+    "temperature": 0.8,
+    "top_k": 40,
+    "seed": 42,
+    "prompts": 20
+  },
+  "source_checksums": {
+    "results/final/runs/15m_large_seed123/evaluation.json": "444ff13ac1f4c317c73f9b4cbbd431abb5b4a0da7acdc643613dabfecc09e796",
+    "results/final/runs/15m_large_seed42/evaluation.json": "cda9735096b73ecacadbbd4bbef95c45bd16a1e2e9bbf02a8ee53fe7ba58656c",
+    "results/final/runs/15m_medium_seed123/evaluation.json": "2fed019c7840780d93b38b6ba3ed1728acd5d4476ec380f1a7814c207d449765",
+    "results/final/runs/15m_medium_seed42/evaluation.json": "4c9cdac8c4caabd024fe3544dcc19c21d5dfd658d5b5260dd40352b2420040f4",
+    "results/final/runs/15m_small_seed123/evaluation.json": "452688f819ce0e596d28624767d47349101a727c816f581b2ef058c6d1b83457",
+    "results/final/runs/15m_small_seed42/evaluation.json": "d9ae77b2747e847253df3b9546a11e70124cefcc3abcb575a8ebdd0225295aaf",
+    "results/final/runs/30m_large_seed123/evaluation.json": "66a234171b047382a12b202d5cca04f5b1ab4f06b380a0e4eb56c09643552c2c",
+    "results/final/runs/30m_large_seed42/evaluation.json": "a0b6b8f4050f365e6f0fac081801c135e8d73a3cbfa18f3d7f5b54a5772e8ee0",
+    "results/final/runs/30m_medium_seed123/evaluation.json": "9283fe1837517601dbad69445fa7ef33fea8a3b6e8df7275b2c6e3a316f11746",
+    "results/final/runs/30m_medium_seed42/evaluation.json": "aa71d4c1fc872c5ca13e21b99dffe9538ad679240a8a2d62f7c1cbb9a7a9bbb8",
+    "results/final/runs/30m_small_seed123/evaluation.json": "95faa2683aaf932fd3aa7452b60455c15d59d96c2bc4fda64e79e1f4931b8d00",
+    "results/final/runs/30m_small_seed42/evaluation.json": "a1bede2f92d799d4cfab726b5149006ff05bd3849d5416b3d7e2e113f12bc045",
+    "results/final/runs/50m_large_seed123/evaluation.json": "c9f97badb1fff178781d1dc8e42a6bfd6463e738dde29d682e83139e3bac251f",
+    "results/final/runs/50m_large_seed42/evaluation.json": "c376db41c6641af19082408a1ce65a3c7175df09c61d0d0e8f8523c59096fa0f",
+    "results/final/runs/50m_medium_seed123/evaluation.json": "01fe0938a6f64ff7259bc8d32f39021424ab0a7e8fb995b5c0fe0062e33726e1",
+    "results/final/runs/50m_medium_seed42/evaluation.json": "fada3badff85a71419209a12672f14ced45521705fd993a463a13b7f84302541",
+    "results/final/runs/50m_small_seed123/evaluation.json": "1815d3600863dc9ad48493bde3b2c899426a7f4b54d1bb619859269db5042a91",
+    "results/final/runs/50m_small_seed42/evaluation.json": "31d08c8b9fc7261ffb551f199889d0fb81f6bbe541f56e68325f5b73c9de3164"
+  }
+}

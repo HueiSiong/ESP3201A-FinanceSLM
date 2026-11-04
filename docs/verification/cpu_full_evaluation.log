@@ -1,0 +1,14 @@
+{
+  "loss": 4.054305608908873,
+  "perplexity": 57.64512083695659,
+  "tokens": 128685,
+  "seconds": 81.43656399997417,
+  "partial": false,
+  "checkpoint": "checkpoints/final/financeslm_final.pt",
+  "run": "50m_large_seed123",
+  "split": "test",
+  "device": "cpu",
+  "torch": "2.3.1+cpu",
+  "recorded_perplexity": 57.64515780490899,
+  "relative_difference": 6.413019550082805e-07
+}

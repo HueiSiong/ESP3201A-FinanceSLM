@@ -1,0 +1,14 @@
+.venv/
+venv/
+.runtime/
+__pycache__/
+*.pyc
+work/
+checkpoints/
+data/Raw/
+*.part
+*.installing
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

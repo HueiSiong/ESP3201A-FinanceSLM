@@ -1,0 +1,940 @@
+[
+  {
+    "ticker": "AAPL",
+    "year": 2025,
+    "split": "test",
+    "removed_paragraphs": 0,
+    "retained_words": 2301
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "split": "test",
+    "removed_paragraphs": 5,
+    "retained_words": 1572
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2023,
+    "split": "test",
+    "removed_paragraphs": 3,
+    "retained_words": 1715
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2022,
+    "split": "test",
+    "removed_paragraphs": 5,
+    "retained_words": 1824
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2021,
+    "split": "test",
+    "removed_paragraphs": 5,
+    "retained_words": 2100
+  },
+  {
+    "ticker": "AMZN",
+    "year": 2025,
+    "split": "test",
+    "removed_paragraphs": 0,
+    "retained_words": 6344
+  },
+  {
+    "ticker": "AMZN",
+    "year": 2024,
+    "split": "test",
+    "removed_paragraphs": 24,
+    "retained_words": 4413
+  },
+  {
+    "ticker": "AMZN",
+    "year": 2023,
+    "split": "test",
+    "removed_paragraphs": 36,
+    "retained_words": 3165
+  },
+  {
+    "ticker": "AMZN",
+    "year": 2022,
+    "split": "test",
+    "removed_paragraphs": 27,
+    "retained_words": 4475
+  },
+  {
+    "ticker": "AMZN",
+    "year": 2021,
+    "split": "test",
+    "removed_paragraphs": 23,
+    "retained_words": 5169
+  },
+  {
+    "ticker": "KO",
+    "year": 2025,
+    "split": "test",
+    "removed_paragraphs": 0,
+    "retained_words": 15889
+  },
+  {
+    "ticker": "KO",
+    "year": 2024,
+    "split": "test",
+    "removed_paragraphs": 71,
+    "retained_words": 11669
+  },
+  {
+    "ticker": "KO",
+    "year": 2023,
+    "split": "test",
+    "removed_paragraphs": 82,
+    "retained_words": 9497
+  },
+  {
+    "ticker": "KO",
+    "year": 2022,
+    "split": "test",
+    "removed_paragraphs": 68,
+    "retained_words": 12898
+  },
+  {
+    "ticker": "KO",
+    "year": 2021,
+    "split": "test",
+    "removed_paragraphs": 66,
+    "retained_words": 14392
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2025,
+    "split": "validation",
+    "removed_paragraphs": 0,
+    "retained_words": 5211
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2024,
+    "split": "validation",
+    "removed_paragraphs": 14,
+    "retained_words": 4826
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2023,
+    "split": "validation",
+    "removed_paragraphs": 15,
+    "retained_words": 4761
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "split": "validation",
+    "removed_paragraphs": 17,
+    "retained_words": 4944
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2021,
+    "split": "validation",
+    "removed_paragraphs": 17,
+    "retained_words": 5226
+  },
+  {
+    "ticker": "PYPL",
+    "year": 2025,
+    "split": "validation",
+    "removed_paragraphs": 0,
+    "retained_words": 9779
+  },
+  {
+    "ticker": "PYPL",
+    "year": 2024,
+    "split": "validation",
+    "removed_paragraphs": 48,
+    "retained_words": 6146
+  },
+  {
+    "ticker": "PYPL",
+    "year": 2023,
+    "split": "validation",
+    "removed_paragraphs": 45,
+    "retained_words": 7439
+  },
+  {
+    "ticker": "PYPL",
+    "year": 2022,
+    "split": "validation",
+    "removed_paragraphs": 52,
+    "retained_words": 8337
+  },
+  {
+    "ticker": "PYPL",
+    "year": 2021,
+    "split": "validation",
+    "removed_paragraphs": 35,
+    "retained_words": 9651
+  },
+  {
+    "ticker": "ABNB",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 6049
+  },
+  {
+    "ticker": "ABNB",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 22,
+    "retained_words": 4862
+  },
+  {
+    "ticker": "ABNB",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 15,
+    "retained_words": 5804
+  },
+  {
+    "ticker": "ADBE",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 6054
+  },
+  {
+    "ticker": "ADBE",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 25,
+    "retained_words": 4911
+  },
+  {
+    "ticker": "ADBE",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 32,
+    "retained_words": 4325
+  },
+  {
+    "ticker": "ADBE",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 23,
+    "retained_words": 5292
+  },
+  {
+    "ticker": "ADBE",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 36,
+    "retained_words": 5156
+  },
+  {
+    "ticker": "AMD",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 5374
+  },
+  {
+    "ticker": "AMD",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 14,
+    "retained_words": 3998
+  },
+  {
+    "ticker": "AMD",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 23,
+    "retained_words": 3534
+  },
+  {
+    "ticker": "AMD",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 22,
+    "retained_words": 4574
+  },
+  {
+    "ticker": "AMD",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 17,
+    "retained_words": 3249
+  },
+  {
+    "ticker": "AXP",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 9,
+    "retained_words": 19920
+  },
+  {
+    "ticker": "AXP",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 142,
+    "retained_words": 13226
+  },
+  {
+    "ticker": "AXP",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 170,
+    "retained_words": 11035
+  },
+  {
+    "ticker": "AXP",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 163,
+    "retained_words": 11425
+  },
+  {
+    "ticker": "AXP",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 144,
+    "retained_words": 12780
+  },
+  {
+    "ticker": "BA",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 11805
+  },
+  {
+    "ticker": "BA",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 41,
+    "retained_words": 9225
+  },
+  {
+    "ticker": "BA",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 34,
+    "retained_words": 9427
+  },
+  {
+    "ticker": "BA",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 37,
+    "retained_words": 11119
+  },
+  {
+    "ticker": "BA",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 43,
+    "retained_words": 13086
+  },
+  {
+    "ticker": "CAT",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 12675
+  },
+  {
+    "ticker": "CAT",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 60,
+    "retained_words": 9283
+  },
+  {
+    "ticker": "CAT",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 80,
+    "retained_words": 7262
+  },
+  {
+    "ticker": "CAT",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 62,
+    "retained_words": 9181
+  },
+  {
+    "ticker": "CAT",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 82,
+    "retained_words": 9458
+  },
+  {
+    "ticker": "CRM",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 6753
+  },
+  {
+    "ticker": "CRM",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 29,
+    "retained_words": 5108
+  },
+  {
+    "ticker": "CSCO",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 26,
+    "retained_words": 8572
+  },
+  {
+    "ticker": "CSCO",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 79,
+    "retained_words": 6034
+  },
+  {
+    "ticker": "CSCO",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 62,
+    "retained_words": 5972
+  },
+  {
+    "ticker": "CSCO",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 69,
+    "retained_words": 6234
+  },
+  {
+    "ticker": "CSCO",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 57,
+    "retained_words": 6494
+  },
+  {
+    "ticker": "DIS",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 8968
+  },
+  {
+    "ticker": "DIS",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 57,
+    "retained_words": 6802
+  },
+  {
+    "ticker": "DIS",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 68,
+    "retained_words": 10365
+  },
+  {
+    "ticker": "DIS",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 54,
+    "retained_words": 7253
+  },
+  {
+    "ticker": "DIS",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 43,
+    "retained_words": 8443
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 6985
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 52,
+    "retained_words": 5991
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 73,
+    "retained_words": 5094
+  },
+  {
+    "ticker": "HD",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 4336
+  },
+  {
+    "ticker": "HD",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 9,
+    "retained_words": 2762
+  },
+  {
+    "ticker": "HD",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 14,
+    "retained_words": 2652
+  },
+  {
+    "ticker": "HD",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 9,
+    "retained_words": 3486
+  },
+  {
+    "ticker": "HD",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 14,
+    "retained_words": 3736
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 2,
+    "retained_words": 8339
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 34,
+    "retained_words": 6423
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 36,
+    "retained_words": 6212
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 29,
+    "retained_words": 7157
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 35,
+    "retained_words": 7269
+  },
+  {
+    "ticker": "LOW",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 3952
+  },
+  {
+    "ticker": "LOW",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 19,
+    "retained_words": 4271
+  },
+  {
+    "ticker": "LOW",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 19,
+    "retained_words": 4564
+  },
+  {
+    "ticker": "LOW",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 18,
+    "retained_words": 4528
+  },
+  {
+    "ticker": "LOW",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 25,
+    "retained_words": 5957
+  },
+  {
+    "ticker": "MA",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 2,
+    "retained_words": 5680
+  },
+  {
+    "ticker": "MA",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 44,
+    "retained_words": 4173
+  },
+  {
+    "ticker": "MA",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 53,
+    "retained_words": 3981
+  },
+  {
+    "ticker": "MA",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 55,
+    "retained_words": 4824
+  },
+  {
+    "ticker": "MA",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 44,
+    "retained_words": 3999
+  },
+  {
+    "ticker": "META",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 8258
+  },
+  {
+    "ticker": "META",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 37,
+    "retained_words": 5978
+  },
+  {
+    "ticker": "MRK",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 19777
+  },
+  {
+    "ticker": "MRK",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 49,
+    "retained_words": 15313
+  },
+  {
+    "ticker": "MRK",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 46,
+    "retained_words": 14435
+  },
+  {
+    "ticker": "MRK",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 53,
+    "retained_words": 15007
+  },
+  {
+    "ticker": "MRK",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 52,
+    "retained_words": 15979
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 6357
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 37,
+    "retained_words": 3902
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 48,
+    "retained_words": 4152
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 52,
+    "retained_words": 4260
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 57,
+    "retained_words": 3667
+  },
+  {
+    "ticker": "NFLX",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 4898
+  },
+  {
+    "ticker": "NFLX",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 9,
+    "retained_words": 3633
+  },
+  {
+    "ticker": "NFLX",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 16,
+    "retained_words": 2961
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 9770
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 26,
+    "retained_words": 7829
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 25,
+    "retained_words": 9745
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 39,
+    "retained_words": 8524
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 39,
+    "retained_words": 8486
+  },
+  {
+    "ticker": "PFE",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 0,
+    "retained_words": 13490
+  },
+  {
+    "ticker": "PFE",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 78,
+    "retained_words": 9010
+  },
+  {
+    "ticker": "PFE",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 71,
+    "retained_words": 8319
+  },
+  {
+    "ticker": "PFE",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 46,
+    "retained_words": 10570
+  },
+  {
+    "ticker": "PFE",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 44,
+    "retained_words": 12080
+  },
+  {
+    "ticker": "PG",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 12436
+  },
+  {
+    "ticker": "PG",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 50,
+    "retained_words": 9184
+  },
+  {
+    "ticker": "PG",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 44,
+    "retained_words": 10758
+  },
+  {
+    "ticker": "PG",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 39,
+    "retained_words": 13060
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 6,
+    "retained_words": 7694
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 16,
+    "retained_words": 5725
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 29,
+    "retained_words": 4726
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 20,
+    "retained_words": 6453
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 19,
+    "retained_words": 6637
+  },
+  {
+    "ticker": "UBER",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 9,
+    "retained_words": 9964
+  },
+  {
+    "ticker": "UBER",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 66,
+    "retained_words": 7158
+  },
+  {
+    "ticker": "UBER",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 68,
+    "retained_words": 5216
+  },
+  {
+    "ticker": "UBER",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 56,
+    "retained_words": 8040
+  },
+  {
+    "ticker": "UBER",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 79,
+    "retained_words": 6762
+  },
+  {
+    "ticker": "V",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 5,
+    "retained_words": 6009
+  },
+  {
+    "ticker": "V",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 36,
+    "retained_words": 4307
+  },
+  {
+    "ticker": "V",
+    "year": 2023,
+    "split": "train",
+    "removed_paragraphs": 35,
+    "retained_words": 3857
+  },
+  {
+    "ticker": "V",
+    "year": 2022,
+    "split": "train",
+    "removed_paragraphs": 31,
+    "retained_words": 5298
+  },
+  {
+    "ticker": "V",
+    "year": 2021,
+    "split": "train",
+    "removed_paragraphs": 42,
+    "retained_words": 4393
+  },
+  {
+    "ticker": "WMT",
+    "year": 2025,
+    "split": "train",
+    "removed_paragraphs": 1,
+    "retained_words": 7895
+  },
+  {
+    "ticker": "WMT",
+    "year": 2024,
+    "split": "train",
+    "removed_paragraphs": 22,
+    "retained_words": 7212
+  }
+]

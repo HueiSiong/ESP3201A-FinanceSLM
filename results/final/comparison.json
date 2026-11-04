@@ -1,0 +1,187 @@
+{
+  "groups": [
+    {
+      "model": "15m",
+      "budget": "small",
+      "parameters": 15464064,
+      "dataset_tokens": 357288,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 78.68647204119353,
+      "test_perplexity_min": 78.22113461995959,
+      "test_perplexity_max": 79.15180946242748,
+      "validation_perplexity_mean": 76.62567495362329,
+      "training_seconds_mean": 145.28245765001338,
+      "generation_tokens_per_second_mean": 112.31748852117835,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.06824627969569336
+    },
+    {
+      "model": "15m",
+      "budget": "medium",
+      "parameters": 15464064,
+      "dataset_tokens": 706370,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 65.54387063300081,
+      "test_perplexity_min": 65.28790139098597,
+      "test_perplexity_max": 65.79983987501564,
+      "validation_perplexity_mean": 60.1299138562803,
+      "training_seconds_mean": 145.57059400000435,
+      "generation_tokens_per_second_mean": 112.70993780387894,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.04517264330839708
+    },
+    {
+      "model": "15m",
+      "budget": "large",
+      "parameters": 15464064,
+      "dataset_tokens": 1048452,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 62.855240118331864,
+      "test_perplexity_min": 61.308576069898336,
+      "test_perplexity_max": 64.40190416676539,
+      "validation_perplexity_mean": 57.27619498012929,
+      "training_seconds_mean": 145.07339164998848,
+      "generation_tokens_per_second_mean": 112.30159963210994,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.060399807126655845
+    },
+    {
+      "model": "30m",
+      "budget": "small",
+      "parameters": 29401600,
+      "dataset_tokens": 357288,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 75.4450438167959,
+      "test_perplexity_min": 75.04274323136144,
+      "test_perplexity_max": 75.84734440223036,
+      "validation_perplexity_mean": 72.03585561068941,
+      "training_seconds_mean": 216.25732860001153,
+      "generation_tokens_per_second_mean": 72.82090180544117,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.054953226641411126
+    },
+    {
+      "model": "30m",
+      "budget": "medium",
+      "parameters": 29401600,
+      "dataset_tokens": 706370,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 64.46952386086011,
+      "test_perplexity_min": 63.441012216992235,
+      "test_perplexity_max": 65.49803550472798,
+      "validation_perplexity_mean": 57.678500316835176,
+      "training_seconds_mean": 215.57021335000172,
+      "generation_tokens_per_second_mean": 97.54521874639161,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.06950570904114733
+    },
+    {
+      "model": "30m",
+      "budget": "large",
+      "parameters": 29401600,
+      "dataset_tokens": 1048452,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 58.39135880869301,
+      "test_perplexity_min": 57.88553328401527,
+      "test_perplexity_max": 58.89718433337077,
+      "validation_perplexity_mean": 54.170670098365235,
+      "training_seconds_mean": 217.22511154999665,
+      "generation_tokens_per_second_mean": 98.02377631126998,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.055958481558007846
+    },
+    {
+      "model": "50m",
+      "budget": "small",
+      "parameters": 49737600,
+      "dataset_tokens": 357288,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 73.29057332008209,
+      "test_perplexity_min": 71.31392057555013,
+      "test_perplexity_max": 75.26722606461405,
+      "validation_perplexity_mean": 69.55136409803396,
+      "training_seconds_mean": 312.3981514999905,
+      "generation_tokens_per_second_mean": 88.42148237886319,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.04931470072292732
+    },
+    {
+      "model": "50m",
+      "budget": "medium",
+      "parameters": 49737600,
+      "dataset_tokens": 706370,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 62.922028077362654,
+      "test_perplexity_min": 62.47288805037573,
+      "test_perplexity_max": 63.37116810434958,
+      "validation_perplexity_mean": 59.92990478109546,
+      "training_seconds_mean": 313.96736530000635,
+      "generation_tokens_per_second_mean": 88.70844804901301,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.04292038414422385
+    },
+    {
+      "model": "50m",
+      "budget": "large",
+      "parameters": 49737600,
+      "dataset_tokens": 1048452,
+      "seeds": [
+        123,
+        42
+      ],
+      "test_perplexity_mean": 58.440964211710124,
+      "test_perplexity_min": 57.64515780490899,
+      "test_perplexity_max": 59.23677061851126,
+      "validation_perplexity_mean": 53.63191861816321,
+      "training_seconds_mean": 312.8686849499936,
+      "generation_tokens_per_second_mean": 86.68324076230599,
+      "consistency_accuracy_mean": 0.6666666666666666,
+      "repeated_trigram_rate_mean": 0.046273713034320464
+    }
+  ],
+  "selection": "50m_large_seed123",
+  "protocol": {
+    "context_length": 256,
+    "generation": {
+      "max_new_tokens": 80,
+      "temperature": 0.8,
+      "top_k": 40,
+      "seed": 42,
+      "prompts": 20
+    },
+    "evaluation": "FP32 weights, TF32 disabled; document-bounded non-overlapping target blocks; all later tokens once; first token omitted",
+    "checkpoint_selection": "Fixed validation prefix probe during training; full validation for deployment selection",
+    "limitations": [
+      "Two training seeds do not establish statistical significance.",
+      "Dataset scale also changes report composition.",
+      "Fixed training exposure, not equal wall-time or full convergence.",
+      "Shared tokenizer exposes all runs to largest-pool vocabulary.",
+      "Financial probes are six narrow likelihood comparisons, not factual accuracy or arithmetic certification.",
+      "Original baseline perplexity is not directly comparable because tokenizer, data and context changed."
+    ]
+  }
+}

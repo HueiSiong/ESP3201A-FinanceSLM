@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "comparison_selector_combinations": 240,
+  "displayed_outputs_verified": 720,
+  "mobile_no_overflow": true,
+  "demo_device": "cpu",
+  "ui_generation": true,
+  "repeatable_generation": true,
+  "blank_prompt_validation": true,
+  "model_switch_sizes": [
+    "15.46M",
+    "29.40M",
+    "49.74M"
+  ],
+  "javascript_errors": [],
+  "server_python": "C:\\ESP3201A\\publication\\clean-room\\.venv\\Scripts\\python.exe",
+  "note": "Browser test driver is separate from the fresh application environment."
+}

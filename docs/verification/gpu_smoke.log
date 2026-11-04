@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "device": "cuda",
+  "torch": "2.3.1+cu118",
+  "python": "3.11.16 (main, Sep  1 2026, 14:15:24) [MSC v.1944 64 bit (AMD64)]",
+  "python_executable": "C:\\ESP3201A\\publication\\clean-room\\.venv-cuda\\Scripts\\python.exe",
+  "torch_file": "C:\\ESP3201A\\publication\\clean-room\\.venv-cuda\\Lib\\site-packages\\torch\\__init__.py",
+  "frozen_files_verified": 222,
+  "parameters": 49737600,
+  "tokenizer_round_trip": true,
+  "fixed_seed_repeatable": true,
+  "reference_logits_max_error": 0.0,
+  "partial_test": {
+    "loss": 4.149948239326477,
+    "perplexity": 63.43071699651732,
+    "tokens": 1024,
+    "seconds": 0.051810900011332706,
+    "documents": [
+      {
+        "ticker": "AAPL",
+        "year": 2025,
+        "nll_sum": 4249.5469970703125,
+        "tokens": 1024,
+        "loss": 4.149948239326477
+      }
+    ],
+    "partial": true
+  },
+  "generation": " $2.0 billion, or 16%, in the year ended December 31, 2023 as compared to the year ended December",
+  "note": "Partial test perplexity is a smoke check, not the published full-test result. CPU/GPU sampled text need not match."
+}

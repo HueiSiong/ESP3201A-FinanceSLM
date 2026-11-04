@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "tracked_files": 252,
+  "tracked_bytes": 43535209,
+  "local_commit": "f69c96d16d95f91b0642eb3bda9db4d5e34cd3e9",
+  "no_external_remote": true,
+  "note": "Synthetic author used only in disposable local test repository. Publishable folder is not initialized or committed; no GitHub action occurred. Frozen byte fingerprints survived Git normalization."
+}

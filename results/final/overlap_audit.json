@@ -1,0 +1,184 @@
+{
+  "method": "Exact normalized word 5-gram sets, full documents; maximum train similarity per held-out document",
+  "near_duplicate_threshold_jaccard": 0.8,
+  "near_duplicate_pairs": [],
+  "maximum_jaccard": 0.01922344880091359,
+  "pairs": [
+    {
+      "split": "validation",
+      "heldout_document": "NVDA_2025",
+      "training_document": "MSFT_2025",
+      "jaccard": 0.010514665190924184,
+      "heldout_shingle_overlap_fraction": 0.023180154534363562
+    },
+    {
+      "split": "validation",
+      "heldout_document": "NVDA_2024",
+      "training_document": "MSFT_2023",
+      "jaccard": 0.009858138975715316,
+      "heldout_shingle_overlap_fraction": 0.017795138888888888
+    },
+    {
+      "split": "validation",
+      "heldout_document": "NVDA_2023",
+      "training_document": "AMD_2024",
+      "jaccard": 0.012545025462675444,
+      "heldout_shingle_overlap_fraction": 0.022717049032838506
+    },
+    {
+      "split": "validation",
+      "heldout_document": "NVDA_2022",
+      "training_document": "AMD_2021",
+      "jaccard": 0.013335111348179758,
+      "heldout_shingle_overlap_fraction": 0.02230151650312221
+    },
+    {
+      "split": "validation",
+      "heldout_document": "NVDA_2021",
+      "training_document": "AMD_2021",
+      "jaccard": 0.012734082397003745,
+      "heldout_shingle_overlap_fraction": 0.020412247348409046
+    },
+    {
+      "split": "validation",
+      "heldout_document": "PYPL_2025",
+      "training_document": "MA_2025",
+      "jaccard": 0.018741440207597493,
+      "heldout_shingle_overlap_fraction": 0.028583992963940194
+    },
+    {
+      "split": "validation",
+      "heldout_document": "PYPL_2024",
+      "training_document": "MA_2025",
+      "jaccard": 0.01922344880091359,
+      "heldout_shingle_overlap_fraction": 0.035607262471355546
+    },
+    {
+      "split": "validation",
+      "heldout_document": "PYPL_2023",
+      "training_document": "ABNB_2023",
+      "jaccard": 0.006530475552578701,
+      "heldout_shingle_overlap_fraction": 0.011583011583011582
+    },
+    {
+      "split": "validation",
+      "heldout_document": "PYPL_2022",
+      "training_document": "MA_2025",
+      "jaccard": 0.014444444444444444,
+      "heldout_shingle_overlap_fraction": 0.023499031633311813
+    },
+    {
+      "split": "validation",
+      "heldout_document": "PYPL_2021",
+      "training_document": "MA_2025",
+      "jaccard": 0.01597051597051597,
+      "heldout_shingle_overlap_fraction": 0.024495677233429394
+    },
+    {
+      "split": "test",
+      "heldout_document": "AAPL_2025",
+      "training_document": "AMD_2021",
+      "jaccard": 0.01474010861132661,
+      "heldout_shingle_overlap_fraction": 0.03589985829003307
+    },
+    {
+      "split": "test",
+      "heldout_document": "AAPL_2024",
+      "training_document": "NFLX_2024",
+      "jaccard": 0.012561209282520759,
+      "heldout_shingle_overlap_fraction": 0.04208273894436519
+    },
+    {
+      "split": "test",
+      "heldout_document": "AAPL_2023",
+      "training_document": "NFLX_2023",
+      "jaccard": 0.013075060532687652,
+      "heldout_shingle_overlap_fraction": 0.03592814371257485
+    },
+    {
+      "split": "test",
+      "heldout_document": "AAPL_2022",
+      "training_document": "AMD_2021",
+      "jaccard": 0.011419952596423184,
+      "heldout_shingle_overlap_fraction": 0.03356554781507283
+    },
+    {
+      "split": "test",
+      "heldout_document": "AAPL_2021",
+      "training_document": "AMD_2021",
+      "jaccard": 0.01777418703292264,
+      "heldout_shingle_overlap_fraction": 0.04573804573804574
+    },
+    {
+      "split": "test",
+      "heldout_document": "AMZN_2025",
+      "training_document": "ABNB_2023",
+      "jaccard": 0.01742000550105437,
+      "heldout_shingle_overlap_fraction": 0.032707867102771564
+    },
+    {
+      "split": "test",
+      "heldout_document": "AMZN_2024",
+      "training_document": "ABNB_2024",
+      "jaccard": 0.007002136244956088,
+      "heldout_shingle_overlap_fraction": 0.014993646759847523
+    },
+    {
+      "split": "test",
+      "heldout_document": "AMZN_2023",
+      "training_document": "HD_2021",
+      "jaccard": 0.008407286314806165,
+      "heldout_shingle_overlap_fraction": 0.01936177841520258
+    },
+    {
+      "split": "test",
+      "heldout_document": "AMZN_2022",
+      "training_document": "ABNB_2023",
+      "jaccard": 0.01142480500933758,
+      "heldout_shingle_overlap_fraction": 0.026537381985200306
+    },
+    {
+      "split": "test",
+      "heldout_document": "AMZN_2021",
+      "training_document": "ABNB_2023",
+      "jaccard": 0.015694372741352606,
+      "heldout_shingle_overlap_fraction": 0.033413937129039346
+    },
+    {
+      "split": "test",
+      "heldout_document": "KO_2025",
+      "training_document": "MSFT_2025",
+      "jaccard": 0.005415072780565354,
+      "heldout_shingle_overlap_fraction": 0.007676056338028169
+    },
+    {
+      "split": "test",
+      "heldout_document": "KO_2024",
+      "training_document": "AMD_2024",
+      "jaccard": 0.0038862900323857505,
+      "heldout_shingle_overlap_fraction": 0.005271893000097627
+    },
+    {
+      "split": "test",
+      "heldout_document": "KO_2023",
+      "training_document": "AMD_2023",
+      "jaccard": 0.0040747028862478775,
+      "heldout_shingle_overlap_fraction": 0.005664385178192117
+    },
+    {
+      "split": "test",
+      "heldout_document": "KO_2022",
+      "training_document": "AMD_2021",
+      "jaccard": 0.004786036036036036,
+      "heldout_shingle_overlap_fraction": 0.006092644028312875
+    },
+    {
+      "split": "test",
+      "heldout_document": "KO_2021",
+      "training_document": "CAT_2021",
+      "jaccard": 0.003794143399163343,
+      "heldout_shingle_overlap_fraction": 0.006125333752159573
+    }
+  ],
+  "limitation": "Common financial boilerplate can share phrases. This is a lexical diagnostic, not proof of semantic independence."
+}

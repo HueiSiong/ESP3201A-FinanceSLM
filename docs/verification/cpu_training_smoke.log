@@ -1,0 +1,18 @@
+{"step": 2, "loss": 9.031339645385742, "gradient_norm": 9.58365535736084, "lr": 5.999999999999999e-06, "elapsed_seconds": 0.607138000021223, "validation_probe_loss": 9.029419660568237}
+{
+  "model": "15m",
+  "budget": "small",
+  "seed": 42,
+  "steps": 2,
+  "batch_size": 1,
+  "parameters": 15464064,
+  "selected_step": 2,
+  "best_validation_probe_loss": 9.029419660568237,
+  "seconds": 1.07774090001476,
+  "canonical_recipe": false,
+  "device": "cpu",
+  "training_tokens_processed": 512,
+  "training_stream_tokens": 357288,
+  "dataset_sha256": "e9b27a89f2191720fda8aac1774a714c851ab8ee41ecfb5a72e3f639fc24969c",
+  "tokenizer_sha256": "e2a143c23b63579dc318d00bbd4b29ef0a8e16276755d41386001c6a327a15a5"
+}

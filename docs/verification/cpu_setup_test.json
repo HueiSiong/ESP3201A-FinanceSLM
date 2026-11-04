@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "tests": [
+    {
+      "check": "asset_http_download",
+      "exit_code": 0,
+      "seconds": 1.623910900001647
+    },
+    {
+      "check": "asset_idempotence",
+      "exit_code": 0,
+      "seconds": 0.48984680001740344
+    },
+    {
+      "check": "pip_check",
+      "exit_code": 0,
+      "seconds": 0.8022903999953996
+    },
+    {
+      "check": "regression_tests",
+      "exit_code": 0,
+      "seconds": 1.6462421999895014
+    },
+    {
+      "check": "cpu_smoke",
+      "exit_code": 0,
+      "seconds": 6.977894999989076
+    },
+    {
+      "check": "cpu_full_evaluation",
+      "exit_code": 0,
+      "seconds": 83.63997600000584
+    },
+    {
+      "check": "cpu_training_smoke",
+      "exit_code": 0,
+      "seconds": 3.955330299999332
+    },
+    {
+      "check": "new_checkpoint_evaluation",
+      "exit_code": 0,
+      "seconds": 1.8089172000181861
+    }
+  ],
+  "limitations": [
+    "Same Windows computer with a fresh venv and extracted source archive; not a separate physical computer.",
+    "Local HTTP exercised release download and verification; GitHub URL cannot be tested until publication."
+  ]
+}

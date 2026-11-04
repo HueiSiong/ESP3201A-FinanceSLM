@@ -1,0 +1,263 @@
+The following discussion should be read in conjunction with the consolidated financial statements and notes of Mastercard Incorporated and its consolidated subsidiaries, including Mastercard International Incorporated (“Mastercard International”) (together, “Mastercard” or the “Company”), included elsewhere in this Report. Percentage changes provided throughout “Management’s Discussion and Analysis of Financial Condition and Results of Operations” were calculated on amounts rounded to the nearest thousand. For discussion related to the results of operations for the year ended December 31, 2021 compared to the year ended December 31, 2020, please see Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2021. During 2022, the Company updated its disaggregated net revenue presentation by category and geography to reflect the nature of its payment services and to align such information with the way in which management will prospectively view its categories of net revenue. Prior period amounts have been reclassified to conform to the 2022 presentation. The reclassification had no impact on previously reported total net revenue, operating income or net income.
+
+Mastercard is a technology company in the global payments industry. We connect consumers, financial institutions, merchants, governments, digital partners, businesses and other organizations worldwide by enabling electronic payments instead of cash and checks and making those payment transactions safe, simple, smart, and accessible. We make payments easier and more efficient by providing a wide range of payment solutions and services using our family of well-known and trusted brands, including Mastercard®, Maestro® and Cirrus®. We operate a multi-rail payments network that provides choice and flexibility for consumers, merchants and our customers. Through our unique and proprietary core global payments network, we switch (authorize, clear and settle) payment transactions. We have additional payment capabilities that include automated clearing house (“ACH”) transactions (both batch and real-time account-based payments). Using these capabilities, we offer integrated payment products and services and capture new payment flows. Our value-added services include, among others, cyber and intelligence solutions to allow all parties to transact easily and with confidence, as well as other services that provide proprietary insights, drawing on our principled use of secure consumer and merchant data. Our investments in new networks, such as open banking solutions and digital identity capabilities, support and strengthen our payments and services solutions. Our franchise model sets the standards and ground-rules for our core global payments network that balance value and risk across all stakeholders and allows for interoperability among them. Our payment solutions are designed to ensure safety and security for the global payments ecosystem.
+
+Mastercard is not a financial institution. We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, or establish the rates charged by acquirers in connection with merchants’ acceptance of our products. In most cases, account holder relationships belong to, and are managed by, our customers.
+
+Beginning in February 2022, in response to the Russian invasion of Ukraine, the United States, the European Union and other governments imposed sanctions and other restrictive measures on certain Russian-related entities and individuals and, in March 2022, we suspended our business operations in Russia 1 . We have taken steps necessary to ensure compliance with all applicable regulatory restrictions with sanctioned entities and individuals and have suspended our business operations with non-sanctioned customers in Russia. Throughout this process, our priority has been the safety and well-being of our employees and their families.
+
+These actions have impacted our full year 2022 performance. As a point of reference, for the year ended December 31, 2021, approximately 4% of our net revenues were derived from business conducted within, into and out of Russia. Additional financial implications directly related to these actions include, but are not limited to, incremental employee-related costs, reserves on uncollectible balances with certain customers and impacts to net revenue, primarily related to rebates and incentives as a result of revised estimates of customer performance through the date of the suspension of our business operations.
+
+We continue to monitor the effects of the Russian invasion of Ukraine and the related impacts to regional and global economies. The full extent to which this matter affects our business, results of operations and financial condition will depend on future developments, including the duration of the invasion and the impacts on regional and global economies, which are uncertain, and cannot be predicted at this time.
+
+1 As a result of the suspension of our business operations, which included the suspension of our network services, cards issued by Russian banks are no longer supported by the Mastercard network regardless of where the cards are used, inside or outside of Russia. In addition, any Mastercard issued outside of Russia will not work at merchants or ATMs located in Russia.
+
+The following table provides a summary of our key GAAP operating results, as reported:
+
+The following table provides a summary of our key non-GAAP operating results 1 , adjusted to exclude the impact of gains and losses on our equity investments, Special Items (which represent litigation judgments and settlements and certain one-time items) and the related tax impacts on our non-GAAP adjustments. In addition, we have presented growth rates, adjusted for the impact of currency:
+
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+Adjusted net revenue increased 23% on a currency-neutral basis. The increase was attributable to our payment network and our value-added services and solutions, which increased 26% and 18%, on a currency-neutral basis, respectively.
+
+Adjusted operating expenses increased 14% on a currency-neutral basis, which includes 4 percentage points of growth due to acquisitions. The remaining increase was primarily due to higher personnel costs, travel and meeting costs, and unfavorable foreign exchange activity.
+
+The adjusted effective income tax rate of 15.7% was higher than prior year due to the recognition of U.S. tax benefits in 2021 (the majority of which were discrete), a discrete tax benefit in 2021 related to the remeasurement of our net deferred tax asset in the U.K. and a discrete tax expense related to an unfavorable court ruling in 2022, all of which were partially offset by a discrete tax benefit in the first quarter of 2022 due to final U.S. tax regulations published in the current year.
+
+• We completed the acquisition of a business for total consideration of $0.3 billion.
+
+• We repurchased 25.7 million shares of our common stock for $8.8 billion and paid dividends of $1.9 billion.
+
+• We completed a euro-denominated debt offering for an aggregate principal amount of $0.8 billion and entered into an Indian rupee-denominated term loan for $0.3 billion.
+
+Non-GAAP financial information is defined as a numerical measure of a company’s performance that excludes or includes amounts so as to be different than the most comparable measure calculated and presented in accordance with accounting principles generally accepted in the United States (“GAAP”). Our non-GAAP financial measures exclude the impact of gains and losses on our equity investments which includes mark-to-market fair value adjustments, impairments and gains and losses upon disposition and the related tax impacts. Our non-GAAP financial measures also exclude the impact of special items, where applicable, which represent litigation judgments and settlements and certain one-time items, as well as the related tax impacts (“Special Items”). Our non-GAAP financial measures for the comparable periods exclude the impact of the following:
+
+• During 2022, 2021 and 2020, we recorded net losses of $145 million ($126 million after tax, or $0.13 per diluted share), net gains of $645 million ($497 million after tax, or $0.50 per diluted share) and net gains of $30 million ($15 million after tax, or $0.01 per diluted share), respectively. These net gains and losses were primarily related to unrealized fair market value adjustments on marketable and nonmarketable equity securities. In addition, in 2021, net gains also included realized gains on sales of marketable equity securities.
+
+• During 2022, we recorded pre-tax charges of $356 million ($263 million after tax, or $0.27 per diluted share) related to litigation provisions which included pre-tax charges of:
+
+◦ $223 million as a result of settlements (both final and agreements in principle) with a number of U.K. merchants, and
+
+◦ $133 million as a result of a change in estimate related to the claims of merchants who opted out of the U.S. merchant class litigation.
+
+• During 2021, we recorded pre-tax charges of $94 million ($74 million after tax, or $0.07 per diluted share) related to litigation settlements and estimated attorneys’ fees with U.K. and Pan-European merchants.
+
+• During 2020, we recorded pre-tax charges of $73 million ($67 million after tax, or $0.07 per diluted share) related to litigation provisions which included pre-tax charges of:
+
+◦ $45 million related to a legal matter associated with our prepaid cards in the U.K., and
+
+◦ $28 million related to estimated attorneys’ fees and litigation settlements with U.K. and Pan-European merchants.
+
+• During 2022, we recorded a net charge of $30 million ($24 million after tax, or $0.02 per diluted share), directly related to imposed sanctions and the suspension of our business operations in Russia. The net charge is comprised of general and administrative expenses of $67 million, primarily related to incremental employee-related costs and reserves on uncollectible balances with certain sanctioned customers. These charges are offset by net benefits of $37 million in net revenue, primarily related to a reduction in rebates and incentives liabilities as a result of lower estimates of customer performance for certain customer business agreements due to the suspension of our business operations in Russia.
+
+• During 2021, we recorded a charge of $88 million ($69 million after tax, or $0.07 per diluted share) to resolve a foreign indirect tax matter for 2015 through 2021 and the related interest expense. The charge is comprised of general and administrative expenses of $82 million and other income (expense) of $6 million.
+
+See Note 7 (Investments) and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 and “Key Developments” above for further discussion related to certain of our non-GAAP financial measures. We excluded these items because management evaluates the underlying operations and performance of the Company separately from these recurring and nonrecurring items.
+
+We believe that the non-GAAP financial measures presented facilitate an understanding of our operating performance and provide a meaningful comparison of our results between periods. We use non-GAAP financial measures to, among other things, evaluate our ongoing operations in relation to historical results, for internal planning and forecasting purposes and in the calculation of performance-based compensation.
+
+We present growth rates adjusted for the impact of currency, which is a non-GAAP financial measure. Currency-neutral growth rates are calculated by remeasuring the prior period’s results using the current period’s exchange rates for both the translational and transactional impacts on operating results. The impact of currency translation represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency. The impact of the transactional currency represents the effect of converting revenue and expenses occurring in a currency other than the functional currency of the entity. The impact of the related realized gains and losses resulting from our foreign exchange derivative contracts designated as cash flow hedging instruments is recognized in the respective financial statement line item on the statement of operations when the underlying forecasted transactions impact earnings. We believe the presentation of currency-neutral growth rates provides relevant information to facilitate an understanding of our operating results.
+
+The translational and transactional impact of currency and the related impact of our foreign exchange derivative contracts designated as cash flow hedging instruments (“Currency impact”) has been excluded from our currency-neutral growth rates and has been identified in our “Drivers of Change” tables. See “Foreign Currency - Currency Impact” for further information on our currency impacts and “Financial Results - Revenue and Operating Expenses” for our “Drivers of Change” tables.
+
+Net revenue, operating expenses, operating margin, other income (expense), effective income tax rate, net income and diluted earnings per share adjusted for the impact of gains and losses on our equity investments, Special Items and/or the impact of
+
+currency, are non-GAAP financial measures and should not be relied upon as substitutes for measures calculated in accordance with GAAP.
+
+The following tables reconcile our reported financial measures calculated in accordance with GAAP to the respective adjusted non-GAAP financial measures:
+
+(Gains) losses on equity investments ** ** ** 145 — % 126 0.13
+
+The following tables represent the reconciliation of our growth rates reported under GAAP to our non-GAAP growth rates:
+
+Year Ended December 31, 2021 as compared to the Year Ended December 31, 2020
+
+Net revenue Operating expenses Operating margin Effective income tax rate Net income Diluted earnings per share
+
+(Gains) losses on equity investments ** ** ** (0.4) ppt (7) % (8) %
+
+Litigation provisions ** — % — ppt 0.1 ppt — % — %
+
+Adjusted - Non-GAAP - currency-neutral 22 % 19 % 1.2 ppt (1.8) ppt 28 % 30 %
+
+In addition to the financial measures described above in “Financial Results Overview”, we review the following metrics to evaluate and identify trends in our business, measure our performance, prepare financial projections and make strategic decisions. We believe that the key metrics presented facilitate an understanding of our operating and financial performance and provide a meaningful comparison of our results between periods.
+
+Operating Margin measures how much profit we make on each dollar of sales after our operating costs but before other income (expense) and income tax expense. Operating margin is calculated by dividing our operating income by net revenue.
+
+Gross Dollar Volume (“GDV”) 1 measures dollar volume of activity, including both domestic and cross-border volume, on cards carrying our brands during the period, on a local currency basis and U.S. dollar-converted basis. GDV represents purchase volume plus cash volume; “purchase volume” means the aggregate dollar amount of purchases made with Mastercard-branded cards for the relevant period; and “cash volume” means the aggregate dollar amount of cash disbursements and includes the impact of balance transfers and convenience checks obtained with Mastercard-branded cards for the relevant period. Information denominated in U.S. dollars relating to GDV is calculated by applying an established U.S. dollar/local currency exchange rate for each local currency in which our volumes are reported. These exchange rates are calculated on a quarterly basis using the average exchange rate for each quarter. We report period-over-period rates of change in purchase volume and cash volume on the basis of local currency information, in order to eliminate the impact of changes in the value of currencies against the U.S. dollar in calculating such rates of change.
+
+Cross-border Volume Growth 2 measures the growth of cross-border dollar volume during the period, on a local currency basis and U.S. dollar-converted basis, for all Mastercard-branded programs.
+
+Switched Transactions 2 measures the number of transactions switched by Mastercard, which is defined as the number of transactions initiated and switched through our network during the period.
+
+1 Data used in the calculation of GDV is provided by Mastercard customers and is subject to verification by Mastercard and partial cross-checking against information provided by Mastercard’s transaction switching systems. All data is subject to revision and amendment by Mastercard or Mastercard’s customers. Starting in the first quarter of 2022, data related to sanctioned Russian banks was not reported to us and therefore such amounts are not included. Subsequent to the suspension of our business operations in Russia in March 2022, there is no Russian data to be reported.
+
+2 Growth rates are normalized to eliminate the effects of differing switching and carryover days between periods. Carryover days are those where transactions and volumes from days where the Company does not clear and settle are processed. In the fourth quarter of 2021, we began clearing and settling transactions and volumes on a daily basis.
+
+The following tables provide a summary of the growth trends in our key drivers.
+
+2 Starting in the first quarter of 2022, as a result of imposed sanctions and the suspension of our business operations in Russia, we have provided adjusted growth rates for our key drivers excluding activity from Russian issued cards from the current and prior periods.
+
+Assessments represent agreed upon standard pricing provided to our customers based on various forms of payment-related activity. Assessments are used internally by management to monitor operating performance as it allows for comparability and provides visibility into cardholder trends. Assessments do not represent our net revenue.
+
+The following provides additional information on our key metrics related to the payment network:
+
+• Domestic assessments are charges based on activity related to cards that carry the Company’s brands where the merchant country and the country of issuance are the same. These assessments are primarily driven by the domestic dollar volume of activity (e.g., domestic purchase volume, domestic cash volume) or the number of cards issued.
+
+• Cross-border assessments are charges based on activity related to cards that carry the Company’s brands where the merchant country and the country of issuance are different. These assessments are primarily driven by the cross-border dollar volume of activity (e.g., cross-border purchase volume, cross-border cash volume).
+
+• Transaction processing assessments are charges primarily driven by the number of switched transactions on our payment network. Switching activities include:
+
+◦ Authorization, the process by which a transaction is routed to the issuer for approval
+
+◦ Clearing, the determination and exchange of financial transaction information between issuers and acquirers after a transaction has been successfully conducted at the point of interaction
+
+◦ Settlement, which facilitates the determination and exchange of funds between parties
+
+These assessments can also include connectivity services and network access which are based on the volume of data transmitted and the number of authorization and settlement messages.
+
+• Other network assessments are charges for licensing, implementation and other franchise fees.
+
+The following table provides a summary of our key metrics related to the payment network.
+
+Our primary revenue functional currencies are the U.S. dollar, euro, Brazilian real and the British pound. Our overall operating results are impacted by currency translation, which represents the effect of translating operating results where the functional currency is different than our U.S. dollar reporting currency.
+
+Our operating results are also impacted by transactional currency. The impact of the transactional currency represents the effect of converting revenue and expense transactions occurring in a currency other than the functional currency. Changes in currency exchange rates directly impact the calculation of gross dollar volume (“GDV”) and gross euro volume (“GEV”), which are used in the calculation of our key metrics related to domestic assessments and cross-border assessments as well as certain volume-related rebates and incentives. In most non-European regions, GDV is calculated based on local currency spending volume converted to U.S. dollars using average exchange rates for the period. In Europe, GEV is calculated based on local currency spending volume converted to euros using average exchange rates for the period. As a result, our key metrics related to domestic assessments and cross-border assessments as well as certain volume-related rebates and incentives are impacted by the strengthening or weakening of the U.S. dollar versus non-European local currencies and the strengthening or weakening of the euro versus other European local currencies. For example, our billing in Australia is in the U.S. dollar, however, consumer spend in Australia is in the Australian dollar. The currency transactional impact of converting Australian dollars to our U.S. dollar billing currency will have an impact on the revenue generated. The strengthening or weakening of the U.S. dollar is evident when GDV growth on a U.S. dollar-converted basis is compared to GDV growth on a local currency basis. In 2022, GDV on a U.S. dollar-converted basis increased 5.9%, while GDV on a local currency basis increased 12.3% versus 2021. In 2021, GDV on a U.S. dollar-converted basis increased 22.0%, while GDV on a local currency basis increased 20.6% versus 2020. Further, the impact from transactional currency occurs in transaction processing revenue, other revenue and operating expenses when the local currency of these items is different than the functional currency of the entity.
+
+Through December 31, 2020, our approach to managing transactional currency exposure consisted of hedging a portion of anticipated revenues impacted by transactional currencies by entering into foreign exchange derivative contracts, and recording the related changes in fair value in general and administrative expenses on the consolidated statement of operations. During the first quarter of 2021, we started to formally designate certain newly-executed foreign exchange derivative contracts, which meet the established accounting criteria, as cash flow hedges. Gains and losses resulting from changes in fair value of these designated
+
+contracts are deferred in accumulated other comprehensive income (loss) and subsequently recognized in the respective component of net revenue when the underlying forecasted transactions impact earnings.
+
+We incur foreign currency gains and losses from remeasuring monetary assets and liabilities, including settlement assets and obligations, that are denominated in a currency other than the functional currency of the entity. To manage this foreign exchange risk, we may enter into foreign exchange derivative contracts to economically hedge the foreign currency exposure of a portion of our nonfunctional currency monetary assets and liabilities. The gains or losses resulting from the changes in fair value of these contracts are intended to reduce the potential effect of the underlying hedged exposure and are recorded net within general and administrative expenses on the consolidated statement of operations. The impact of this foreign exchange activity, including the related hedging activities, has not been eliminated in our currency-neutral results.
+
+Our foreign exchange risk management activities are discussed further in Note 23 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part II, Item 8.
+
+We are exposed to currency devaluation in certain countries. In addition, we are subject to exchange control regulations that restrict the conversion of financial assets into U.S. dollars. While these revenues and assets are not material to us on a consolidated basis, we can be negatively impacted should there be a continued and sustained devaluation of local currencies relative to the U.S. dollar and/or a continued and sustained deterioration of economic conditions in these countries.
+
+For the year ended December 31, 2022, net revenue increased 18% versus the comparable period in 2021. Adjusted net revenue increased 18%, or 23% on a currency-neutral basis. The increase in net revenue was attributable to both our payment network and our value-added services and solutions and included 1 percentage point of growth from acquisitions. Net revenue includes $13,084 million of rebates and incentives provided to our customers, an increase of 19%, or 23% on a currency-neutral basis, in 2022 versus 2021.
+
+Net revenue from our payment network increased 20%, or 26% on a currency-neutral basis, in 2022 versus 2021. The increase was primarily driven by growth in domestic and cross-border dollar volumes and an increase in the number of switched transactions, reflecting trends of growth in our key drivers. Net revenue from our payment network includes $12,445 million of rebates and incentives provided to customers, which increased 19%, or 23% on a currency-neutral basis, in 2022 versus 2021, primarily due to an increase in our key drivers as well as new and renewed deals.
+
+Net revenue from our value-added services and solutions increased 14%, or 18% on a currency-neutral basis, in 2022 versus 2021, which includes a 4 percentage point increase from acquisitions. The remaining increase was primarily driven by our cyber and intelligence and data and services solutions.
+
+For the year ended December 31, 2021, net revenue increased 23%, or 22% on a currency neutral basis, versus the comparable period in 2020. The increase in net revenue was attributable to both our payment network and our value-added services and solutions and included 2 percentage points of growth from acquisitions. Net revenue includes $10,961 million of rebates and incentives provided to our customers, an increase of 32%, or 31% on a currency-neutral basis, in 2021 versus 2020.
+
+Net revenue from our payment network increased 21%, or 20% on a currency-neutral basis, in 2021 versus 2020. The increase was primarily driven by growth in domestic and cross-border dollar volumes and an increase in the number of switched transactions, reflecting trends of growth in our key drivers. Net revenue from our payment network include $10,476 million of rebates and incentives provided to customers, which increased 31%, or 30% on a currency-neutral basis, in 2021 versus 2020, primarily due to an increase in our key drivers as well as new and renewed deals.
+
+Net revenue from our value-added services and solutions increased 28%, or 27% on a currency-neutral basis, in 2021 versus 2020, which includes a 6 percentage point increase from acquisitions. The remaining increase was primarily driven by our cyber and intelligence and data and services solutions.
+
+See Note 3 (Revenue) to the consolidated financial statements included in Part II, Item 8 for a further discussion of how we recognize revenue.
+
+1 Includes impacts from our key drivers and metrics, offset by rebates and incentives.
+
+2 Includes impacts from cyber and intelligence, data and services, processing and gateway, ACH batch and real-time account-based domestic and cross-border payments and solutions, opening banking and digital identity, offset by rebates and incentives.
+
+3 Includes the translational and transactional impact of currency and the related impact of our foreign exchange derivative contracts designated as cash flow hedging instruments.
+
+4 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+No individual country, other than the United States, generated more than 10% of net revenue in any such period. A significant portion of our net revenue is concentrated among our five largest customers. In 2022, the net revenue from these customers was approximately $4.7 billion, or 21%, of total net revenue. The loss of any of these customers or their significant card programs could adversely impact our revenue.
+
+Operating expenses increased 13% in 2022 versus the prior year. Adjusted operating expenses increased 11%, or 14% on a currency-neutral basis, versus the prior year, which includes a 4 percentage point increase from acquisitions. The remaining increase was primarily due to higher personnel costs, travel and meeting costs and unfavorable foreign exchange activity.
+
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+2 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+General and administrative expenses increased 14%, or 17% on a currency-neutral basis, in 2022 versus the prior year. Current year results include growth of 4 percentage points from acquisitions. The remaining increase was primarily due to higher personnel costs to support our continued investment in our strategic initiatives across payments, services and new networks, increased travel and meeting costs and balance sheet remeasurement losses due to unfavorable foreign exchange activity.
+
+1 For the year ended December 31, 2022, total general and administrative expenses includes a Special Item for Russia-related impacts of $67 million, of which $35 million is included within Personnel and $32 million is included within Other. See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+2 Foreign exchange activity includes the impact of remeasurement of assets and liabilities denominated in foreign currencies net of the impact of gains and losses on foreign exchange derivative contracts. See Note 23 (Derivative and Hedging Instruments) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+3 Includes a Special Item related to a foreign indirect tax matter of $82 million for the year ended December 31, 2021. See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+Advertising and marketing expenses decreased 12%, or 8% on a currency-neutral basis, in 2022 versus the prior year, primarily due to lower spending on marketing campaigns.
+
+Depreciation and amortization expenses increased 3%, or 7% on a currency-neutral basis, in 2022 versus the prior year, due to the amortization of acquired intangible assets from acquisitions.
+
+In 2022, 2021 and 2020, we recorded $356 million, $94 million and $73 million, respectively, related to various legal proceedings. See “Non-GAAP Financial Information” in this section and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+Other income (expense) was unfavorable $757 million in 2022 versus the prior year, primarily due to net losses in the current year versus net gains in the prior year related to unrealized fair market value adjustments on marketable and nonmarketable equity securities and realized gains on sales of marketable equity securities in 2021. Adjusted other income (expense) was favorable $26 million versus the prior year, primarily due to an increase in our investment income, partially offset by increased interest expense related to our 2022 debt issuances.
+
+1 See “Non-GAAP Financial Information” for further information on our non-GAAP adjustments and the reconciliation to GAAP reported amounts.
+
+The effective income tax rates for the years ended December 31, 2022 and 2021 were 15.4% and 15.7%, respectively. The adjusted effective income tax rates for the years ended December 31, 2022 and 2021 were 15.7% and 15.4%, respectively. The effective income tax rate was lower in 2022 primarily due to a discrete tax benefit in the first quarter of 2022 related to final U.S. tax regulations published in the current year. These regulations resulted in a valuation allowance release of $333 million associated with the U.S. foreign tax credit carryforward deferred tax asset. The regulations limit Mastercard’s ability to generate foreign tax credits starting in 2022 for certain foreign taxes paid, resulting in additional U.S. tax expense. Additionally, a more favorable geographic mix of earnings in 2022 contributed to the lower effective tax rate. The lower effective income tax rate was partially offset by:
+
+• the recognition of U.S. tax benefits in 2021 (the majority of which were discrete) resulting from a higher foreign derived intangible income deduction and greater utilization of foreign tax credits in the U.S.
+
+• a discrete tax benefit in 2021 related to the remeasurement of the our net deferred tax asset in the U.K. due to an enacted tax rate change in 2021
+
+• a discrete tax expense related to an unfavorable court ruling in 2022
+
+The adjusted effective income tax rate was higher in 2022 primarily due to:
+
+• the recognition of U.S. tax benefits in 2021 (the majority of which were discrete) resulting from a higher foreign derived intangible income deduction and greater utilization of foreign tax credits in the U.S.
+
+• a discrete tax benefit in 2021 related to the remeasurement of the our net deferred tax asset in the U.K. due to an enacted tax rate change in 2021
+
+• a discrete tax expense related to an unfavorable court ruling in 2022
+
+All of the above impacts were partially offset by a discrete tax benefit in the first quarter of 2022 related to final U.S. tax regulations published in the current year. These regulations resulted in a valuation allowance release of $333 million associated with the U.S. foreign tax credit carryforward deferred tax asset. The regulations limit Mastercard’s ability to generate foreign tax credits starting in 2022 for certain foreign taxes paid, resulting in additional U.S. tax expense.
+
+See Note 20 (Income Taxes) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+In August 2022, the U.S. enacted the Inflation Reduction Act (the “IRA”). The IRA includes a corporate alternative minimum tax of 15% on the adjusted financial statement income of corporations for years beginning after December 31, 2022, and an excise tax of 1% on the fair market value of annual net stock repurchases made after December 31, 2022. We continue to analyze the impacts of the IRA, however, it is not expected to have a material impact on our financial statements.
+
+We rely on existing liquidity, cash generated from operations and access to capital to fund our global operations, credit and settlement exposure, capital expenditures, investments in our business and current and potential obligations. The following table summarizes the cash, cash equivalents, investments and credit available to us at December 31:
+
+1 Investments include available-for-sale securities and held-to-maturity securities. This amount excludes restricted cash and restricted cash equivalents of $2.2 billion and $2.5 billion at December 31, 2022 and 2021, respectively.
+
+We believe that our existing cash, cash equivalents and investment securities balances, our cash flow generating capabilities, and our access to capital resources are sufficient to satisfy our future operating cash needs, capital asset purchases, outstanding commitments and other liquidity requirements associated with our existing operations and potential obligations which include litigation provisions and credit and settlement exposure.
+
+Our liquidity and access to capital could be negatively impacted by global credit market conditions. We guarantee the settlement of many of the transactions between our customers. Historically, payments under these guarantees have not been significant; however, historical trends may not be an indication of potential future losses. The risk of loss on these guarantees is specific to individual customers, but may also be driven by regional or global economic conditions, including, but not limited to the health of the financial institutions in a country or region. See Note 22 (Settlement and Other Risk Management) to the consolidated financial statements in Part II, Item 8 for a description of these guarantees.
+
+Our liquidity and access to capital could also be negatively impacted by the outcome of any of the legal or regulatory proceedings to which we are a party. For additional discussion of these and other risks facing our business, see Part I, Item 1A - Risk Factors - Legal and Regulatory Risks and Note 21 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8.
+
+The table below shows a summary of the cash flows from operating, investing and financing activities:
+
+Net cash provided by operating activities $ 11,195 $ 9,463 $ 7,224
+
+Net cash provided by operating activities increased $1.7 billion in 2022 versus the prior year, primarily due to higher net income adjusted for non-cash items and timing of settlement with customers.
+
+Net cash used in investing activities decreased $3.8 billion in 2022 versus the prior year, primarily due to lower business acquisition activity in the current year.
+
+Net cash used in financing activities increased $3.8 billion in 2022 versus the prior year, primarily due to higher repurchases of our Class A common stock in the current year.
+
+In February 2022, we issued €750 million ($800 million as of December 31, 2022) principal amount of notes due February 2029 (the “2022 EUR Notes”). In July 2022, we entered into an unsecured INR22.7 billion ($275 million as of December 31, 2022) term loan due July 2023 (the “INR Term Loan”). During 2022, €700 million ($724 million as of the maturity date) of principal related to the 2015 Euro Notes matured and was paid. Our total debt outstanding was $14.0 billion at December 31, 2022, with the earliest maturity of INR22.7 billion ($275 million as of December 31, 2022) of principal occurring in July 2023.
+
+As of December 31, 2022, we have a commercial paper program (the “Commercial Paper Program”), under which we are authorized to issue up to $6 billion in outstanding notes, with maturities up to 397 days from the date of issuance. On January 27, 2023, we increased our Commercial Paper Program from $6 billion to $8 billion. In conjunction with the Commercial Paper Program, we have a committed unsecured $8 billion revolving credit facility (the “Credit Facility”) which now expires in November 2027.
+
+Borrowings under the Commercial Paper Program and the Credit Facility are to be used to provide liquidity for general corporate purposes, including providing liquidity in the event of one or more settlement failures by our customers. In addition, we may borrow and repay amounts under these facilities for business continuity purposes. We had no borrowings outstanding under the Commercial Paper Program or the Credit Facility at December 31, 2022.
+
+See Note 15 (Debt) to the consolidated financial statements included in Part II, Item 8 for further discussion on our debt, the Commercial Paper Program and the Credit Facility.
+
+We have historically paid quarterly dividends on our outstanding Class A common stock and Class B common stock. Subject to legally available funds, we intend to continue to pay a quarterly cash dividend. The declaration and payment of future dividends is at the sole discretion of our Board of Directors after taking into account various factors, including our financial condition, operating results, available cash and current and anticipated cash needs.
+
+The following table summarizes the annual, per share dividends paid in the years reflected:
+
+On December 6, 2022, our Board of Directors declared a quarterly cash dividend of $0.57 per share paid on February 9, 2023 to holders of record on January 9, 2023 of our Class A common stock and Class B common stock. The aggregate amount of this dividend was $545 million.
+
+On February 14, 2023, our Board of Directors declared a quarterly cash dividend of $0.57 per share payable on May 9, 2023 to holders of record on April 7, 2023 of our Class A common stock and Class B common stock. The aggregate amount of this dividend is estimated to be $543 million.
+
+Repurchased shares of our common stock are considered treasury stock. In December 2022, November 2021 and December 2020, our Board of Directors approved share repurchase programs of our Class A common stock authorizing us to repurchase up to $9.0 billion, $8.0 billion and $6.0 billion, respectively. The program approved in 2022 will become effective after completion of the share repurchase program approved in 2021. The timing and actual number of additional shares repurchased will depend on a variety of factors, including cash requirements to meet the operating needs of the business, legal requirements, as well as the share price and economic and market conditions. The following table summarizes our share repurchase authorizations and repurchase activity of our Class A common stock through December 31, 2022:
+
+See Note 16 (Stockholders' Equity) to the consolidated financial statements included in Part II, Item 8 for further discussion.
+
+The application of GAAP requires us to make estimates and assumptions about certain items and future events that directly affect our reported financial condition. Our significant accounting policies, including recent accounting pronouncements, are described in Note 1 (Summary of Significant Accounting Policies) to the consolidated financial statements included in Part II, Item 8.
+
+We enter into business agreements with certain customers that provide for rebates and incentives when customers meet certain volume thresholds or other incentives tied to customer performance. We consider various factors in estimating customer performance, including forecasted transactions, card issuance and card conversion volumes, expected payments and historical experience with that customer. Rebates and incentives are recorded within net revenue based on these estimates primarily when volume- and transaction- based revenues are recognized over the contractual term. Differences between actual results and our estimates are adjusted in the period the customer reports actual performance. If our customers’ actual performance is not consistent with our estimates of their performance, net revenue may be materially different.
+
+We are currently involved in various claims and legal proceedings. We regularly review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Significant judgment is required in both the determination of probability and whether an exposure is reasonably estimable. Our judgments are subjective based on the status of the legal or regulatory proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. Because of uncertainties related to these matters, accruals are based only on the best information available at the time. As additional information becomes available, we reassess the potential liability related to pending claims and litigation and may revise our estimates. Due to the inherent uncertainties of the legal and regulatory process in the multiple jurisdictions in which we operate, our judgments may be materially different than the actual outcomes.
+
+In calculating our effective income tax rate, estimates are required regarding the timing and amount of taxable and deductible items which will adjust the pretax income earned in various tax jurisdictions. Through our interpretation of local tax regulations, adjustments to pretax income for income earned in various tax jurisdictions are reflected within various tax filings. Although we believe that our estimates and judgments discussed herein are reasonable, actual results may be materially different than the estimated amounts.
+
+We record a valuation allowance to reduce our deferred tax assets to the amount that is more likely than not to be realized. Significant judgment is required in determining the valuation allowance. In assessing the need for a valuation allowance, we consider all sources of taxable income, including projected future taxable income, reversing taxable temporary differences and ongoing tax planning strategies. If it is determined that we are able to realize deferred tax assets in excess of the net carrying value
+
+or to the extent we are unable to realize a deferred tax asset, we would adjust the valuation allowance in the period in which such a determination is made, with a corresponding increase or decrease to earnings.
+
+We record tax liabilities for uncertain tax positions taken, or expected to be taken, which may not be sustained or may only be partially sustained, upon examination by the relevant taxing authorities. We consider all relevant facts and current authorities in the tax law in assessing whether any benefit resulting from an uncertain tax position is more likely than not to be sustained and, if so, how current law impacts the amount reflected within these financial statements. If upon examination, we realize a tax benefit which is not fully sustained or is more favorably sustained, this would generally increase earnings in the period. In certain situations, we will have offsetting tax credits or taxes in other jurisdictions.
+
+Deferred taxes are established on the estimated foreign exchange gains or losses for foreign earnings that are not considered permanently reinvested, which will be recognized through cumulative translation adjustments as incurred. Ultimately, the working capital requirements of foreign affiliates will determine the amount of cash to be remitted from respective jurisdictions.
+
+We account for our business combinations using the acquisition method of accounting. The acquisition purchase price, including contingent consideration, if any, is allocated to the underlying identified, tangible and intangible assets, liabilities assumed and any non-controlling interest in the acquiree, based on their respective estimated fair values on the acquisition date. Any excess of purchase price over the fair value of net assets acquired, including identifiable intangible assets, is recorded as goodwill. The amounts and useful lives assigned to acquisition-related tangible and intangible assets impact the amount and timing of future amortization expense. We use various valuation techniques to determine fair value, primarily discounted cash flows analysis, relief-from-royalty and multi-period excess earnings for estimating the value of intangible assets. These valuation techniques include comparable company multiples, discount rates, growth projections and other assumptions of future business conditions. Determining the fair value of assets acquired, liabilities assumed, any non-controlling interest in the acquiree and the expected useful lives, requires management’s judgment. The significance of management’s estimates and assumptions is relative to the size of the acquisition. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable.

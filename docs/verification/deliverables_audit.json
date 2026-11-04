@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "preservation_checks": [
+    {
+      "manifest": "results/final/original_hashes.json",
+      "files": 342,
+      "unchanged": true
+    },
+    {
+      "manifest": "results/final/training_input_hashes.json",
+      "files": 15,
+      "unchanged": true
+    }
+  ],
+  "word_comparison_tables": 80,
+  "verbatim_word_outputs_checked": 240,
+  "publishable_folder_has_no_git_repository": true
+}

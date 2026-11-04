@@ -1,0 +1,151 @@
+{
+  "passed": true,
+  "runs": 18,
+  "seconds": 115.2069618999958,
+  "checks": [
+    {
+      "run": "15m_large_seed123",
+      "perplexity": 61.308576069898336,
+      "recorded_perplexity": 61.308576069898336,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "15m_large_seed42",
+      "perplexity": 64.40190416676539,
+      "recorded_perplexity": 64.40190416676539,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "15m_medium_seed123",
+      "perplexity": 65.79983987501564,
+      "recorded_perplexity": 65.79983987501564,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "15m_medium_seed42",
+      "perplexity": 65.28790139098597,
+      "recorded_perplexity": 65.28790139098597,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "15m_small_seed123",
+      "perplexity": 79.15180946242748,
+      "recorded_perplexity": 79.15180946242748,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "15m_small_seed42",
+      "perplexity": 78.22113461995959,
+      "recorded_perplexity": 78.22113461995959,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "30m_large_seed123",
+      "perplexity": 57.88553328401527,
+      "recorded_perplexity": 57.88553328401527,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "30m_large_seed42",
+      "perplexity": 58.89718433337077,
+      "recorded_perplexity": 58.89718433337077,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "30m_medium_seed123",
+      "perplexity": 63.441012216992235,
+      "recorded_perplexity": 63.441012216992235,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "30m_medium_seed42",
+      "perplexity": 65.49803550472798,
+      "recorded_perplexity": 65.49803550472798,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "30m_small_seed123",
+      "perplexity": 75.84734440223036,
+      "recorded_perplexity": 75.84734440223036,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "30m_small_seed42",
+      "perplexity": 75.04274323136144,
+      "recorded_perplexity": 75.04274323136144,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "50m_large_seed123",
+      "perplexity": 57.64515780490899,
+      "recorded_perplexity": 57.64515780490899,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "50m_large_seed42",
+      "perplexity": 59.23677061851126,
+      "recorded_perplexity": 59.23677061851126,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "50m_medium_seed123",
+      "perplexity": 62.47288805037573,
+      "recorded_perplexity": 62.47288805037573,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "50m_medium_seed42",
+      "perplexity": 63.37116810434958,
+      "recorded_perplexity": 63.37116810434958,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "50m_small_seed123",
+      "perplexity": 71.31392057555013,
+      "recorded_perplexity": 71.31392057555013,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    },
+    {
+      "run": "50m_small_seed42",
+      "perplexity": 75.26722606461405,
+      "recorded_perplexity": 75.26722606461405,
+      "relative_difference": 0.0,
+      "tokens": 128685,
+      "first_saved_prompt_reproduced_exactly": true
+    }
+  ]
+}

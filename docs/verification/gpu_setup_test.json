@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "tests": [
+    {
+      "check": "gpu_pip_check",
+      "exit_code": 0,
+      "seconds": 0.8033693000033963
+    },
+    {
+      "check": "all_assets_install",
+      "exit_code": 0,
+      "seconds": 17.811438299977453
+    },
+    {
+      "check": "gpu_smoke",
+      "exit_code": 0,
+      "seconds": 28.73938270000508
+    },
+    {
+      "check": "gpu_full_evaluation",
+      "exit_code": 0,
+      "seconds": 8.799756099993829
+    },
+    {
+      "check": "gpu_full_training",
+      "exit_code": 0,
+      "seconds": 153.2659990999964
+    },
+    {
+      "check": "gpu_retrained_evaluation",
+      "exit_code": 0,
+      "seconds": 6.846169399999781
+    }
+  ]
+}
