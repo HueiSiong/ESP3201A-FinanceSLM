@@ -4,7 +4,7 @@ A financial narrative-completion model pretrained from scratch. This repository 
 
 The selected checkpoint has **49,737,600 parameters**, validation perplexity **53.22**, and full test perplexity **57.65**. Generated financial claims can be inconsistent or invented. This is a research prototype, not a financial adviser or instruction-tuned chatbot.
 
-**Professor / evaluating AI agent:** start with [EVALUATE.md](EVALUATE.md) for complete CPU setup commands, expected results and evidence locations. Agent operating instructions are in [AGENTS.md](AGENTS.md). Model weights are attached to [release v1.0.0](https://github.com/HueiSiong/FinanceSLM/releases/tag/v1.0.0).
+**First:** start with [EVALUATE.md](EVALUATE.md) for complete CPU setup commands, expected results and evidence locations. Agent operating instructions are in [AGENTS.md](AGENTS.md). Model weights are attached to [release v1.0.0](https://github.com/HueiSiong/FinanceSLM/releases/tag/v1.0.0).
 
 ## Fast start: saved model, no retraining
 
@@ -47,7 +47,7 @@ If the repository is private, or you downloaded assets manually, place the relea
 
 The default `demo` asset is about 185 MB. Every archive and extracted file is checked against `assets.json`. Downloading this file needs no training. An HTTP 404 means the named release/asset is not published yet or is inaccessible; check the repository name and the `v1.0.0` release. Installation is idempotent and rejects corrupt or mismatched files.
 
-## What the professor/AI agent should run
+## What needs to be run
 
 1. Install Python 3.11, the chosen PyTorch wheel, and `requirements.lock.txt` as above.
 2. Fetch the default release asset.
