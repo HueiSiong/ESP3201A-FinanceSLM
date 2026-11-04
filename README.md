@@ -23,7 +23,7 @@ py -3.11 -m venv .venv
 
 For NVIDIA GPU support, use `https://download.pytorch.org/whl/cu118` instead of `/cpu` in the PyTorch installation command. A compatible NVIDIA driver is required; the wheel includes its CUDA runtime. Do not install both wheel variants into the same environment. Official version-specific instructions: https://pytorch.org/get-started/previous-versions/#v231
 
-On Linux, use `python3.11 -m venv .venv` and `.venv/bin/python` instead of the Windows executable path. CPU dependencies are pinned with Windows-only package markers where needed. **The local verification was on Windows; Linux CI is provided but was not run on GitHub before publication. macOS is not claimed as tested.**
+On Linux, use `python3.11 -m venv .venv` and `.venv/bin/python` instead of the Windows executable path. CPU dependencies are pinned with Windows-only package markers where needed. **Fresh public-download verification passed on Windows and GitHub Actions Ubuntu Linux. See [publication verification](docs/PUBLICATION_VERIFICATION.md) for the tested commit, results and workflow links. macOS is not claimed as tested.**
 
 ### Obtain model weights
 

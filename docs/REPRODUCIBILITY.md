@@ -1,5 +1,7 @@
 # Local reproducibility verification
 
+This is the historical pre-publication record. See [PUBLICATION_VERIFICATION.md](PUBLICATION_VERIFICATION.md) for the completed public GitHub and Linux checks.
+
 Verified on **31 October 2026**, before publication. No GitHub repository, push or release was created by this work. The package is ready for the owner to publish using the separate `publication/PUBLISHING_GUIDE.md` in the original workspace.
 
 ## Test environment and isolation

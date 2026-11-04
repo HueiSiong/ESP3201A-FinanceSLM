@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "verified_utc": "2026-11-04T17:26:50.130123+00:00",
+  "repository": "https://github.com/HueiSiong/FinanceSLM",
+  "release": "https://github.com/HueiSiong/FinanceSLM/releases/tag/v1.0.0",
+  "tested_commit": "cc4635dfbf08c4b36d3e37bb1bf929260420d093",
+  "windows_cpu_perplexity": 57.64512083695659,
+  "target_tokens": 128685,
+  "public_release_archives_verified": 5,
+  "public_download_requires_authentication": false,
+  "linux_model_ci_url": "https://github.com/HueiSiong/FinanceSLM/actions/runs/41876271309",
+  "linux_model_ci_result": "success",
+  "source_ci_url": "https://github.com/HueiSiong/FinanceSLM/actions/runs/41875344671",
+  "notes": [
+    "Fresh Windows clone and environment; all five archives downloaded without credentials.",
+    "Linux model-check fetched the default checkpoint and ran smoke/full evaluation on ubuntu-24.04.",
+    "Earlier local GPU/data-rebuild/training tests are separate from these publication checks."
+  ],
+  "linux_cpu_perplexity": 57.645140398924575,
+  "linux_target_tokens": 128685
+}
