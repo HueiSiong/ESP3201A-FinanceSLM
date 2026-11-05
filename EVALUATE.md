@@ -7,13 +7,13 @@ Start here for setup and evaluation. Read AGENTS.md for operating instructions a
 Install Git and 64-bit Python 3.11 first. Use an official Python Software Foundation distribution; see docs/SETUP_VERIFICATION.md if Windows blocks an unsigned venv launcher. Start in a directory where a new FinanceSLM folder can be created:
 
 ```powershell
-git clone https://github.com/HueiSiong/FinanceSLM.git
-cd FinanceSLM
+git clone https://github.com/HueiSiong/ESP3201A-FinanceSLM.git
+cd ESP3201A-FinanceSLM
 py -3.11 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
 .\.venv\Scripts\python.exe -m pip install -r requirements.lock.txt
 .\.venv\Scripts\python.exe -m pip check
-.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM
 .\.venv\Scripts\python.exe tests.py
 .\.venv\Scripts\python.exe research.py smoke --device cpu
 .\.venv\Scripts\python.exe research.py evaluate --device cpu
@@ -24,13 +24,13 @@ py -3.11 -m venv .venv
 Install Git, Python 3.11 and its venv support using the system's normal installation process. Then:
 
 ```bash
-git clone https://github.com/HueiSiong/FinanceSLM.git
-cd FinanceSLM
+git clone https://github.com/HueiSiong/ESP3201A-FinanceSLM.git
+cd ESP3201A-FinanceSLM
 python3.11 -m venv .venv
 .venv/bin/python -m pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
 .venv/bin/python -m pip install -r requirements.lock.txt
 .venv/bin/python -m pip check
-.venv/bin/python artifacts.py fetch --repo HueiSiong/FinanceSLM
+.venv/bin/python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM
 .venv/bin/python tests.py
 .venv/bin/python research.py smoke --device cpu
 .venv/bin/python research.py evaluate --device cpu
@@ -66,8 +66,8 @@ For three fresh continuations with full-test perplexity beneath each, follow [do
 | Setup protocol and historical verification logs | `docs/REPRODUCIBILITY.md`, `docs/verification/` |
 | Latest Windows environment verification summary | `docs/SETUP_VERIFICATION.md` |
 
-For all experimental checkpoint groups and the 164 raw SEC HTML snapshots, use `python artifacts.py fetch --repo HueiSiong/FinanceSLM --group all` with the environment's Python. This downloads roughly 2.4 GB. README.md explains individual groups, per-model evaluation, optional retraining and rebuilding the corpus. The original sources are HTML filings, not PDF files.
+For all experimental checkpoint groups and the 164 raw SEC HTML snapshots, use `python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group all` with the environment's Python. This downloads roughly 2.4 GB. README.md explains individual groups, per-model evaluation, optional retraining and rebuilding the corpus. The original sources are HTML filings, not PDF files.
 
 ## Suggested instruction for an evaluating agent
 
-> Clone https://github.com/HueiSiong/FinanceSLM and follow EVALUATE.md and AGENTS.md. Create a fresh Python 3.11 environment, install the pinned CPU dependencies, fetch and verify the default release checkpoint, run the regression tests, smoke test and full evaluation. Report the actual full-test perplexity and target-token count, inspect the saved same-prompt comparisons and research limitations, and preserve your logs under work/. Do not start training unless I explicitly request a replication experiment.
+> Clone https://github.com/HueiSiong/ESP3201A-FinanceSLM and follow EVALUATE.md and AGENTS.md. Create a fresh Python 3.11 environment, install the pinned CPU dependencies, fetch and verify the default release checkpoint, run the regression tests, smoke test and full evaluation. Report the actual full-test perplexity and target-token count, inspect the saved same-prompt comparisons and research limitations, and preserve your logs under work/. Do not start training unless I explicitly request a replication experiment.

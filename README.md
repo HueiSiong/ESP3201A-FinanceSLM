@@ -4,7 +4,7 @@ A financial narrative-completion model pretrained from scratch. This repository 
 
 The selected checkpoint has **49,737,600 parameters**, validation perplexity **53.22**, and full test perplexity **57.65**. Generated financial claims can be inconsistent or invented. This is a research prototype, not a financial adviser or instruction-tuned chatbot.
 
-**First:** start with [EVALUATE.md](EVALUATE.md) for complete CPU setup commands, expected results and evidence locations. Agent operating instructions are in [AGENTS.md](AGENTS.md). Model weights are attached to [release v1.0.0](https://github.com/HueiSiong/FinanceSLM/releases/tag/v1.0.0).
+**First:** start with [EVALUATE.md](EVALUATE.md) for complete CPU setup commands, expected results and evidence locations. Agent operating instructions are in [AGENTS.md](AGENTS.md). Model weights are attached to [release v1.0.0](https://github.com/HueiSiong/ESP3201A-FinanceSLM/releases/tag/v1.0.0).
 
 **Latest comparison interface:** [live setup and walkthrough](docs/LIVE_COMPARISON.md). Run `compare_app.py` for three generated passages side by side with fresh full-test scores. The original `app.py` remains the smaller, single-model demo.
 
@@ -15,8 +15,8 @@ Use **64-bit Python 3.11**. A CPU is sufficient for setup/evaluation; an NVIDIA 
 After cloning this repository, open a terminal in its root. On Windows PowerShell:
 
 ```powershell
-git clone https://github.com/HueiSiong/FinanceSLM.git
-cd FinanceSLM
+git clone https://github.com/HueiSiong/ESP3201A-FinanceSLM.git
+cd ESP3201A-FinanceSLM
 py -3.11 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cpu
 .\.venv\Scripts\python.exe -m pip install -r requirements.lock.txt
@@ -32,7 +32,7 @@ On Linux, use `python3.11 -m venv .venv` and `.venv/bin/python` instead of the W
 Weights are GitHub **Release assets**, not ordinary Git files. Download the default checkpoint:
 
 ```powershell
-.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM
 .\.venv\Scripts\python.exe research.py smoke --device cpu
 .\.venv\Scripts\python.exe app.py --device cpu --open-browser
 ```
@@ -69,9 +69,9 @@ All eight local verification suites passed again on 5 November 2026 using fresh 
 After the Python setup above, install the three existing model groups once and start the comparison interface:
 
 ```powershell
-.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM --group 15m
-.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM --group 30m
-.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM --group 50m
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 15m
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 30m
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 50m
 .\.venv\Scripts\python.exe compare_app.py --open-browser
 ```
 
@@ -98,10 +98,10 @@ The explorer contains all **360 saved continuations**. It changes one comparison
 ## Optional models and raw reports
 
 ```powershell
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 15m
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 30m
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 50m
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group raw
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 15m
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 30m
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 50m
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group raw
 ```
 
 Use the virtual environment's Python in these and subsequent commands. Each model-size group contains six validation-selected checkpoints (three datasets × two seeds). Available models appear in the original single-model UI after restarting it. That UI catalog selects a seed by validation for each combination; for matched-seed comparisons use `compare_app.py`, the offline explorer or explicit checkpoint paths. The optional raw asset contains the 164 original HTML reports. `--group all` installs all five groups and requires roughly 2.4 GB of download space plus extracted files.
@@ -135,7 +135,7 @@ To repeat the matrix, run each `--model` in `15m,30m,50m`, each `--budget` in `s
 ## Rebuild the corpus (optional)
 
 ```powershell
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group raw
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group raw
 python curate.py --output-dir work/rebuilt-data --audit-dir work/rebuilt-audit
 ```
 

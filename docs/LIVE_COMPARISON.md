@@ -9,9 +9,9 @@ Follow the Python 3.11, virtual environment and pinned dependency setup in [READ
 From the repository root, using the virtual environment's Python:
 
 ```text
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 15m
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 30m
-python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 50m
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 15m
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 30m
+python artifacts.py fetch --repo HueiSiong/ESP3201A-FinanceSLM --group 50m
 python tests_comparison.py
 python compare_app.py --open-browser
 ```
