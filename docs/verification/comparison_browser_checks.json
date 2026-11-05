@@ -1,0 +1,98 @@
+{
+  "passed": true,
+  "device": "cuda",
+  "all_seven_presets": [
+    {
+      "preset": "Model size",
+      "outputs": 3,
+      "scores": [
+        64.4019,
+        58.8972,
+        59.2368
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    },
+    {
+      "preset": "Training data",
+      "outputs": 3,
+      "scores": [
+        78.2211,
+        65.2879,
+        64.4019
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    },
+    {
+      "preset": "Temperature",
+      "outputs": 3,
+      "scores": [
+        64.4019,
+        64.4019,
+        64.4019
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    },
+    {
+      "preset": "Top-K",
+      "outputs": 3,
+      "scores": [
+        64.4019,
+        64.4019,
+        64.4019
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    },
+    {
+      "preset": "Generation seed",
+      "outputs": 3,
+      "scores": [
+        64.4019,
+        64.4019,
+        64.4019
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    },
+    {
+      "preset": "Maximum new tokens",
+      "outputs": 3,
+      "scores": [
+        64.4019,
+        64.4019,
+        64.4019
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    },
+    {
+      "preset": "Training seed",
+      "outputs": 2,
+      "scores": [
+        64.4019,
+        61.3086
+      ],
+      "full_test_tokens": 128685,
+      "all_within_one_percent": true
+    }
+  ],
+  "themes": {
+    "dark": {
+      "checked_elements": 85,
+      "minimum_contrast": 5.955174201519946
+    },
+    "light": {
+      "checked_elements": 85,
+      "minimum_contrast": 5.955174201519946
+    }
+  },
+  "no_downloads_required": true,
+  "stale_results_cleared": true,
+  "repeatable_generation": true,
+  "text_only_clears_scores": true,
+  "projector_no_horizontal_overflow": true,
+  "javascript_errors": []
+}

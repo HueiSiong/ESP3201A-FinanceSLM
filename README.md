@@ -6,6 +6,8 @@ The selected checkpoint has **49,737,600 parameters**, validation perplexity **5
 
 **First:** start with [EVALUATE.md](EVALUATE.md) for complete CPU setup commands, expected results and evidence locations. Agent operating instructions are in [AGENTS.md](AGENTS.md). Model weights are attached to [release v1.0.0](https://github.com/HueiSiong/FinanceSLM/releases/tag/v1.0.0).
 
+**Latest comparison interface:** [live setup and walkthrough](docs/LIVE_COMPARISON.md). Run `compare_app.py` for three generated passages side by side with fresh full-test scores. The original `app.py` remains the smaller, single-model demo.
+
 ## Fast start: saved model, no retraining
 
 Use **64-bit Python 3.11**. A CPU is sufficient for setup/evaluation; an NVIDIA GPU is optional for inference. CUDA/BF16 hardware is required for the original accelerated training recipe. The recorded GPU was an RTX 3060 Ti (8GB). Do not copy an old virtual environment from another computer.
@@ -54,6 +56,7 @@ The default `demo` asset is about 185 MB. Every archive and extracted file is ch
 3. Run `python tests.py` and `python research.py smoke --device cpu` using the virtual environment's Python.
 4. Run `python research.py evaluate --device cpu` for the full saved-model test score, or `--device cuda` on a GPU setup.
 5. Run `python app.py --open-browser` to use the interface.
+6. For the latest side-by-side interface, install the three model groups and run `python compare_app.py --open-browser` as described below.
 
 Smoke testing verifies input/evidence checksums, checkpoint/tokenizer pairing, tokenizer round trip, repeatable same-device sampling, and numerical logits against a reference. Its 1,024-token perplexity is **partial**, not the published full score. Full evaluation scores **128,685 target tokens** across the fixed test documents; use the actual result's token count as authoritative. It compares the saved asset's score with its recorded score at a 1% relative tolerance. Numerical equality is not promised across every OS/GPU/library combination. A freshly retrained checkpoint is not falsely required to equal the historical checkpoint.
 
@@ -101,7 +104,7 @@ python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 50m
 python artifacts.py fetch --repo HueiSiong/FinanceSLM --group raw
 ```
 
-Use the virtual environment's Python in these and subsequent commands. Each model-size group contains six validation-selected checkpoints (three datasets × two seeds). Available comparison models appear in the UI after restarting it. The UI catalog selects a seed by validation for each combination; for rigorously matched-seed comparisons use the offline explorer or explicit checkpoint paths. The optional raw asset contains the 164 original HTML reports. `--group all` installs all five groups and requires roughly 2.4 GB of download space plus extracted files.
+Use the virtual environment's Python in these and subsequent commands. Each model-size group contains six validation-selected checkpoints (three datasets × two seeds). Available models appear in the original single-model UI after restarting it. That UI catalog selects a seed by validation for each combination; for matched-seed comparisons use `compare_app.py`, the offline explorer or explicit checkpoint paths. The optional raw asset contains the 164 original HTML reports. `--group all` installs all five groups and requires roughly 2.4 GB of download space plus extracted files.
 
 ## Re-evaluate another saved model
 
