@@ -11,3 +11,5 @@ Frozen-model evaluation is distinct from stochastic training reproducibility. Do
 The original reports are HTML, not PDF. The model is a financial text-completion prototype and its generated numbers are unverified. Offline comparison files contain exact saved outputs, not newly generated or edited prose.
 
 No publication, messages, paid services, or automatic retraining are necessary for verification.
+
+For live side-by-side comparisons, read docs/LIVE_COMPARISON.md. Use `python artifacts.py fetch --repo HueiSiong/FinanceSLM --group 15m` and repeat for `30m` and `50m`, then start `python compare_app.py --device cpu` (port 7863; CUDA is optional). Run `python tests_comparison.py` for the interface regression checks. The interface verifies frozen evidence and checkpoint hashes, displays generated passages with fresh full-test scores, and writes only under `work/comparison/`. Sampling settings change text but do not change teacher-forced perplexity for the same checkpoint. Preserve the original README wording when making future documentation updates.

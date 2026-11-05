@@ -61,7 +61,28 @@ See [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md) for exact tests and limit
 
 All eight local verification suites passed again on 5 November 2026 using fresh PSF-signed Python environments. See [the latest Windows setup verification](docs/SETUP_VERIFICATION.md).
 
+## Live side-by-side comparison
+
+After the Python setup above, install the three existing model groups once and start the comparison interface:
+
+```powershell
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM --group 15m
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM --group 30m
+.\.venv\Scripts\python.exe artifacts.py fetch --repo HueiSiong/FinanceSLM --group 50m
+.\.venv\Scripts\python.exe compare_app.py --open-browser
+```
+
+Open **http://127.0.0.1:7863** while the terminal is running. On Windows, `launch_comparison.cmd` starts this interface after setup. On Linux, use `.venv/bin/python` in the commands. Add `--device cpu` to force CPU, or `--device cuda` for an NVIDIA GPU installation. The GPU model is detected automatically; it is not restricted to the original RTX 3060 Ti.
+
+Choose a comparison and click **Run comparison: text + full-test scores**. The exact values, fixed controls, checkpoint steps and source reports are visible before running. Each column shows the same starting words followed by actual newly generated text and its fresh test perplexity. All seven comparisons are available: model size, training data, temperature, top-K, generation seed, maximum new tokens and training seed. Only two training seeds exist, so that mode shows two genuine outputs.
+
+The three model groups total approximately **2.11 GB of downloads**, plus approximately **2.27 GB extracted**. They are downloaded once, not every time a comparison runs. Full scoring is slower on CPU; **Generate text only (faster)** skips scoring. Logs stay in `work/comparison/`; no output download is required to see the results. The original single-model interface remains available through `app.py` on port 7860.
+
+See [the live comparison guide](docs/LIVE_COMPARISON.md) for a walkthrough, expected scores, recovery commands and interpretation. The [comparison verification record](docs/COMPARISON_VERIFICATION.md) describes what was tested.
+
 ## Same-prompt comparison, no Python needed
+
+For **newly generated text side by side, with fresh full-test scores beneath each passage**, use the [live comparison interface](docs/LIVE_COMPARISON.md). The offline files below contain saved results.
 
 Open [the offline HTML explorer](docs/comparison/Same_Prompt_Comparison.html) from the downloaded repository in your browser. GitHub's file preview does not execute HTML: download it or open it locally.
 

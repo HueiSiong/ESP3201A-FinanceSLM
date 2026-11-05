@@ -1,6 +1,6 @@
 # Evaluate FinanceSLM
 
-This is the entry point for the professor and their evaluating AI agent. Read AGENTS.md for operating instructions and README.md for the experiment, optional training and full data rebuild. The public repository and release assets require no GitHub account or hosted-model API key.
+Start here for setup and evaluation. Read AGENTS.md for operating instructions and README.md for the experiment, optional training and full data rebuild. The public repository and release assets require no GitHub account or hosted-model API key.
 
 ## Windows PowerShell: saved-model verification
 
@@ -48,6 +48,10 @@ The default weight download is approximately 185 MB. All checksums are verified 
 The smoke perplexity uses only 1,024 tokens and is not comparable to the full test score. CPU and GPU sampled words need not match. The model completes financial prose; it is not instruction-tuned, and generated amounts are unverified.
 
 To inspect the interface, run `.\.venv\Scripts\python.exe app.py --device cpu --open-browser` on Windows, or `.venv/bin/python app.py --device cpu` on Linux. It serves http://127.0.0.1:7860 while the process is running. In a headless agent environment, complete the command-line evaluation first; browser access is optional.
+
+## Run the live comparison interface
+
+For three fresh continuations with full-test perplexity beneath each, follow [docs/LIVE_COMPARISON.md](docs/LIVE_COMPARISON.md). Install release groups `15m`, `30m` and `50m`, then run `python compare_app.py --open-browser` using your virtual environment's Python. It serves port 7863 and saves logs under `work/comparison/`. This requires no training. The default `demo` download alone supplies the single-model interface, not these matched-seed comparisons.
 
 ## Inspect the evidence
 
