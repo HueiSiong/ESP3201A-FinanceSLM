@@ -49,7 +49,7 @@ If the repository is private, or you downloaded assets manually, place the relea
 
 The default `demo` asset is about 185 MB. Every archive and extracted file is checked against `assets.json`. Downloading this file needs no training. An HTTP 404 means the named release/asset is not published yet or is inaccessible; check the repository name and the `v1.0.0` release. Installation is idempotent and rejects corrupt or mismatched files.
 
-## What needs to be run
+## To be ran
 
 1. Install Python 3.11, the chosen PyTorch wheel, and `requirements.lock.txt` as above.
 2. Fetch the default release asset.
